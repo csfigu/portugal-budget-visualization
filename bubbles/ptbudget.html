@@ -59,14 +59,14 @@
 				
 				$(domnode).tooltip({ delay: 100, bodyHandler: getTooltip });
 			};
-			
+		
 			new OpenSpending.Aggregator({
 				apiUrl: 'http://sandbox.openspending.org/api',
-				dataset: 'bg-budget-expenses',
+				dataset: 'public_administration_contracts_for_portugal',
 				drilldowns: ['direction', 'program', 'type'],
 				//cuts: ['year:2011'],
 				//localApiCache: 'aggregate.json',
-				rootNodeLabel: 'Бюджет на Република България',
+				rootNodeLabel: 'Contratos por Ajuste Directo em Portugal',
 				//breakdown: 'dataset',
 				callback: function(data) {
 					

@@ -27,8 +27,7 @@
 		{
         "column": "name_receiver", 
         "datatype": "string", 
-        "name": "label"
-} ],
+        "name": "label"} ],
 		"type": "entity",
 		"description": "Paid to",
 		"label": "Receiver"
@@ -48,7 +47,7 @@
       "description": "",
       "datatype": "date"
 		},
-    "idAjusteDirecto": { 
+	"idAjusteDirecto": { 
       "default_value": "",
       "description": "",
       "column": "idAjusteDirecto",
@@ -56,113 +55,114 @@
       "datatype": "string",
       "type": "value"
 	}
-},
+ }
  
-     "ap1": {
+     "section": {
       "fields": [
-        {"column": "type_spender", "datatype": "string", "name": "label"}
+        {"column": "section", "datatype": "string", "name": "label"}
       ],
-      "label": "Administração Pública",
+      "label": "Region",
       "type": "classifier",
-      "description": "Administração Pública",
+      "description": "??????? ???????????",
       "taxonomy": "pt-budget:level:1"
     },
-    "ap2": {
+    "direction": {
       "fields": [
-        {"column": "type_spender2", "datatype": "string", "name": "label"}
+        {"column": "direction", "datatype": "string", "name": "label"}
       ],
-      "label": "Tipo de Instituição",
+      "label": "??????",
       "type": "classifier",
-      "description": "Tipo de Instituição",
+      "description": "??????? ???????????",
       "taxonomy": "pt-budget:level:2"
     },
-    "ap3": {
+    "program": {
       "fields": [
-        {"column": "name_spender", "datatype": "string", "name": "label"}
+        {"column": "program", "datatype": "string", "name": "label"}
       ],
-      "label": "Instituição Pública",
+      "label": "????????",
       "type": "classifier",
-      "description": "Nome da Instituição",
+      "description": "",
       "taxonomy": "pt-budget:level:3"
     },
-
-    "nut1": {
+    "type": {
       "fields": [
-        {"column": "region1", "datatype": "string", "name": "label"}
+        {"column": "type", "datatype": "string", "name": "label" }
       ],
-      "label": "Region NUT1",
+      "label": "??? ??????",
       "type": "classifier",
-      "description": "NUT1",
-      "taxonomy": "pt-region:level:1"
+      "description": "",
+      "taxonomy": "pt-budget:level:4"
     },
-    "nut2": {
-      "fields": [
-        {"column": "region2", "datatype": "string", "name": "label"}
-      ],
-      "label": "Region NUT2",
-      "type": "classifier",
-      "description": "NUT2",
-      "taxonomy": "pt-region:level:2"
+    "flow": {
+      "column": "plusminus",
+      "label": "Cash flow: income or expenditure",
+      "type": "value",
+      "description": ""
     },
-    "nut3": {
-      "fields": [
-        {"column": "region3", "datatype": "string", "name": "label"}
-      ],
-      "label": "Region NUT3",
-      "type": "classifier",
-      "description": "NUT3",
-      "taxonomy": "pt-region:level:3"
-    },
-
   
   "views": [
     {
       "entity": "dataset",
-      "label": "Contratos por tipo de instituição",
+      "label": "???????",
       "name": "default",
       "dimension": "dataset",
-      "breakdown": "type_spender2",
+      "breakdown": "section",
       "filters": {"name": "pt-budget"},
+      "view_filters": {"flow": "???????"}
     },
     {
       "entity": "classifier",
-      "label": "Contratos por instituição",
+      "label": "??????? ???????????",
       "name": "default",
-      "dimension": "type_spender2",
-      "breakdown": "name_spender",
+      "dimension": "section",
+      "breakdown": "direction",
+      "filters": {"taxonomy": "pt-budget:level:1" },
+      "view_filters": {"flow": "???????"}
+    },
+    {
+      "entity": "classifier",
+      "label": "??????? ???????????",
+      "name": "default",
+      "dimension": "direction",
+      "breakdown": "program",
       "filters": {"taxonomy": "pt-budget:level:2" },
+      "view_filters": {"flow": "???????"}
     },
     {
       "entity": "classifier",
       "label": "?????? ? ???????????",
       "name": "default",
-      "dimension": "name_spender",
-      "breakdown": "name_receiver",
+      "dimension": "program",
+      "breakdown": "type",
       "filters": {"taxonomy": "pt-budget:level:3" },
+      "view_filters": {"flow": "???????"}
     },    
     {
       "entity": "dataset",
-      "label": "Contratos por NUT2",
-      "name": "region",
+      "label": "???????",
+      "name": "expenditure",
       "dimension": "dataset",
-      "breakdown": "region2",
-      "filters": {"name": "pt-region"},
+      "breakdown": "direction",
+      "filters": {"name": "pt-budget"},
+      "view_filters": {"flow": "???????"}
     },
     {
       "entity": "classifier",
-      "label": "Contratos por NUT3",
-      "name": "region",
-      "dimension": "region2",
-      "breakdown": "region3",
-      "filters": {"taxonomy": "pt-region:level:2" },
+      "label": "??????? ???????????",
+      "name": "expenditure",
+      "dimension": "direction",
+      "breakdown": "program",
+      "filters": {"taxonomy": "pt-budget:level:2" },
+      "view_filters": {"flow": "???????"}
     },
     {
       "entity": "classifier",
-      "label": "Onde se paga a alguém",
-      "name": "region",
-      "dimension": "region3",
-      "breakdown": "name_receiver",
-      "filters": {"taxonomy": "pt-region:level:3" },
+      "label": "?????? ? ???????????",
+      "name": "expenditure",
+      "dimension": "program",
+      "breakdown": "type",
+      "filters": {"taxonomy": "pt-budget:level:3" },
+      "view_filters": {"flow": "???????"}
     }
 
   ]
