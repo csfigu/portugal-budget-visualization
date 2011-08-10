@@ -1,17 +1,17 @@
-Визуализация на Републиканския бюджет с помоща на OpenSpending платформата.
+Visualização dos ajustes directos com a ajuda da plataforma OpenSpending.
 
-Данните, които се добавят са достъпни от:
-http://ckan.net/package/bg-budget
+Dados estão disponíveis em:
+http://ckan.net/package/public_administration_contracts_for_portugal
 
-Информация за OpenSpending платформата
+Plataforma de informação OpenSpending
 http://wiki.openspending.org/Main_Page
 
-Настоящ резултати
-1. Визуализация на приходната и разходната част:
+resultados atuais
+1. Visualização dos contratos:
 http://sandbox.openspending.org/
 
-2. Визуализация чрез балони
-http://peio.org/bgbudget/bubbles/bgbudget.html
+2. Visualização por balões
+http://governarportugal.org/bubbles/ptbudget.html
 
-Цел. Нещо подобно на: 
+Propósito. Algo como:
 http://wheredoesmymoneygo.org/
