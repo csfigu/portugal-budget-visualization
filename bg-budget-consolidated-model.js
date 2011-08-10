@@ -1,151 +1,169 @@
 {
-  "dataset": {
-    "model_rev": 1,
-    "name": "bg-budget",
-    "label": "Бюджет на Република България 2011 година",
-    "description": "Визуализация на Бюджета на Република България за 2011 година",
-    "currency": "BGN"
+"dataset": {
+    "name": "public_administration_contracts_for_portugal",
+    "unique_keys": ["idAjusteDirecto"],     
+    "label": "Public administration contracts for Portugal",
+    "description": "Public administration contracts for Portugal",
+    "currency": "EUR",
+    "temporal_granularity": "year"
   },
-  "mapping": {
-    "from": {
-      "fields": [
-        {"constant": "Българското общество", "name": "label", "datatype": "constant"}
-      ],
-      "type": "entity",
-      "description": "The entity that the money was paid from",
-      "label": "Paid from"
-    },
-    "to": {
-      "fields": [
-        {"constant": "Правителството на РБългария", "name": "label", "datatype": "constant"}
-      ],
-      "type": "entity",
-      "description": "The entity that the money was paid to",
-      "label": "Paid to"
-    },
+  
+"mapping": {
+    
+	"from": {
+		"fields": [  
+		{
+		"column": "name_spender", 
+		"name": "label", 
+		"datatype": "string"
+		}  		],
+		"type": "entity",
+		"description": "Pay from ",
+		"label": "Payer"
+			},
+    
+	"to": {
+		"fields": [ 
+		{
+        "column": "name_receiver", 
+        "datatype": "string", 
+        "name": "label"} ],
+		"type": "entity",
+		"description": "Paid to",
+		"label": "Receiver"
+		},
+	"amount": {
+		"default_value": "",
+		"description": "",
+		"column": "price_amount_contract",
+		"label": "",
+		"datatype": "float",
+		"type": "value"
+		},
     "time": {
+      "column": "date_contract",
       "type": "value",
-      "label": "Budget year",
+      "label": "year",
       "description": "",
-      "column": "year",
       "datatype": "date"
-    },
-    "amount": {
+		},
+	"idAjusteDirecto": { 
       "default_value": "",
       "description": "",
-      "column": "amount",
+      "column": "idAjusteDirecto",
       "label": "",
-      "datatype": "float",
+      "datatype": "string",
       "type": "value"
-    },
-    "section": {
+	}
+ }
+ 
+     "section": {
       "fields": [
         {"column": "section", "datatype": "string", "name": "label"}
       ],
-      "label": "Раздел",
+      "label": "Region",
       "type": "classifier",
-      "description": "Основни направления",
-      "taxonomy": "bg-budget:level:1"
+      "description": "??????? ???????????",
+      "taxonomy": "pt-budget:level:1"
     },
     "direction": {
       "fields": [
         {"column": "direction", "datatype": "string", "name": "label"}
       ],
-      "label": "Раздел",
+      "label": "??????",
       "type": "classifier",
-      "description": "Основни направления",
-      "taxonomy": "bg-budget:level:2"
+      "description": "??????? ???????????",
+      "taxonomy": "pt-budget:level:2"
     },
     "program": {
       "fields": [
         {"column": "program", "datatype": "string", "name": "label"}
       ],
-      "label": "Програма",
+      "label": "????????",
       "type": "classifier",
       "description": "",
-      "taxonomy": "bg-budget:level:3"
+      "taxonomy": "pt-budget:level:3"
     },
     "type": {
       "fields": [
         {"column": "type", "datatype": "string", "name": "label" }
       ],
-      "label": "Тип разход",
+      "label": "??? ??????",
       "type": "classifier",
       "description": "",
-      "taxonomy": "bg-budget:level:4"
+      "taxonomy": "pt-budget:level:4"
     },
     "flow": {
       "column": "plusminus",
       "label": "Cash flow: income or expenditure",
       "type": "value",
       "description": ""
-    }
-  },
+    },
+  
   "views": [
     {
       "entity": "dataset",
-      "label": "Приходи",
+      "label": "???????",
       "name": "default",
       "dimension": "dataset",
       "breakdown": "section",
-      "filters": {"name": "bg-budget"},
-      "view_filters": {"flow": "Приходи"}
+      "filters": {"name": "pt-budget"},
+      "view_filters": {"flow": "???????"}
     },
     {
       "entity": "classifier",
-      "label": "Основни направления",
+      "label": "??????? ???????????",
       "name": "default",
       "dimension": "section",
       "breakdown": "direction",
-      "filters": {"taxonomy": "bg-budget:level:1" },
-      "view_filters": {"flow": "Приходи"}
+      "filters": {"taxonomy": "pt-budget:level:1" },
+      "view_filters": {"flow": "???????"}
     },
     {
       "entity": "classifier",
-      "label": "Основни направления",
+      "label": "??????? ???????????",
       "name": "default",
       "dimension": "direction",
       "breakdown": "program",
-      "filters": {"taxonomy": "bg-budget:level:2" },
-      "view_filters": {"flow": "Приходи"}
+      "filters": {"taxonomy": "pt-budget:level:2" },
+      "view_filters": {"flow": "???????"}
     },
     {
       "entity": "classifier",
-      "label": "Видове в направление",
+      "label": "?????? ? ???????????",
       "name": "default",
       "dimension": "program",
       "breakdown": "type",
-      "filters": {"taxonomy": "bg-budget:level:3" },
-      "view_filters": {"flow": "Приходи"}
+      "filters": {"taxonomy": "pt-budget:level:3" },
+      "view_filters": {"flow": "???????"}
     },    
     {
       "entity": "dataset",
-      "label": "Разходи",
+      "label": "???????",
       "name": "expenditure",
       "dimension": "dataset",
       "breakdown": "direction",
-      "filters": {"name": "bg-budget"},
-      "view_filters": {"flow": "Разходи"}
+      "filters": {"name": "pt-budget"},
+      "view_filters": {"flow": "???????"}
     },
     {
       "entity": "classifier",
-      "label": "Основни направления",
+      "label": "??????? ???????????",
       "name": "expenditure",
       "dimension": "direction",
       "breakdown": "program",
-      "filters": {"taxonomy": "bg-budget:level:2" },
-      "view_filters": {"flow": "Разходи"}
+      "filters": {"taxonomy": "pt-budget:level:2" },
+      "view_filters": {"flow": "???????"}
     },
     {
       "entity": "classifier",
-      "label": "Видове в направление",
+      "label": "?????? ? ???????????",
       "name": "expenditure",
       "dimension": "program",
       "breakdown": "type",
-      "filters": {"taxonomy": "bg-budget:level:3" },
-      "view_filters": {"flow": "Разходи"}
+      "filters": {"taxonomy": "pt-budget:level:3" },
+      "view_filters": {"flow": "???????"}
     }
 
   ]
 }
-
