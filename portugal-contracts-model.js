@@ -122,7 +122,7 @@
       "name": "default",
       "dimension": "type_spender",
       "breakdown": "type_spender2",
-      "filters": {"taxonomy": "pt-budget:level:2" }
+      "filters": {"taxonomy": "pt-budget:level:1" }
     },
     {
       "entity": "classifier",
@@ -130,7 +130,7 @@
       "name": "default",
       "dimension": "type_spender2",
       "breakdown": "name_spender",
-      "filters": {"taxonomy": "pt-budget:level:3" }
+      "filters": {"taxonomy": "pt-budget:level:2" }
     },
     {
       "entity": "classifier",
@@ -138,7 +138,7 @@
       "name": "default",
       "dimension": "name_spender",
       "breakdown": "name_receiver",
-      "filters": {"taxonomy": "pt-budget:level:4" }
+      "filters": {"taxonomy": "pt-budget:level:3" }
     },    
     {
       "entity": "dataset",
@@ -154,7 +154,7 @@
       "name": "region",
       "dimension": "region1",
       "breakdown": "region2",
-      "filters": {"taxonomy": "pt-region:level:2" }
+      "filters": {"taxonomy": "pt-region:level:1" }
     },
     {
       "entity": "classifier",
