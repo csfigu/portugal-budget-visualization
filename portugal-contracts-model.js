@@ -103,9 +103,9 @@
       "type": "classifier",
       "description": "NUT3",
       "taxonomy": "pt-region:level:3"
-    },
+    }
 
-  
+ } 
   "views": [
     {
       "entity": "dataset",
@@ -156,5 +156,5 @@
       "filters": {"taxonomy": "pt-region:level:3" }
     }
   ]
-}
+
 }
