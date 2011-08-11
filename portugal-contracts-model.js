@@ -36,7 +36,7 @@
       "column": "dataCelebracaoContrato",
       "type": "value",
       "label": "year",
-      "description": "",
+      "description": "Data do Contrato",
       "datatype": "date"
 	},
     
@@ -113,7 +113,7 @@
       "name": "default",
       "dimension": "dataset",
       "breakdown": "ap1",
-      "filters": {"name": "pt-budget"}
+      "filters": {"name": "pt-contract"}
     },
 
     {
@@ -122,7 +122,7 @@
       "name": "default",
       "dimension": "ap1",
       "breakdown": "ap2",
-      "filters": {"taxonomy": "pt-budget:level:1" }
+      "filters": {"taxonomy": "pt-contract:level:1" }
     },
     {
       "entity": "classifier",
@@ -130,7 +130,7 @@
       "name": "default",
       "dimension": "ap2",
       "breakdown": "ap3",
-      "filters": {"taxonomy": "pt-budget:level:2" }
+      "filters": {"taxonomy": "pt-contract:level:2" }
     },
     {
       "entity": "classifier",
