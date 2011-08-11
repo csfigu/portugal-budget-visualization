@@ -17,7 +17,7 @@
 	},
    
 	"to": {
-		"fields": [ {"constant": "Portugese Society", "name": "label", "datatype": "constant"} ],
+		"fields": [ {"constant": "Portuguese Society", "name": "label", "datatype": "constant"} ],
 		"type": "entity",
 		"description": "Paid to",
 		"label": "Receiver"
