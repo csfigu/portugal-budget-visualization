@@ -17,7 +17,7 @@
 	},
    
 	"to": {
-		"fields": [ { "column": "CIF_receiver", "datatype": "string",  "name": "label" } ],
+		"fields": [ { "column": "CIF_receiver",  "name": "label", "datatype": "string"} ],
 		"type": "entity",
 		"description": "Paid to",
 		"label": "Receiver"
