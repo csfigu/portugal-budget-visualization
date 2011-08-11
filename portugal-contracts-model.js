@@ -9,30 +9,20 @@
   },
   
 "mapping": {
-    
 	"from": {
-		"fields": [  
-		{
-		"column": "name_spender", 
-		"name": "label", 
-		"datatype": "string"
-		}  		],
+		"fields": [  { "column": "name_spender", "name": "label", "datatype": "string"	} ],
 		"type": "entity",
 		"description": "Pay from ",
 		"label": "Payer"
-			},
-    
+	},
+   
 	"to": {
-		"fields": [ 
-		{
-        "column": "name_receiver", 
-        "datatype": "string", 
-        "name": "label"
-} ],
+		"fields": [ { "column": "name_receiver", "datatype": "string",  "name": "label" } ],
 		"type": "entity",
 		"description": "Paid to",
 		"label": "Receiver"
-		},
+	},
+		
 	"amount": {
 		"default_value": "",
 		"description": "",
@@ -40,14 +30,16 @@
 		"label": "",
 		"datatype": "float",
 		"type": "value"
-		},
+	},
+    
     "time": {
       "column": "date_contract",
       "type": "value",
       "label": "year",
       "description": "",
       "datatype": "date"
-		},
+	},
+    
     "idAjusteDirecto": { 
       "default_value": "",
       "description": "",
@@ -55,31 +47,35 @@
       "label": "",
       "datatype": "string",
       "type": "value"
-	}
-},
+	},
+	
+	"contract_description": { 
+      "default_value": "",
+      "description": "",
+      "column": "contract_description",
+      "label": "Contract Description",
+      "datatype": "string",
+      "type": "value"
+	},
  
-     "ap1": {
-      "fields": [
-        {"column": "type_spender", "datatype": "string", "name": "label"}
-      ],
+    "ap1": {
+      "fields": [  { "column": "type_spender", "datatype": "string", "name": "label"}    ],
       "label": "Administração Pública",
       "type": "classifier",
       "description": "Administração Pública",
       "taxonomy": "pt-budget:level:1"
     },
+    
     "ap2": {
-      "fields": [
-        {"column": "type_spender2", "datatype": "string", "name": "label"}
-      ],
+      "fields": [   {"column": "type_spender2", "datatype": "string", "name": "label" }  ],
       "label": "Tipo de Instituição",
       "type": "classifier",
       "description": "Tipo de Instituição",
       "taxonomy": "pt-budget:level:2"
     },
+    
     "ap3": {
-      "fields": [
-        {"column": "name_spender", "datatype": "string", "name": "label"}
-      ],
+      "fields": [ { "column": "name_spender", "datatype": "string", "name": "label"}  ],
       "label": "Instituição Pública",
       "type": "classifier",
       "description": "Nome da Instituição",
@@ -87,27 +83,22 @@
     },
 
     "nut1": {
-      "fields": [
-        {"column": "region1", "datatype": "string", "name": "label"}
-      ],
+      "fields": [  { "column": "region1", "datatype": "string", "name": "label"}   ],
       "label": "Region NUT1",
       "type": "classifier",
       "description": "NUT1",
       "taxonomy": "pt-region:level:1"
     },
-    "nut2": {
-      "fields": [
-        {"column": "region2", "datatype": "string", "name": "label"}
-      ],
+
+    "nut2": {    
+    "fields": [    {"column": "region2", "datatype": "string", "name": "label"}    ],
       "label": "Region NUT2",
       "type": "classifier",
       "description": "NUT2",
       "taxonomy": "pt-region:level:2"
     },
-    "nut3": {
-      "fields": [
-        {"column": "region3", "datatype": "string", "name": "label"}
-      ],
+    
+    "nut3": {    "fields": [  {"column": "region3", "datatype": "string", "name": "label"}    ],
       "label": "Region NUT3",
       "type": "classifier",
       "description": "NUT3",
@@ -122,7 +113,7 @@
       "name": "default",
       "dimension": "dataset",
       "breakdown": "type_spender2",
-      "filters": {"name": "pt-budget"},
+      "filters": {"name": "pt-budget"}
     },
     {
       "entity": "classifier",
@@ -130,7 +121,7 @@
       "name": "default",
       "dimension": "type_spender2",
       "breakdown": "name_spender",
-      "filters": {"taxonomy": "pt-budget:level:2" },
+      "filters": {"taxonomy": "pt-budget:level:2" }
     },
     {
       "entity": "classifier",
@@ -138,7 +129,7 @@
       "name": "default",
       "dimension": "name_spender",
       "breakdown": "name_receiver",
-      "filters": {"taxonomy": "pt-budget:level:3" },
+      "filters": {"taxonomy": "pt-budget:level:3" }
     },    
     {
       "entity": "dataset",
@@ -146,7 +137,7 @@
       "name": "region",
       "dimension": "dataset",
       "breakdown": "region2",
-      "filters": {"name": "pt-region"},
+      "filters": {"name": "pt-region"}
     },
     {
       "entity": "classifier",
@@ -154,7 +145,7 @@
       "name": "region",
       "dimension": "region2",
       "breakdown": "region3",
-      "filters": {"taxonomy": "pt-region:level:2" },
+      "filters": {"taxonomy": "pt-region:level:2" }
     },
     {
       "entity": "classifier",
@@ -162,8 +153,8 @@
       "name": "region",
       "dimension": "region3",
       "breakdown": "name_receiver",
-      "filters": {"taxonomy": "pt-region:level:3" },
+      "filters": {"taxonomy": "pt-region:level:3" }
     }
-
   ]
+}
 }
