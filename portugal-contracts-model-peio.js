@@ -1,39 +1,40 @@
 {
 "dataset": {
-    "name": "public_administration_contracts_for_portugal",
+    "name": "pt-budget",
     "unique_keys": ["idAjusteDirecto"],     
     "label": "Public administration contracts for Portugal",
-    "description": "Public administration contracts for Portugal",
+    "description": "Portugal Public Admin",
     "currency": "EUR",
     "temporal_granularity": "year"
   },
   
 "mapping": {
 	"from": {
-		"fields": [  { "column": "name_spender", "name": "label", "datatype": "string"	} ],
+		"fields": [  {"constant": "EU", "name": "label", "datatype": "constant"} ],
 		"type": "entity",
 		"description": "Pay from ",
 		"label": "Payer"
 	},
    
 	"to": {
-		"fields": [ { "column": "name_receiver", "datatype": "string",  "name": "label" } ],
+		"fields": [ {"constant": "Portugese Society", "name": "label", "datatype": "constant"} ],
 		"type": "entity",
 		"description": "Paid to",
 		"label": "Receiver"
 	},
 		
+		
 	"amount": {
-		"default_value": "",
-		"description": "",
-		"column": "price_amount_contract",
-		"label": "",
-		"datatype": "float",
-		"type": "value"
-	},
+      "default_value": "",
+      "description": "",
+      "column": "precoContratual",
+      "label": "",
+      "datatype": "float",
+      "type": "value"
+    },
     
     "time": {
-      "column": "date_contract",
+      "column": "dataCelebracaoContrato",
       "type": "value",
       "label": "year",
       "description": "",
@@ -48,7 +49,7 @@
       "datatype": "string",
       "type": "value"
 	},
-	
+
 	"contract_description": { 
       "default_value": "",
       "description": "",
@@ -75,7 +76,8 @@
     },
     
     "ap3": {
-      "fields": [ { "column": "name_spender", "datatype": "string", "name": "label"}  ],
+      "fields": [ { "column": "name_spender", "datatype": "string", "name": "label"} ,
+			      { "column": "CIF_spender", "datatype": "string", "name": "label"}    ],
       "label": "Instituição Pública",
       "type": "classifier",
       "description": "Nome da Instituição",
@@ -104,57 +106,42 @@
       "description": "NUT3",
       "taxonomy": "pt-region:level:3"
     }
-
- }, 
+},
+  
   "views": [
     {
       "entity": "dataset",
       "label": "Contratos por tipo de instituição",
       "name": "default",
       "dimension": "dataset",
-      "breakdown": "type_spender2",
+      "breakdown": "ap2",
       "filters": {"name": "pt-budget"}
     },
     {
       "entity": "classifier",
       "label": "Contratos por instituição",
       "name": "default",
-      "dimension": "type_spender2",
-      "breakdown": "name_spender",
+      "dimension": "ap2",
+      "breakdown": "ap3",
       "filters": {"taxonomy": "pt-budget:level:2" }
     },
-    {
-      "entity": "classifier",
-      "label": "?????? ? ???????????",
-      "name": "default",
-      "dimension": "name_spender",
-      "breakdown": "name_receiver",
-      "filters": {"taxonomy": "pt-budget:level:3" }
-    },    
+   
     {
       "entity": "dataset",
-      "label": "Contratos por NUT2",
-      "name": "region",
+      "label": "Regional spending",
+      "name": "regional",
       "dimension": "dataset",
-      "breakdown": "region2",
-      "filters": {"name": "pt-region"}
+      "breakdown": "nut2",
+      "filters": {"name": "pt-budget"}
     },
     {
       "entity": "classifier",
       "label": "Contratos por NUT3",
       "name": "region",
-      "dimension": "region2",
-      "breakdown": "region3",
+      "dimension": "nut2",
+      "breakdown": "nut3",
       "filters": {"taxonomy": "pt-region:level:2" }
-    },
-    {
-      "entity": "classifier",
-      "label": "Onde se paga a alguém",
-      "name": "region",
-      "dimension": "region3",
-      "breakdown": "name_receiver",
-      "filters": {"taxonomy": "pt-region:level:3" }
     }
   ]
-
 }
+
