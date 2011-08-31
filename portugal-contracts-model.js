@@ -6,7 +6,7 @@
     "description": "Public administration contracts for Portugal namely the contracts signed directly without tenders, namely as they are published in http://www.base.gov.pt",
     "currency": "EUR",
     "temporal_granularity": "year"
-  },
+  	},
   
 "mapping": {
 	"from": {
@@ -18,18 +18,18 @@
 		],
 		"description": "Pay from",
 		"label": "Spender"
-	},
+		},
    
 	"to": {
 		"type": "entity",
 		"fields": [ 
 		{ "column": "CIF_receiver",  "name": "name", "datatype": "id"}, 
 		{ "column": "name_receiver", "datatype": "string", "name": "label"},
-		{ "constant": "true", "datatype": "constant", "name": "Recipient of the public spending"}
+		{ "constant": "true", "datatype": "constant", "name": "recipient-public-spending"}
 		],
 		"description": "Paid to",
 		"label": "Receiver"
-	},
+		},
 		
 	"amount": {
 		"default_value": "",
@@ -38,80 +38,80 @@
 		"label": "",
 		"datatype": "float",
 		"type": "value"
-	},
+		},
     
-    "time": {
-      "column": "dataCelebracaoContrato",
-      "type": "value",
-      "label": "year",
-      "description": "Data do Contrato",
-      "datatype": "date"
-	},
+    	"time": {
+      		"column": "dataCelebracaoContrato",
+      		"type": "value",
+      		"label": "year",
+      		"description": "Data do Contrato",
+      		"datatype": "date"
+		},
     
-    "idAjusteDirecto": { 
-      "default_value": "",
-      "description": "",
-      "column": "idAjusteDirecto",
-      "label": "",
-      "datatype": "string",
-      "type": "value"
-	},
+    	"idAjusteDirecto": { 
+      		"default_value": "",
+      		"description": "",
+    		"column": "idAjusteDirecto",
+		"label": "",
+      		"datatype": "string",
+      		"type": "value"
+		},
 	
 	"contract_description": { 
-      "default_value": "",
-      "description": "",
-      "column": "contract_description",
-      "label": "Contract Description",
-      "datatype": "string",
-      "type": "value"
-	},
+      		"default_value": "",
+      		"description": "",
+      		"column": "contract_description",
+      		"label": "Contract Description",
+      		"datatype": "string",
+      		"type": "value"
+		},
  
-    "ap1": {
-      "fields": [  { "column": "type_spender", "datatype": "string", "name": "label"}    ],
-      "label": "Administração Pública",
-      "type": "classifier",
-      "description": "Administração Pública",
-      "taxonomy": "pt-contract:level:1"
-    },
+    	"ap1": {
+      		"fields": [  { "column": "type_spender", "datatype": "string", "name": "label"}    ],
+      		"label": "Administração Pública",
+      		"type": "classifier",
+      		"description": "Administração Pública",
+      		"taxonomy": "pt-contract:level:1"
+    		},
     
-    "ap2": {
-      "fields": [   {"column": "type_spender2", "datatype": "string", "name": "label" }  ],
-      "label": "Tipo de Instituição",
-      "type": "classifier",
-      "description": "Tipo de Instituição",
-      "taxonomy": "pt-contract:level:2"
-    },
+    	"ap2": {
+      		"fields": [   {"column": "type_spender2", "datatype": "string", "name": "label" }  ],
+      		"label": "Tipo de Instituição",
+      		"type": "classifier",
+      		"description": "Tipo de Instituição",
+      		"taxonomy": "pt-contract:level:2"
+    		},
     
-    "ap3": {
-      "fields": [ { "column": "name_spender", "datatype": "string", "name": "label"}  ],
-      "label": "Instituição Pública",
-      "type": "classifier",
-      "description": "Nome da Instituição",
-      "taxonomy": "pt-contract:level:3"
-    },
+    	"ap3": {
+      		"fields": [ { "column": "name_spender", "datatype": "string", "name": "label"}  ],
+      		"label": "Instituição Pública",
+      		"type": "classifier",
+      		"description": "Nome da Instituição",
+      		"taxonomy": "pt-contract:level:3"
+    		},
 
-    "nut1": {
-      "fields": [  { "column": "region1", "datatype": "string", "name": "label"}   ],
-      "label": "Region NUT1",
-      "type": "classifier",
-      "description": "NUT1",
-      "taxonomy": "pt-region:level:1"
-    },
+    	"nut1": {
+      		"fields": [  { "column": "region1", "datatype": "string", "name": "label"}   ],
+      		"label": "Region NUT1",
+      		"type": "classifier",
+      		"description": "NUT1",
+      		"taxonomy": "pt-region:level:1"
+    		},
 
-    "nut2": {    
-    "fields": [    {"column": "region2", "datatype": "string", "name": "label"}    ],
-      "label": "Region NUT2",
-      "type": "classifier",
-      "description": "NUT2",
-      "taxonomy": "pt-region:level:2"
-    },
+    	"nut2": {    
+    		"fields": [    {"column": "region2", "datatype": "string", "name": "label"}    ],
+      		"label": "Region NUT2",
+      		"type": "classifier",
+      		"description": "NUT2",
+      		"taxonomy": "pt-region:level:2"
+    		},
     
-    "nut3": {    "fields": [  {"column": "region3", "datatype": "string", "name": "label"}    ],
-      "label": "Region NUT3",
-      "type": "classifier",
-      "description": "NUT3",
-      "taxonomy": "pt-region:level:3"
-    }
+	"nut3": {    "fields": [  {"column": "region3", "datatype": "string", "name": "label"}    ],
+	      	"label": "Region NUT3",
+      		"type": "classifier",
+      		"description": "NUT3",
+      		"taxonomy": "pt-region:level:3"
+    		}
 
  }, 
   "views": [
@@ -145,8 +145,8 @@
       "label": "Partes do Contrato",
       "name": "default",
       "dimension": "ap3",
-      "breakdown": "name_receiver",
-      "filters": {"taxonomy": "pt-budget:level:3" }
+      "breakdown": "to",
+      "filters": {"taxonomy": "pt-contract:level:3" }
     },    
     {
       "entity": "dataset",
@@ -177,7 +177,7 @@
       "label": "Onde se paga a alguém",
       "name": "regional",
       "dimension": "nut3",
-      "breakdown": "name_receiver",
+      "breakdown": "to",
       "filters": {"taxonomy": "pt-region:level:3" }
     }
   ]
