@@ -141,7 +141,7 @@
       "filters": {"taxonomy": "pt-contract:level:2" }
     },
     {
-      "entity": "classifier",
+      "entity": "entity",
       "label": "Partes do Contrato",
       "name": "default",
       "dimension": "ap3",
@@ -173,7 +173,7 @@
       "filters": {"taxonomy": "pt-region:level:2" }
     },
     {
-      "entity": "classifier",
+      "entity": "entity",
       "label": "Onde se paga a alguém",
       "name": "regional",
       "dimension": "nut3",
