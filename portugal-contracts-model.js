@@ -3,22 +3,30 @@
     "name": "pt-contract",
     "unique_keys": ["idAjusteDirecto"],     
     "label": "Public administration contracts for Portugal",
-    "description": "Public administration contracts for Portugal",
+    "description": "Public administration contracts for Portugal namely the contracts signed directly without tenders, namely as they are published in http://www.base.gov.pt",
     "currency": "EUR",
     "temporal_granularity": "year"
   },
   
 "mapping": {
 	"from": {
-		"fields": [  {"column": "CIF_spender", "name": "label", "datatype": "string"} ],
 		"type": "entity",
+		"fields": [  
+		{"column": "CIF_spender", "name": "name", "datatype": "id"}, 
+		{ "column": "name_spender", "datatype": "string", "name": "label"},
+		{ "constant": "true", "datatype": "constant", "name": "Public Administration Entity"}
+		],
 		"description": "Pay from",
-		"label": "Payer"
+		"label": "Spender"
 	},
    
 	"to": {
-		"fields": [ { "column": "CIF_receiver",  "name": "label", "datatype": "string"} ],
 		"type": "entity",
+		"fields": [ 
+		{ "column": "CIF_receiver",  "name": "name", "datatype": "id"}, 
+		{ "column": "name_receiver", "datatype": "string", "name": "label"},
+		{ "constant": "true", "datatype": "constant", "name": "Recipient of the public spending"}
+		],
 		"description": "Paid to",
 		"label": "Receiver"
 	},
