@@ -151,7 +151,7 @@
     {
       "entity": "dataset",
       "label": "Contracts by Region",
-      "name": "default",
+      "name": "regional",
       "dimension": "dataset",
       "breakdown": "nut1",
       "filters": {"name": "pt-contract"}
@@ -159,7 +159,7 @@
       {
       "entity": "classifier",
       "label": "Contracts by Nut2",
-      "name": "default",
+      "name": "regional",
       "dimension": "nut1",
       "breakdown": "nut2",
       "filters": {"taxonomy": "pt-contract:level:4" }
@@ -167,7 +167,7 @@
     {
       "entity": "classifier",
       "label": "Contracts by NUT3",
-      "name": "default",
+      "name": "regional",
       "dimension": "nut2",
       "breakdown": "nut3",
       "filters": {"taxonomy": "pt-contract:level:5" }
@@ -175,7 +175,7 @@
     {
       "entity": "entity",
       "label": "where some company gets payed",
-      "name": "default",
+      "name": "regional",
       "dimension": "nut3",
       "breakdown": "to",
       "filters": {"taxonomy": "pt-contract:level:6" }
