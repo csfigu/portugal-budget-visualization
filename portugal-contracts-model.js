@@ -95,7 +95,7 @@
       		"label": "Region NUT1",
       		"type": "classifier",
       		"description": "NUT1",
-      		"taxonomy": "pt-region:level:1"
+      		"taxonomy": "pt-contract:level:4"
     		},
 
     	"nut2": {    
@@ -103,14 +103,14 @@
       		"label": "Region NUT2",
       		"type": "classifier",
       		"description": "NUT2",
-      		"taxonomy": "pt-region:level:2"
+      		"taxonomy": "pt-contract:level:5"
     		},
     
 	"nut3": {    "fields": [  {"column": "region3", "datatype": "string", "name": "label"}    ],
 	      	"label": "Region NUT3",
       		"type": "classifier",
       		"description": "NUT3",
-      		"taxonomy": "pt-region:level:3"
+      		"taxonomy": "pt-contract:level:6"
     		}
 
  }, 
@@ -150,7 +150,7 @@
     },    
     {
       "entity": "dataset",
-      "label": "Contratos por Ajuste Directo",
+      "label": "Contratos por Região",
       "name": "regional",
       "dimension": "dataset",
       "breakdown": "nut1",
@@ -158,27 +158,27 @@
     },
       {
       "entity": "classifier",
-      "label": "Contratos por Região",
+      "label": "Contracts by Nut2",
       "name": "regional",
       "dimension": "nut1",
       "breakdown": "nut2",
-      "filters": {"taxonomy": "pt-region:level:1" }
+      "filters": {"taxonomy": "pt-contract:level:4" }
     },
     {
       "entity": "classifier",
-      "label": "Contratos por NUT3",
+      "label": "Contracts by NUT3",
       "name": "regional",
       "dimension": "nut2",
       "breakdown": "nut3",
-      "filters": {"taxonomy": "pt-region:level:2" }
+      "filters": {"taxonomy": "pt-contract:level:5" }
     },
     {
       "entity": "entity",
-      "label": "Onde se paga a alguém",
+      "label": "where some company gets payed",
       "name": "regional",
       "dimension": "nut3",
       "breakdown": "to",
-      "filters": {"taxonomy": "pt-region:level:3" }
+      "filters": {"taxonomy": "pt-contract:level:6" }
     }
   ]
 
