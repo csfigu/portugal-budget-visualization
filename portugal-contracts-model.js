@@ -117,7 +117,7 @@
   "views": [
     {
       "entity": "dataset",
-      "label": "Contracts by entity tupe",
+      "label": "Contracts by entity type",
       "name": "default",
       "dimension": "dataset",
       "breakdown": "ap1",
