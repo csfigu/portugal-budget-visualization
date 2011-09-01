@@ -117,7 +117,7 @@
   "views": [
     {
       "entity": "dataset",
-      "label": "Contratos por ajuste directo",
+      "label": "Contracts by entity tupe",
       "name": "default",
       "dimension": "dataset",
       "breakdown": "ap1",
@@ -126,7 +126,7 @@
 
     {
       "entity": "classifier",
-      "label": "Contratos por tipo de instituição",
+      "label": "Contracts by type of institution",
       "name": "default",
       "dimension": "ap1",
       "breakdown": "ap2",
@@ -134,7 +134,7 @@
     },
     {
       "entity": "classifier",
-      "label": "Contratos por instituição",
+      "label": "Contracts by institution",
       "name": "default",
       "dimension": "ap2",
       "breakdown": "ap3",
@@ -142,7 +142,7 @@
     },
     {
       "entity": "entity",
-      "label": "Partes do Contrato",
+      "label": "Entities of Contract",
       "name": "default",
       "dimension": "ap3",
       "breakdown": "to",
@@ -150,8 +150,8 @@
     },    
     {
       "entity": "dataset",
-      "label": "Contratos por Região",
-      "name": "regional",
+      "label": "Contracts by Region",
+      "name": "default",
       "dimension": "dataset",
       "breakdown": "nut1",
       "filters": {"name": "pt-contract"}
@@ -159,7 +159,7 @@
       {
       "entity": "classifier",
       "label": "Contracts by Nut2",
-      "name": "regional",
+      "name": "default",
       "dimension": "nut1",
       "breakdown": "nut2",
       "filters": {"taxonomy": "pt-contract:level:4" }
@@ -167,7 +167,7 @@
     {
       "entity": "classifier",
       "label": "Contracts by NUT3",
-      "name": "regional",
+      "name": "default",
       "dimension": "nut2",
       "breakdown": "nut3",
       "filters": {"taxonomy": "pt-contract:level:5" }
@@ -175,7 +175,7 @@
     {
       "entity": "entity",
       "label": "where some company gets payed",
-      "name": "regional",
+      "name": "default",
       "dimension": "nut3",
       "breakdown": "to",
       "filters": {"taxonomy": "pt-contract:level:6" }
