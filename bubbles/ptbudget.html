@@ -63,10 +63,10 @@
 			new OpenSpending.Aggregator({
 				apiUrl: 'http://sandbox.openspending.org/api',
 				dataset: 'pt-contract',
-				drilldowns: ['direction', 'program', 'type'],
+				drilldowns: ['ap1', 'ap2', 'ap3'],
 				//cuts: ['year:2011'],
 				//localApiCache: 'aggregate.json',
-				rootNodeLabel: 'Contratos por Ajuste Directo em Portugal',
+				rootNodeLabel: 'Portugal Contracts without tender',
 				//breakdown: 'dataset',
 				callback: function(data) {
 					
@@ -82,8 +82,8 @@
 						        'root': {  icon: 'styles/icons/money.svg', color: '#EAC117'}
 							    },
 
-							"pt-contract:level-1": OpenSpending.BubbleTree.Styles.BGfog,
-							"pt-contract:level-1": OpenSpending.BubbleTree.Styles.BGfog							
+							"pt-contract:level:1": OpenSpending.BubbleTree.Styles.BGfog,
+							"pt-contract:level:1": OpenSpending.BubbleTree.Styles.BGfog							
 							
 							}
 					});
