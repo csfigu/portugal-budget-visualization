@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<meta charset="ISO-8859-1"/>
-	<title>Portugal Ajustes Directos</title>
+	<meta charset="UTF-8"/>
+	<title>Portugal - Contracts made without tender</title>
 	<script type="text/javascript" src="lib/vendor/jquery-1.5.2.min.js"></script>
 	<script type="text/javascript" src="lib/vendor/jquery.history.js"></script>
 	<script type="text/javascript" src="lib/vendor/jquery.tooltip.min.js"></script>
@@ -62,7 +62,7 @@
 		
 			new OpenSpending.Aggregator({
 				apiUrl: 'http://sandbox.openspending.org/api',
-				dataset: 'public_administration_contracts_for_portugal',
+				dataset: 'pt-contract',
 				drilldowns: ['direction', 'program', 'type'],
 				//cuts: ['year:2011'],
 				//localApiCache: 'aggregate.json',
@@ -82,8 +82,8 @@
 						        'root': {  icon: 'styles/icons/money.svg', color: '#EAC117'}
 							    },
 
-							"bg-budget-expenses:level-0": OpenSpending.BubbleTree.Styles.BGfog,
-							"bg-budget-expenses:level-1": OpenSpending.BubbleTree.Styles.BGfog							
+							"pt-contract:level-1": OpenSpending.BubbleTree.Styles.BGfog,
+							"pt-contract:level-1": OpenSpending.BubbleTree.Styles.BGfog							
 							
 							}
 					});
@@ -97,7 +97,7 @@
 	</script>
 </head>
 <body>
-	<div id="header"><a class="title">Portugal Ajustes Directos</a>
+	<div id="header"><a class="title">Portugal Contracts without tender</a>
 	<div class="subtitle"></div></div>
 
 	<div class="bubbletree-wrapper">
