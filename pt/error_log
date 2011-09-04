@@ -1,0 +1,50 @@
+[04-Aug-2011 23:52:55] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 35 bytes) in /home3/governar/public_html/pt/includes/bootstrap.inc on line 761
+[04-Aug-2011 23:54:26] PHP Fatal error:  Call to undefined function file_create_path() in /home3/governar/public_html/pt/sites/all/modules/charts/fusioncharts/fusioncharts.install on line 12
+[04-Aug-2011 23:56:03] PHP Fatal error:  Call to undefined function file_create_path() in /home3/governar/public_html/pt/sites/all/modules/charts/fusioncharts/fusioncharts.install on line 12
+[04-Aug-2011 23:56:46] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16 bytes) in /home3/governar/public_html/pt/includes/menu.inc on line 326
+[05-Aug-2011 00:04:46] PHP Fatal error:  Function name must be a string in /home3/governar/public_html/pt/sites/all/modules/ctools/ctools_ajax_sample/ctools_ajax_sample.module on line 397
+[07-Aug-2011 17:52:10] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1 bytes) in /home3/governar/public_html/pt/includes/menu.inc on line 3613
+[07-Aug-2011 17:53:49] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 101281 bytes) in /home3/governar/public_html/pt/includes/common.inc on line 5670
+[07-Aug-2011 17:54:10] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 102401 bytes) in /home3/governar/public_html/pt/modules/block/block.tpl.php on line 53
+[07-Aug-2011 17:54:44] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 101883 bytes) in /home3/governar/public_html/pt/includes/theme.inc on line 1248
+[07-Aug-2011 18:05:47] PHP Fatal error:  Call to undefined function file_create_path() in /home3/governar/public_html/pt/sites/all/modules/charts/fusioncharts/fusioncharts.install on line 12
+[07-Aug-2011 18:06:05] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 40 bytes) in /home3/governar/public_html/pt/includes/bootstrap.inc on line 761
+[08-Aug-2011 12:52:39] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 9749 bytes) in /home3/governar/public_html/pt/includes/database/database.inc on line 2108
+[08-Aug-2011 12:56:00] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 15879 bytes) in /home3/governar/public_html/pt/includes/database/query.inc on line 1783
+[08-Aug-2011 12:57:12] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16 bytes) in /home3/governar/public_html/pt/includes/menu.inc on line 3422
+[08-Aug-2011 12:57:17] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 121885 bytes) in /home3/governar/public_html/pt/includes/theme.inc on line 1248
+[08-Aug-2011 12:59:06] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 40 bytes) in /home3/governar/public_html/pt/sites/all/modules/views/includes/base.inc on line 75
+[08-Aug-2011 12:59:10] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 121300 bytes) in /home3/governar/public_html/pt/includes/common.inc on line 5670
+[08-Aug-2011 23:03:15] PHP Warning:  POST Content-Length of 9234333 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Aug-2011 23:03:25] PHP Warning:  POST Content-Length of 9234333 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Aug-2011 23:08:14] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 311296 bytes) in /home3/governar/public_html/pt/sites/all/modules/views/modules/node.views_default.inc on line 278
+[08-Aug-2011 23:08:19] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 42547 bytes) in /home3/governar/public_html/pt/includes/form.inc on line 2673
+[08-Aug-2011 23:13:51] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65311 bytes) in /home3/governar/public_html/pt/includes/cache.inc on line 418
+[08-Aug-2011 23:13:58] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 227 bytes) in /home3/governar/public_html/pt/modules/shortcut/shortcut.admin.inc on line 694
+[08-Aug-2011 23:14:01] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 136 bytes) in /home3/governar/public_html/pt/includes/unicode.inc on line 476
+[08-Aug-2011 23:14:57] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 35 bytes) in /home3/governar/public_html/pt/includes/cache.inc on line 405
+[08-Aug-2011 23:16:44] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 35 bytes) in /home3/governar/public_html/pt/includes/form.inc on line 1788
+[08-Aug-2011 23:38:59] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 311296 bytes) in /home3/governar/public_html/pt/sites/all/modules/views/modules/node.views_default.inc on line 278
+[08-Aug-2011 23:39:03] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16 bytes) in /home3/governar/public_html/pt/includes/form.inc on line 1778
+[08-Aug-2011 23:39:30] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 311296 bytes) in /home3/governar/public_html/pt/sites/all/modules/views/modules/node.views_default.inc on line 278
+[08-Aug-2011 23:39:36] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 216 bytes) in /home3/governar/public_html/pt/includes/unicode.inc on line 476
+[12-Aug-2011 17:25:00] PHP Fatal error:  Call to undefined function drupal_set_html_head() in /home3/governar/public_html/pt/sites/all/modules/mapbox/mapbox.module on line 128
+[28-Aug-2011 09:08:09] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 917 bytes) in /home3/governar/public_html/pt/includes/database/database.inc on line 2108
+[28-Aug-2011 17:35:42] PHP Fatal error:  Call to undefined function drupal_set_html_head() in /home3/governar/public_html/pt/sites/all/modules/mapbox/mapbox.module on line 128
+[28-Aug-2011 17:35:56] PHP Fatal error:  Call to undefined function drupal_set_html_head() in /home3/governar/public_html/pt/sites/all/modules/mapbox/mapbox.module on line 128
+[04-Sep-2011 14:03:13] PHP Parse error:  syntax error, unexpected ')' in /home3/governar/public_html/pt/includes/lock.inc on line 272
+[04-Sep-2011 14:03:29] PHP Parse error:  syntax error, unexpected ')' in /home3/governar/public_html/pt/includes/lock.inc on line 272
+[04-Sep-2011 14:03:37] PHP Parse error:  syntax error, unexpected ')' in /home3/governar/public_html/pt/includes/lock.inc on line 272
+[04-Sep-2011 14:03:59] PHP Parse error:  syntax error, unexpected T_STRING in /home3/governar/public_html/pt/includes/update.inc on line 1462
+[04-Sep-2011 14:05:03] PHP Parse error:  syntax error, unexpected ')' in /home3/governar/public_html/pt/includes/lock.inc on line 272
+[04-Sep-2011 14:05:21] PHP Parse error:  syntax error, unexpected ')' in /home3/governar/public_html/pt/includes/lock.inc on line 272
+[04-Sep-2011 14:05:28] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home3/governar/public_html/pt/modules/system/system.install on line 2976
+[04-Sep-2011 14:05:37] PHP Parse error:  syntax error, unexpected T_STRING in /home3/governar/public_html/pt/includes/update.inc on line 1462
+[04-Sep-2011 14:05:39] PHP Parse error:  syntax error, unexpected T_STRING in /home3/governar/public_html/pt/includes/update.inc on line 1462
+[04-Sep-2011 14:05:44] PHP Parse error:  syntax error, unexpected T_STRING in /home3/governar/public_html/pt/includes/update.inc on line 1462
+[04-Sep-2011 14:05:59] PHP Parse error:  syntax error, unexpected T_STRING in /home3/governar/public_html/pt/includes/update.inc on line 1462
+[04-Sep-2011 14:06:02] PHP Parse error:  syntax error, unexpected T_STRING in /home3/governar/public_html/pt/includes/update.inc on line 1462
+[04-Sep-2011 14:06:07] PHP Parse error:  syntax error, unexpected ')' in /home3/governar/public_html/pt/includes/lock.inc on line 272
+[04-Sep-2011 14:06:11] PHP Parse error:  syntax error, unexpected ')' in /home3/governar/public_html/pt/includes/lock.inc on line 272
+[04-Sep-2011 14:06:13] PHP Parse error:  syntax error, unexpected ')' in /home3/governar/public_html/pt/includes/lock.inc on line 272
+[04-Sep-2011 14:39:54] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 77824 bytes) in /home3/governar/public_html/pt/sites/all/modules/openlayers/includes/openlayers.behaviors.inc on line 183

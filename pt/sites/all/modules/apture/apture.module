@@ -1,0 +1,113 @@
+<?php
+
+
+/**
+ * Implement hook_enable()
+ */
+function apture_enable() {
+  drupal_set_message($message = t('The Apture module was successfully enabled.'), $type = 'status');
+}
+
+/**
+ * Implement hook_disble()
+ */
+ function apture_disable() {
+   drupal_set_message($message = t('The Apture module was successfully disabled.'), $type = 'status');
+}
+
+/** 
+ * Implement hook_uninstall()
+ */
+ function apture_uninstall() {
+ 	variable_set('apture_token', "");
+ 	drupal_set_message($message = t('The Apture module was successfully uninstalled.'), $type = 'status');
+ }
+
+function apture_help($path, $arg) {
+  switch ($path) {
+    case 'admin/help#apture':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t("The Apture module integrates the <a href='http://www.apture.com'>Apture</a> service into your site. If you haven't already, visit <a href='http://www.apture.com'>Apture.com</a> and obtain a <em>Site Token</em>. Add your site <em>Site Token</em> in the configuration page.") . '</p>';
+      return $output;
+  }
+}
+
+/*
+* Implement hook_menu()
+*/
+function apture_menu() {
+  $items = array();
+  
+  $items['admin/config/services/apture'] = array(
+    'title' => 'Apture Configuration',
+    'description' => 'Configure apture settings',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('apture_settings_form'),
+    'access arguments' => array('access administration pages'),
+    'type' => MENU_NORMAL_ITEM,
+    
+  );
+  return $items;
+}
+
+/**
+ * Generate the admin form to place the site token in.
+ */
+function apture_settings_form($form, &$form_state) {
+  $form['apture_token'] = array(
+    '#type' => 'textfield',
+    '#title' => t('Apture Site Token'),
+    '#size' => '30',
+    '#default_value' => variable_get('apture_token', ""),
+    '#description' => t('Add the site token provided by apture when you registered your site.'),
+  );
+  return system_settings_form($form);
+}
+
+
+/**
+ * Clean up the apture site token by stripping any possible tags that may have been added.?
+ */
+function apture_sitetoken_validate($form, &$form_state) {
+  $apturetoken = $form['apture_token']['#value'];
+  if (strlen($token) != strlen(strip_tags($token))) {
+    form_set_error('apture_token', t('Invalid apture site token') );
+  }
+  else {
+    drupal_set_message($message = t('Site token accepted.'), $type = 'status');
+  }
+}
+
+/**
+ * Add the site token provided by apture to pass it to the apture script.
+ */
+function apture_sitetoken_submit($form, &$form_state) {
+  $apturetoken = $form['apture_token']['#value'];
+  $form_state['values']['apture_token'] = $token;
+  variable_set('apture_token', check_plain($token));
+}
+
+/* 
+* Implement hook_init() 
+*/
+function apture_init() {
+  if (function_exists('drupal_add_js')) {
+    $apturetoken = variable_get('apture_token', '');
+    drupal_add_js('http://www.apture.com/js/apture.js?siteToken=' . $apturetoken, 'external');
+  }
+  
+}
+
+/**
+ * Implement hook_permission()
+ */
+function apture_permission() {
+  return array(
+    'administer apture' => array(
+      'title' => t('Administer Apture'), 
+      'description' => t('Perform administration tasks for Apture'),
+    ),
+  );
+}
+
