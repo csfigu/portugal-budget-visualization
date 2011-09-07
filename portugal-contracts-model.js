@@ -65,14 +65,6 @@
       		"datatype": "string",
       		"type": "value"
 		},
- 
-    	"ap1": {
-      		"fields": [  { "column": "type_spender", "datatype": "string", "name": "label"}    ],
-      		"label": "Administração Pública",
-      		"type": "classifier",
-      		"description": "Administração Pública",
-      		"taxonomy": "pt-contract:level:1"
-    		},
     
     	"ap2": {
       		"fields": [   {"column": "type_spender2", "datatype": "string", "name": "label" }  ],
@@ -90,14 +82,6 @@
       		"taxonomy": "pt-contract:level:3"
     		},
 
-    	"nut1": {
-      		"fields": [  { "column": "region1", "datatype": "string", "name": "label"}   ],
-      		"label": "Region NUT1",
-      		"type": "classifier",
-      		"description": "NUT1",
-      		"taxonomy": "pt-contract:level:4"
-    		},
-
     	"nut2": {    
     		"fields": [    {"column": "region2", "datatype": "string", "name": "label"}    ],
       		"label": "Region NUT2",
@@ -112,25 +96,15 @@
       		"description": "NUT3",
       		"taxonomy": "pt-contract:level:6"
     		}
-
  }, 
   "views": [
     {
       "entity": "dataset",
-      "label": "Contracts by entity type",
+      "label": "Contracts by institution type",
       "name": "default",
       "dimension": "dataset",
-      "breakdown": "ap1",
-      "filters": {"name": "pt-contract"}
-    },
-
-    {
-      "entity": "classifier",
-      "label": "Contracts by type of institution",
-      "name": "default",
-      "dimension": "ap1",
       "breakdown": "ap2",
-      "filters": {"taxonomy": "pt-contract:level:1" }
+      "filters": {"name": "pt-contract"}
     },
     {
       "entity": "classifier",
@@ -153,16 +127,8 @@
       "label": "Contracts by Region",
       "name": "regional",
       "dimension": "dataset",
-      "breakdown": "nut1",
-      "filters": {"name": "pt-contract"}
-    },
-      {
-      "entity": "classifier",
-      "label": "Contracts by Nut2",
-      "name": "regional",
-      "dimension": "nut1",
       "breakdown": "nut2",
-      "filters": {"taxonomy": "pt-contract:level:4" }
+      "filters": {"name": "pt-contract"}
     },
     {
       "entity": "classifier",
@@ -181,5 +147,4 @@
       "filters": {"taxonomy": "pt-contract:level:6" }
     }
   ]
-
 }
