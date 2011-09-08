@@ -76,7 +76,7 @@ body,
   padding: 0 15px;
 }
 #breadcrumb {
-  margin: 0 15px;
+  margin: 0 15px; display: none
 }
 .region-triptych-first,
 .region-triptych-middle,
