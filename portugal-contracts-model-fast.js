@@ -1,6 +1,6 @@
 {
 "dataset": {
-    "name": "pt-contract",
+    "name": "pt-contract-fast",
     "unique_keys": ["idAjusteDirecto"],     
     "label": "Public administration contracts for Portugal",
     "description": "Public administration contracts for Portugal namely the contracts signed directly without tenders, namely as they are published in http://www.base.gov.pt",
@@ -71,7 +71,7 @@
       		"label": "Tipo de Instituição",
       		"type": "classifier",
       		"description": "Tipo de Instituição",
-      		"taxonomy": "pt-contract:level:2"
+      		"taxonomy": "pt-contract-fast:level:1"
     		},
     
     	"ap3": {
@@ -79,7 +79,7 @@
       		"label": "Instituição Pública",
       		"type": "classifier",
       		"description": "Nome da Instituição",
-      		"taxonomy": "pt-contract:level:3"
+      		"taxonomy": "pt-contract-fast:level:2"
     		},
 
     	"nut2": {    
@@ -87,14 +87,14 @@
       		"label": "Region NUT2",
       		"type": "classifier",
       		"description": "NUT2",
-      		"taxonomy": "pt-contract:level:5"
+      		"taxonomy": "pt-contract-fast:level:3"
     		},
     
 	"nut3": {    "fields": [  {"column": "region3", "datatype": "string", "name": "label"}    ],
 	      	"label": "Region NUT3",
       		"type": "classifier",
       		"description": "NUT3",
-      		"taxonomy": "pt-contract:level:6"
+      		"taxonomy": "pt-contract-fast:level:4"
     		}
  }, 
   "views": [
@@ -104,7 +104,7 @@
       "name": "default",
       "dimension": "dataset",
       "breakdown": "ap2",
-      "filters": {"name": "pt-contract"}
+      "filters": {"name": "pt-contract-fast"}
     },
     {
       "entity": "classifier",
@@ -112,7 +112,7 @@
       "name": "default",
       "dimension": "ap2",
       "breakdown": "ap3",
-      "filters": {"taxonomy": "pt-contract:level:2" }
+      "filters": {"taxonomy": "pt-contract-fast:level:1" }
     },
     {
       "entity": "entity",
@@ -120,7 +120,7 @@
       "name": "default",
       "dimension": "ap3",
       "breakdown": "to",
-      "filters": {"taxonomy": "pt-contract:level:3" }
+      "filters": {"taxonomy": "pt-contract-fast:level:2" }
     },    
     {
       "entity": "dataset",
@@ -136,7 +136,7 @@
       "name": "regional",
       "dimension": "nut2",
       "breakdown": "nut3",
-      "filters": {"taxonomy": "pt-contract:level:5" }
+      "filters": {"taxonomy": "pt-contract:level:3" }
     },
     {
       "entity": "entity",
@@ -144,7 +144,7 @@
       "name": "regional",
       "dimension": "nut3",
       "breakdown": "to",
-      "filters": {"taxonomy": "pt-contract:level:6" }
+      "filters": {"taxonomy": "pt-contract:level:4" }
     }
   ]
 }
