@@ -128,7 +128,7 @@
       "name": "regional",
       "dimension": "dataset",
       "breakdown": "nut2",
-      "filters": {"name": "pt-contract"}
+      "filters": {"name": "pt-contract-fast"}
     },
     {
       "entity": "classifier",
@@ -136,7 +136,7 @@
       "name": "regional",
       "dimension": "nut2",
       "breakdown": "nut3",
-      "filters": {"taxonomy": "pt-contract:level:3" }
+      "filters": {"taxonomy": "pt-contract-fast:level:3" }
     },
     {
       "entity": "entity",
@@ -144,7 +144,7 @@
       "name": "regional",
       "dimension": "nut3",
       "breakdown": "to",
-      "filters": {"taxonomy": "pt-contract:level:4" }
+      "filters": {"taxonomy": "pt-contract-fast:level:4" }
     }
   ]
 }
