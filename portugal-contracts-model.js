@@ -2,7 +2,7 @@
 "dataset": {
     "name": "pt-contract",
     "unique_keys": ["idAjusteDirecto"],     
-    "label": "Public administration contracts for Portugal",
+    "label": "Ajustes Directos",
     "description": "Public administration contracts for Portugal namely the contracts signed directly without tenders, namely as they are published in http://www.base.gov.pt",
     "currency": "EUR",
     "temporal_granularity": "year"
