@@ -1,10 +1,9 @@
-
 {
 	"dataset": {
-		"name": "ar-budget",
+		"name": "ar-budget-2011",
 		"unique_keys": ["id_unique"],     
-		"label": "Government Budget 2011",
-		"description": "Government Budget for 2011",
+		"label": "Argentina Government Budget 2011",
+		"description": "Government Budget for 2011 in Argentina",
 		"currency": "ARS",
 		"temporal_granularity": "year"
   	},
