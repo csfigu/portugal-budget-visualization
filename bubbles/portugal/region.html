@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta charset="UTF-8"/>
-	<title>PT</title>
+	<title>Exemplo Ajustes Directos Portugal</title>
 	<script type="text/javascript" src="./lib/vendor/jquery-1.5.2.min.js"></script>
 	<script type="text/javascript" src="./lib/vendor/jquery.history.js"></script>
 	<script type="text/javascript" src="./lib/vendor/raphael.js"></script>
@@ -44,9 +44,9 @@
 			
 			new OpenSpending.Aggregator({
 				apiUrl: 'http://sandbox.openspending.org/api',
-				dataset: 'pt-contract',
+				dataset: 'pt-contract-fast',
 				drilldowns: ['nut2', 'nut3'],
-				cuts: ['year:2011'],
+				cuts: ['year:2010'],
 				//localApiCache: 'aggregate.json',
 				//rootNodeLabel: 'Berliner Haushalt',
 				
@@ -69,7 +69,7 @@
 	</script>
 </head>
 <body>
-	<div id="header"><a class="title">OpenSpending</a>
+	<div id="header"><a class="title">OpenSpending Portugal</a>
 	<div class="subtitle">PT</div></div>
 	<div class="bubbletree-wrapper">
 		<div class="bubbletree"></div>
