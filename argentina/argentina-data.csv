@@ -1,477 +1,477 @@
-num_fin,id_unique,date,desc_finalidad,num_fun,desc_funcion,num_juris,desc_jurisdiccion,num_prog,desc_programa,presupuesto
-1.0,1.0,2011-01-31T00:00:00Z,Administración gubernamental,1.0,Legislativa,1.0,Poder Legislativo Nacional,16.0,Formación y Sanción de Leyes Nacionales - Cámara de Senadores,5.8751E8
-1.0,2.0,2011-01-31T00:00:00Z,Administración gubernamental,1.0,Legislativa,1.0,Poder Legislativo Nacional,17.0,Formación y Sanción Legislativa - Cámara de Diputados,8.55515784E8
-1.0,3.0,2011-01-31T00:00:00Z,Administración gubernamental,1.0,Legislativa,1.0,Poder Legislativo Nacional,19.0,Impresiones y Publicaciones Parlamentarias,7.9811485E7
-1.0,4.0,2011-01-31T00:00:00Z,Administración gubernamental,1.0,Legislativa,1.0,Poder Legislativo Nacional,21.0,Defensa de los Derechos de los Ciudadanos,6.8059554E7
-1.0,5.0,2011-01-31T00:00:00Z,Administración gubernamental,1.0,Legislativa,1.0,Poder Legislativo Nacional,22.0,Revisión de Cuentas Nacionales - Senado,1950000.0
-1.0,6.0,2011-01-31T00:00:00Z,Administración gubernamental,1.0,Legislativa,1.0,Poder Legislativo Nacional,23.0,Revisión de Cuentas Nacionales - Diputados,1060988.0
-1.0,7.0,2011-01-31T00:00:00Z,Administración gubernamental,1.0,Legislativa,1.0,Poder Legislativo Nacional,30.0,Fortalecimiento Institucional del Senado de la Nación (BID 1603/OC-AR),6911000.0
-1.0,8.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,1.0,Poder Legislativo Nacional,26.0,Protección de los Derechos del Interno Penitenciario,2.71419E7
-1.0,9.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,5.0,Poder Judicial de la Nación,1.0,Actividades Centrales,4.47351214E8
-1.0,10.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,5.0,Poder Judicial de la Nación,4.0,Mandamientos y Notificaciones,1.14347504E8
-1.0,11.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,5.0,Poder Judicial de la Nación,5.0,Pericias Judiciales,2.51369692E8
-1.0,12.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,5.0,Poder Judicial de la Nación,6.0,Biblioteca y Jurisprudencia,2.5242739E7
-1.0,13.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,5.0,Poder Judicial de la Nación,7.0,Archivo General,1.23366835E8
-1.0,14.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,5.0,Poder Judicial de la Nación,8.0,Administración General de la Corte Suprema de Justicia de la Nación,3.13063709E8
-1.0,15.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,5.0,Poder Judicial de la Nación,21.0,Justicia de Máxima Instancia,2.03832185E8
-1.0,16.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,5.0,Poder Judicial de la Nación,22.0,Justicia de Casación Penal,6.2677933E7
-1.0,17.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,5.0,Poder Judicial de la Nación,23.0,Justicia Ordinaria de la Capital Federal,1.473230589E9
-1.0,18.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,5.0,Poder Judicial de la Nación,24.0,Justicia Federal,1.958855947E9
-1.0,19.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,5.0,Poder Judicial de la Nación,25.0,Asistencia Social,3.8781414E7
-1.0,20.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,10.0,Ministerio Público,16.0,Ejercicio de la Acción Pública y Defensa de la Legalidad,7.88496977E8
-1.0,21.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,10.0,Ministerio Público,17.0,"Representación, Defensa y Curatela Pública Oficial",4.47314888E8
-1.0,22.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,40.0,Ministerio de Justicia y Derechos Humanos,16.0,"Acciones contra la Discriminación, la Xenofobia y el Racismo",4.9227065E7
-1.0,23.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,40.0,Ministerio de Justicia y Derechos Humanos,1.0,Actividades Centrales,1.3672108E8
-1.0,24.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,40.0,Ministerio de Justicia y Derechos Humanos,4.0,Actividad Común a los Programas 18 (Política e Infraestructura Penitenciaria) y 23 (Asistencia Jurídica y Relaciones con el Poder Judicial),4748501.0
-1.0,25.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,40.0,Ministerio de Justicia y Derechos Humanos,19.0,Regulación y Control Registral,6.8281718E7
-1.0,26.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,40.0,Ministerio de Justicia y Derechos Humanos,21.0,Defensa y Representación Jurídica y Notarial del Estado,3.189105E7
-1.0,27.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,40.0,Ministerio de Justicia y Derechos Humanos,23.0,Asistencia Jurídica y Relaciones con el Poder Judicial,9740898.0
-1.0,28.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,40.0,Ministerio de Justicia y Derechos Humanos,26.0,Promoción y Defensa de los Derechos Humanos,1.30351788E8
-1.0,29.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,40.0,Ministerio de Justicia y Derechos Humanos,28.0,"Prevención, Fiscalización y Sanción del Lavado de Activos",1.4081448E7
-1.0,30.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,40.0,Ministerio de Justicia y Derechos Humanos,32.0,Protección de Víctimas de Violencias,1.5161191E7
-1.0,31.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,40.0,Ministerio de Justicia y Derechos Humanos,36.0,Fortalecimiento de Procesos Judiciales contra Delitos de Lesa Humanidad,9767561.0
-1.0,32.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,91.0,Obligaciones a Cargo del Tesoro,96.0,Atención Servicios Financieros y Gastos Judiciales,575852.0
-1.0,33.0,2011-01-31T00:00:00Z,Administración gubernamental,2.0,Judicial,91.0,Obligaciones a Cargo del Tesoro,99.0,Otras Asistencias Financieras,5000000.0
-1.0,34.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,20.0,Presidencia de la Nación,1.0,Actividades Centrales,3.30387233E8
-1.0,35.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,20.0,Presidencia de la Nación,21.0,Asistencia y Coordinación de Políticas Sociales,2.6737197E7
-1.0,36.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,20.0,Presidencia de la Nación,20.0,Asistencia Legal y Técnica,6.2389994E7
-1.0,37.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,25.0,Jefatura de Gabinete de Ministros,1.0,Actividades Centrales,4.98136465E8
-1.0,38.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,25.0,Jefatura de Gabinete de Ministros,17.0,Modernización de la Gestión Pública,7.536877E7
-1.0,39.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,25.0,Jefatura de Gabinete de Ministros,19.0,Prensa y Difusión de Actos de Gobierno,5.12155917E8
-1.0,40.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,40.0,Ministerio de Justicia y Derechos Humanos,27.0,Controles Anticorrupción,7523179.0
-1.0,41.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,50.0,Ministerio de Economía y Finanzas Públicas,1.0,Actividades Centrales,5.12149768E8
-1.0,42.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,50.0,Ministerio de Economía y Finanzas Públicas,18.0,Formulación y Ejecución de Políticas Económicas,8.7541522E7
-1.0,43.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,50.0,Ministerio de Economía y Finanzas Públicas,42.0,Definición de Políticas de Coordinación Económica,2.6304106E7
-1.0,44.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,50.0,Ministerio de Economía y Finanzas Públicas,43.0,Definición de Políticas de Programación Económica,1.1833896E7
-1.0,45.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,50.0,Ministerio de Economía y Finanzas Públicas,44.0,Coordinación de Préstamos de Rápido Desembolso de OIC,5559000.0
-1.0,46.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,51.0,Ministerio de Industria,1.0,Actividades Centrales,4.915582E7
-1.0,47.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,52.0,"Ministerio de Agricultura, Ganadería y Pesca",1.0,Actividades Centrales,2.14290883E8
-1.0,48.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",1.0,Actividades Centrales,1.76695501E8
-1.0,49.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",7.0,Actividades Comunes a los Programas de Obras Públicas,1.1675167E7
-1.0,50.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",50.0,"Formulación, Programación, Ejecución y Control de Obras Públicas",1.7656104E7
-1.0,51.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",85.0,Acciones Hídricas y Viales para el Dessarrollo Integrador de,581000.0
-1.0,52.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",86.0,Apoyo para el Desarrollo de Infraestructura Urbana en Municipalidades,1505866.0
-1.0,53.0,2011-01-31T00:00:00Z,Administración gubernamental,3.0,Dirección superior ejecutiva,91.0,Obligaciones a Cargo del Tesoro,99.0,Otras Asistencias Financieras,4.216801E7
-1.0,54.0,2011-01-31T00:00:00Z,Administración gubernamental,4.0,Relaciones exteriores,35.0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",1.0,Actividades Centrales,3.71064247E8
-1.0,55.0,2011-01-31T00:00:00Z,Administración gubernamental,4.0,Relaciones exteriores,35.0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",16.0,Acciones Diplomáticas de Política Exterior,1.167907015E9
-1.0,56.0,2011-01-31T00:00:00Z,Administración gubernamental,4.0,Relaciones exteriores,35.0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",17.0,Registro y Sostenimiento de Cultos,3.6001585E7
-1.0,57.0,2011-01-31T00:00:00Z,Administración gubernamental,4.0,Relaciones exteriores,35.0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",18.0,Comisión Cascos Blancos,1.4595784E7
-1.0,58.0,2011-01-31T00:00:00Z,Administración gubernamental,4.0,Relaciones exteriores,35.0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",19.0,Mantenimiento y Promoción de las Relaciones Económicas Internacionales,1.98581535E8
-1.0,59.0,2011-01-31T00:00:00Z,Administración gubernamental,4.0,Relaciones exteriores,35.0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",21.0,Acciones para el Desarrollo de Inversiones y la Captación de Inversión Extranjera Directa,3.5530005E7
-1.0,60.0,2011-01-31T00:00:00Z,Administración gubernamental,4.0,Relaciones exteriores,91.0,Obligaciones a Cargo del Tesoro,97.0,Aportes al Sector Externo,2.60596448E8
-1.0,61.0,2011-01-31T00:00:00Z,Administración gubernamental,5.0,Relaciones interiores,30.0,Ministerio del Interior,16.0,"Identificación, Registro y Clasificación del Potencial Humano Nacional",3.63698417E8
-1.0,62.0,2011-01-31T00:00:00Z,Administración gubernamental,5.0,Relaciones interiores,30.0,Ministerio del Interior,16.0,Control de Ingresos y  Egresos de Personas en el Territorio Nacional,3.50381E8
-1.0,63.0,2011-01-31T00:00:00Z,Administración gubernamental,5.0,Relaciones interiores,30.0,Ministerio del Interior,1.0,Actividades Centrales,1.48974756E8
-1.0,64.0,2011-01-31T00:00:00Z,Administración gubernamental,5.0,Relaciones interiores,30.0,Ministerio del Interior,16.0,Fomento e Impulso al Desarrollo del Sistema Democrático,7.92753731E8
-1.0,65.0,2011-01-31T00:00:00Z,Administración gubernamental,5.0,Relaciones interiores,30.0,Ministerio del Interior,17.0,"Cooperación, Asistencia Técnica y Capacitación a Municipios",4328500.0
-1.0,66.0,2011-01-31T00:00:00Z,Administración gubernamental,5.0,Relaciones interiores,30.0,Ministerio del Interior,18.0,Ejecución de Políticas Poblacionales,2442723.0
-1.0,67.0,2011-01-31T00:00:00Z,Administración gubernamental,5.0,Relaciones interiores,30.0,Ministerio del Interior,19.0,Asistencia Técnica y Financiera a Provincias,3.47393141E8
-1.0,68.0,2011-01-31T00:00:00Z,Administración gubernamental,5.0,Relaciones interiores,30.0,Ministerio del Interior,25.0,Fortalecimiento de las Relaciones con la Comunidad,3856958.0
-1.0,69.0,2011-01-31T00:00:00Z,Administración gubernamental,5.0,Relaciones interiores,30.0,Ministerio del Interior,45.0,Acciones de Asistencia Civil,9.3962432E7
-1.0,70.0,2011-01-31T00:00:00Z,Administración gubernamental,5.0,Relaciones interiores,91.0,Obligaciones a Cargo del Tesoro,93.0,Fondo Federal Solidario,7.3086E9
-1.0,71.0,2011-01-31T00:00:00Z,Administración gubernamental,5.0,Relaciones interiores,91.0,Obligaciones a Cargo del Tesoro,98.0,Asistencia Financiera a Provincias y Municipios,9.75059277E8
-1.0,72.0,2011-01-31T00:00:00Z,Administración gubernamental,6.0,Administración fiscal,50.0,Ministerio de Economía y Finanzas Públicas,1.0,Actividades Centrales,5.7476397E7
-1.0,73.0,2011-01-31T00:00:00Z,Administración gubernamental,6.0,Administración fiscal,50.0,Ministerio de Economía y Finanzas Públicas,12.0,Actividades Comunes a los Prog. de la Secretaría de Hacienda,2859996.0
-1.0,74.0,2011-01-31T00:00:00Z,Administración gubernamental,6.0,Administración fiscal,50.0,Ministerio de Economía y Finanzas Públicas,22.0,"Finanzas, Bancos y Seguros",2.7965485E7
-1.0,75.0,2011-01-31T00:00:00Z,Administración gubernamental,6.0,Administración fiscal,50.0,Ministerio de Economía y Finanzas Públicas,26.0,Administración Financiera,1.88141957E8
-1.0,76.0,2011-01-31T00:00:00Z,Administración gubernamental,6.0,Administración fiscal,50.0,Ministerio de Economía y Finanzas Públicas,27.0,Administración de Política Tributaria,1.5397995E7
-1.0,77.0,2011-01-31T00:00:00Z,Administración gubernamental,6.0,Administración fiscal,50.0,Ministerio de Economía y Finanzas Públicas,47.0,Relaciones con Provincias,4.5905573E7
-1.0,78.0,2011-01-31T00:00:00Z,Administración gubernamental,6.0,Administración fiscal,50.0,Ministerio de Economía y Finanzas Públicas,16.0,Resolución de Cuestiones Dudosas y Litigiosas,3.4763524E7
-1.0,79.0,2011-01-31T00:00:00Z,Administración gubernamental,6.0,Administración fiscal,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",34.0,Administración de Bienes del Estado,6.3559313E7
-1.0,80.0,2011-01-31T00:00:00Z,Administración gubernamental,6.0,Administración fiscal,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",54.0,Tasación de Bienes,1.2817E7
-1.0,81.0,2011-01-31T00:00:00Z,Administración gubernamental,6.0,Administración fiscal,91.0,Obligaciones a Cargo del Tesoro,99.0,Otras Asistencias Financieras,2.130967E9
-1.0,82.0,2011-01-31T00:00:00Z,Administración gubernamental,7.0,Control de la gestión pública,1.0,Poder Legislativo Nacional,25.0,Control Parlamentario sobre el Funcionamiento del Sistema de Inteligencia,4400000.0
-1.0,83.0,2011-01-31T00:00:00Z,Administración gubernamental,7.0,Control de la gestión pública,1.0,Poder Legislativo Nacional,31.0,Control Parlamentario de Seguimiento de Trámite Legislativo,1800000.0
-1.0,84.0,2011-01-31T00:00:00Z,Administración gubernamental,7.0,Control de la gestión pública,1.0,Poder Legislativo Nacional,32.0,Control Parlamentario de Los Fondos de la Seguridad Social,3042001.0
-1.0,85.0,2011-01-31T00:00:00Z,Administración gubernamental,7.0,Control de la gestión pública,1.0,Poder Legislativo Nacional,16.0,Control Externo del Sector Público Nacional,2.57643796E8
-1.0,86.0,2011-01-31T00:00:00Z,Administración gubernamental,7.0,Control de la gestión pública,20.0,Presidencia de la Nación,16.0,Control Interno del Poder Ejecutivo Nacional,1.13757175E8
-1.0,87.0,2011-01-31T00:00:00Z,Administración gubernamental,7.0,Control de la gestión pública,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",25.0,Ejecución de Obras de Arquitectura,6105509.0
-1.0,88.0,2011-01-31T00:00:00Z,Administración gubernamental,8.0,Información y estadística básicas,30.0,Ministerio del Interior,26.0,Conservación y Custodia de los Documentos de la Nación,4588646.0
-1.0,89.0,2011-01-31T00:00:00Z,Administración gubernamental,8.0,Información y estadística básicas,50.0,Ministerio de Economía y Finanzas Públicas,19.0,Servicio Estadístico,2.23849086E8
-1.0,90.0,2011-01-31T00:00:00Z,Administración gubernamental,8.0,Información y estadística básicas,50.0,Ministerio de Economía y Finanzas Públicas,20.0,Censo Nacional Económico,3736757.0
-1.0,91.0,2011-01-31T00:00:00Z,Administración gubernamental,8.0,Información y estadística básicas,50.0,Ministerio de Economía y Finanzas Públicas,21.0,Censo Nacional Agropecuario,5571338.0
-1.0,92.0,2011-01-31T00:00:00Z,Administración gubernamental,8.0,Información y estadística básicas,50.0,Ministerio de Economía y Finanzas Públicas,23.0,"Censo Nacional de Población, Hogares y Vivienda",2.5632E7
-2.0,93.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,16.0,Conducción y Planificación para la Defensa,1.15877044E8
-2.0,94.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,18.0,Mantenimiento y Producción para la Defensa,5.03008732E8
-2.0,95.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,22.0,Servicios de Hidrografía,3.4252127E7
-2.0,96.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,23.0,Logística de la Defensa,1.5100647E7
-2.0,97.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,98.0,Transferencias Varias,9939032.0
-2.0,98.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,1.0,Actividades Centrales - Estado Mayor General del Ejército,5.24562614E8
-2.0,99.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,16.0,Alistamiento Operacional - Estado Mayor General del Ejército,3.095301409E9
-2.0,100.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,19.0,Remonta y Veterinaria,7.8517396E7
-2.0,101.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,20.0,Sastrería Militar,2.5108445E7
-2.0,102.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,1.0,Actividades Centrales - Estado Mayor General de la Armada,4.61736647E8
-2.0,103.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,16.0,Alistamiento Operacional - Estado Mayor General de la Armada,1.702999669E9
-2.0,104.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,19.0,Hidrografía Naval,3.9548774E7
-2.0,105.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,20.0,Transportes Navales,4.0726709E7
-2.0,106.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,24.0,Sostenimiento Operacional - Estado Mayor General de la Armada,0.0
-2.0,107.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,1.0,Actividades Centrales - Estado Mayor General de la Fuerza Aérea,3.77045242E8
-2.0,108.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,16.0,Alistamiento Operacional - Estado Mayor General de la Fuerzas Aérea,1.205346636E9
-2.0,109.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,24.0,Sostenimiento Operacional - Estado Mayor General de la Fuerza Aérea,0.0
-2.0,110.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,1.0,Actividades Centrales - Estado Mayor Conjunto de las Fuerzas Armadas,2.0604967E7
-2.0,111.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,16.0,Planeamiento Militar Conjunto,2.3753467E7
-2.0,112.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,17.0,Fuerzas de Paz,2.10248032E8
-2.0,113.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,1.0,Defensa,45.0,Ministerio de Defensa,21.0,Planeamiento y Conducción de Operaciones y de Adiestramiento Militar Conjunto,0.0
-2.0,114.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,30.0,Ministerio del Interior,16.0,Acciones de Seguridad Vial,1.77232817E8
-2.0,115.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,40.0,Ministerio de Justicia y Derechos Humanos,30.0,Registro de Armas Secuestradas y Decomisadas,1.8282484E7
-2.0,116.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,1.0,Actividades Centrales - Ministerio de Seguridad,1.5306293E7
-2.0,117.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,29.0,Administración Civil de las Fuerzas de Seguridad,5.63447472E8
-2.0,118.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,33.0,Conducción y Supervisión de la Seguridad Interior,2.654012E7
-2.0,119.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,1.0,Actividades Centrales - Policía Federal Argentina,5.63796296E8
-2.0,120.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,21.0,Prestación del Servicio de Seguridad a Personas y Bienes,3.700748212E9
-2.0,121.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,1.0,Actividades Centrales - Gendarmería Nacional,3.18034686E8
-2.0,122.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,40.0,Capacidad Operacional de la Gendarmería Nacional,3.368380013E9
-2.0,123.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,44.0,Misiones Humanitarias y de Paz para Organismos Internacionales,4286492.0
-2.0,124.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,45.0,Atención de Pasos Fronterizos - Gendarmería Nacional,6008715.0
-2.0,125.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,1.0,Actividades Centrales - Prefectura Naval Argentina,2.80156742E8
-2.0,126.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,29.0,Servicio Técnico de Seguridad de la Navegación,2.9551492E7
-2.0,127.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,30.0,Servicio de Informática y Comunicaciones,9.9819121E7
-2.0,128.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,31.0,Servicio de Seguridad de la Navegación y de Policía de Seguridad y Judicial,1.557869548E9
-2.0,129.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,38.0,Atención de Pasos Fronterizos - Prefectura Naval Argentina,57000.0
-2.0,130.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,41.0,Ministerio de Seguridad,22.0,Prestación del Servicio de Seguridad Aeroportuaria,4.3801049E8
-2.0,131.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",25.0,Ejecución de Obras de Arquitectura,3.02E7
-2.0,132.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,2.0,Seguridad interior,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",62.0,Formulación y Ejecución Políticas de Transporte Ferroviario,1.02948E8
-2.0,133.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,3.0,Sistema penal,40.0,Ministerio de Justicia y Derechos Humanos,18.0,Política e Infraestructura Penitenciaria,2.48647595E8
-2.0,134.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,3.0,Sistema penal,40.0,Ministerio de Justicia y Derechos Humanos,1.0,Actividades Centrales,2.03673096E8
-2.0,135.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,3.0,Sistema penal,40.0,Ministerio de Justicia y Derechos Humanos,16.0,Seguridad y Rehabilitación del Interno,1.172378753E9
-2.0,136.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,3.0,Sistema penal,40.0,Ministerio de Justicia y Derechos Humanos,24.0,Cooperación Técnica y Financiera para la Laborterapia de Internos,1.44073373E8
-2.0,137.0,2011-01-31T00:00:00Z,#NAME?,4.0,#NAME?,20.0,#NAME?,16.0,Información e Inteligencia,5.14716675E8
-2.0,138.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,4.0,Inteligencia,41.0,Ministerio de Seguridad,33.0,Conducción y Supervisión de la Seguridad Interior,3.337867E7
-2.0,139.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,4.0,Inteligencia,41.0,Ministerio de Seguridad,92.0,Administración del Fondo Permanente de Recompensas,1100000.0
-2.0,140.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,4.0,Inteligencia,41.0,Ministerio de Seguridad,1.0,Actividades Centrales,9.1916221E7
-2.0,141.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,4.0,Inteligencia,41.0,Ministerio de Seguridad,1.0,Actividades Centrales,5.5631916E7
-2.0,142.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,4.0,Inteligencia,41.0,Ministerio de Seguridad,1.0,Actividades Centrales,1.44388E7
-2.0,143.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,4.0,Inteligencia,45.0,Ministerio de Defensa,16.0,Conducción y Planificación para la Defensa,3470958.0
-2.0,144.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,4.0,Inteligencia,45.0,Ministerio de Defensa,16.0,Alistamiento Operacional,1.84307765E8
-2.0,145.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,4.0,Inteligencia,45.0,Ministerio de Defensa,16.0,Alistamiento Operacional,3.92953E7
-2.0,146.0,2011-01-31T00:00:00Z,Servicios de defensa y seguridad,4.0,Inteligencia,45.0,Ministerio de Defensa,16.0,Alistamiento Operacional,5.2491519E7
-3.0,147.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,1.0,Poder Legislativo Nacional,20.0,Asistencia Social Integral al Personal del Congreso de la Nación,1.02337811E8
-3.0,148.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,41.0,Ministerio de Seguridad,22.0,Asistencia Médica Sanitaria al Personal Policial y su Familia,2.59990402E8
-3.0,149.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,41.0,Ministerio de Seguridad,42.0,Asistencia Sanitaria de la Gendarmería Nacional,1.9322609E8
-3.0,150.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,41.0,Ministerio de Seguridad,36.0,Atención Sanitaria de la Prefectura Naval Argentina,5.5138217E7
-3.0,151.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,45.0,Ministerio de Defensa,18.0,Asistencia Sanitaria - Estado Mayor General del Ejército,5.16711487E8
-3.0,152.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,45.0,Ministerio de Defensa,17.0,Sanidad Naval,2.50401672E8
-3.0,153.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,45.0,Ministerio de Defensa,19.0,Asistencia Sanitaria de la Fuerza Aérea,3.26036565E8
-3.0,154.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,45.0,Ministerio de Defensa,18.0,Producción de Medicamentos en Laboratorios Militares,3227049.0
-3.0,155.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",25.0,Ejecución de Obras de Arquitectura,8.4835957E7
-3.0,156.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",50.0,"Formulación, Programación, Ejecución y Control de Obras Públicas",9.7964844E7
-3.0,157.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,70.0,Ministerio de Educación,26.0,Desarrollo de la Educación Superior,3.12892786E8
-3.0,158.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",99.0,Transferencias al Instituto Nacional de Servicios Sociales para Jubilados y Pensionados,3.926851001E9
-3.0,159.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,1.0,Actividades Centrales,2.28341408E8
-3.0,160.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,2.0,"Actividades Comunes a los Programas 17, 20, 22, 24, 25, 26, 29 , 30, 36, 37, 39 y 40",5976764.0
-3.0,161.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,3.0,"Actividades Comunes a los Programas con Financiamiento Externo 17, 20, 22, 25, 29, 30, 37,",1.0166617E7
-3.0,162.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,5.0,"Actividades Comunes a los Programas 16, 18 y 21",5256578.0
-3.0,163.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,16.0,Apoyo al Desarrollo de la Atención Médica,4.2474897E7
-3.0,164.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,17.0,Atención de la Madre y el Niño,6.84476464E8
-3.0,165.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,18.0,Formación de Recursos Humanos Sanitarios y Asistenciales,1.29176182E8
-3.0,166.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,19.0,"Determinantes de la Salud, Relaciones Sanitarias e Investigación",3.1966145E7
-3.0,167.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,20.0,Prevención y Control de Enfermedades y Riesgos Específicos,7.71143665E8
-3.0,168.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,21.0,"Planificación, Control, Regulación y Fiscalización de la Política de Salud",3.7321109E7
-3.0,169.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,22.0,Lucha Contra el SIDA y Enfermedades de Transmisión Sexual,3.81950356E8
-3.0,170.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,24.0,Detección y Tratamiento de Enfermedades Crónicas y Factores de Riesgo para la Salud,2.4195568E7
-3.0,171.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,25.0,Atención Primaria de la Salud,2.2979489E7
-3.0,172.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,26.0,Cobertura de Emergencias Sanitarias,8628156.0
-3.0,173.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,29.0,Reforma del Sector Salud (BID 1903/OC-AR),1.75246949E8
-3.0,174.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,30.0,Fortalecimiento de la Capacidad del Sistema Público de Salud,1.42304549E8
-3.0,175.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,36.0,At. Médica a los Beneficiarios de Pensiones no Contributivas,1.240859938E9
-3.0,176.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,37.0,Prevención y Control de Enfermedades Endémicas,6.457326E7
-3.0,177.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,38.0,Funciones Esenciales de Salud Pública (BIRF 7412-AR),1.7160374E8
-3.0,178.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,39.0,Desarrollo Estrategias en Salud Familiar y Comunitaria,2.89366632E8
-3.0,179.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,40.0,Sanidad Escolar,4894710.0
-3.0,180.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,41.0,Atención Sanitaria en el Territorio,2.8753392E7
-3.0,181.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,42.0,Detección Temprana y Tratamiento de Patologías Específicas,1.0664223E7
-3.0,182.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,99.0,"Transferencias Hospital Garraham, Hospital El Cruce y Otras",6.26786135E8
-3.0,183.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,53.0,Atención a Enfermos - Hospital Baldomero Sommer,1.13814274E8
-3.0,184.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,54.0,"Control y Fiscalización de Medicamentos, Alimentos y Productos Médicos",1.26185741E8
-3.0,185.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,55.0,Regulación de la Ablación e Implantes,4.4963E7
-3.0,186.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,58.0,Atencion Sanitaria para la Comunidad - Hospital Posadas,5.03266909E8
-3.0,187.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,59.0,Atención de Pacientes - Colonia Montes de Oca,1.13368032E8
-3.0,188.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,60.0,Atención a Discapacitados Psicofísicos,4.0864891E7
-3.0,189.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,62.0,Prevención y Control de las Discapacidades,5.4509146E7
-3.0,190.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,63.0,Asistencia Financiera a Agentes del Seguro de Salud,1.059752988E9
-3.0,191.0,2011-01-31T00:00:00Z,Servicios sociales,1.0,Salud,80.0,Ministerio de Salud,50.0,Regulación y Control del Sistema de Salud,9.2047786E7
-3.0,192.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,20.0,Presidencia de la Nación,17.0,Formulación e Implementación de Políticas Públicas de la Mujer,8131053.0
-3.0,193.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,20.0,Presidencia de la Nación,21.0,Asistencia y Coordinación de Políticas Sociales,1.072625E8
-3.0,194.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,20.0,Presidencia de la Nación,16.0,"Prevención, Asistencia, Control y Lucha Contra la Drogadicción",6.478882E7
-3.0,195.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,25.0,Jefatura de Gabinete de Ministros,37.0,Acciones para la Provisión de Tierras para el Hábitat Social,3.9329246E7
-3.0,196.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,52.0,"Ministerio de Agricultura, Ganadería y Pesca",3.0,Actividades Comunes a los Programas 39 y 40,806990.0
-3.0,197.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,52.0,"Ministerio de Agricultura, Ganadería y Pesca",39.0,"Programa Social Agropecuario (PROINDER BIRF 4212, 7478 y PO Nº 106685)",6.1877E7
-3.0,198.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",25.0,Ejecución de Obras de Arquitectura,4.7948607E7
-3.0,199.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",50.0,"Formulación, Programación, Ejecución y Control de Obras Públicas",7.31089856E8
-3.0,200.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",86.0,Apoyo para el Dessarrollo de Infraestructura Urbana en Municipios,2.08923807E8
-3.0,201.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,80.0,Ministerio de Salud,52.0,Asistencia Integral y Prevención en Drogadicción,3.202386E7
-3.0,202.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,1.0,Actividades Centrales,5.00044462E8
-3.0,203.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,2.0,"Actividades Comunes a los Programas 21, 24 y 28",8564749.0
-3.0,204.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,3.0,Actividades Comunes a los Programas 20 y 26,1411710.0
-3.0,205.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,4.0,"Actividades Comunes a los Programas 44, 45, 46 y 47",6.696642E7
-3.0,206.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,20.0,Acciones de Promoción y Protección Social,7.32900514E8
-3.0,207.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,21.0,"Capacitación, Fortalecimiento y Asistencia Técnica",4.6368074E7
-3.0,208.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,23.0,Pensiones no Contributivas,8275097.0
-3.0,209.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,24.0,"Promoción del Empleo Social, Economía Social y Desarrollo Lo",5.75047419E8
-3.0,210.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,26.0,Seguridad Alimentaria,1.914349618E9
-3.0,211.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,28.0,Familias por la Inclusión Social,7.6693619E7
-3.0,212.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,38.0,Programa del Ingreso Social con Trabajo,3.787451129E9
-3.0,213.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,44.0,"Acciones para la Promoción y Protección Integral de los Derechos de Niños, Niñas y Adolesc",2.03294941E8
-3.0,214.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,45.0,Políticas Federales para la Promoción de los Derechos de Niños y Adolescentes,5.5370568E7
-3.0,215.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,46.0,Promoción y Protección de los Derechos de Adultos Mayores,5.4266004E7
-3.0,216.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,47.0,Promoción y Asistencia a los Centros de Desarrollo Infantil Comunitarios,4483107.0
-3.0,217.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,99.0,Transferencias Varias,693100.0
-3.0,218.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,16.0,Asistencia a la Actividad Cooperativa y Mutual,2.79675411E8
-3.0,219.0,2011-01-31T00:00:00Z,Servicios sociales,2.0,Promoción y asistencia social,85.0,Ministerio de Desarrollo Social,16.0,Atención y Desarrollo de Poblaciones Indígenas,3.9377483E7
-3.0,220.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,1.0,Poder Legislativo Nacional,17.0,Formación y Sanción Legislativa,780000.0
-3.0,221.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,5.0,Poder Judicial de la Nación,26.0,Atención de Pasividades,1.9219E7
-3.0,222.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,40.0,Ministerio de Justicia y Derechos Humanos,17.0,Pagos a Retirados y Pensionados del Servicio Penitenciario Federal,5.52431201E8
-3.0,223.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,41.0,Ministerio de Seguridad,43.0,Pasividades de la Gendarmería Nacional,7.29851338E8
-3.0,224.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,41.0,Ministerio de Seguridad,32.0,Atención Pasividades de la Prefectura Naval Argentina,5.12360496E8
-3.0,225.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,41.0,Ministerio de Seguridad,16.0,"Administración de Beneficios Previsionales - Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal",2.9900225E9
-3.0,226.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,41.0,Ministerio de Seguridad,17.0,Atención de Pasividades de la Policía Ex-Territorios Nacionales,7.7718432E7
-3.0,227.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,45.0,Ministerio de Defensa,16.0,Prestaciones de Previsión Social del Instituto Nacional de Ayuda Financiera para el Pago de Retiros y Pensiones Militares,3.0306188E9
-3.0,228.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,53.0,Ministerio de Turismo,18.0,Atención a Pasividades de Guardaparques,2298000.0
-3.0,229.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",1.0,Actividades Centrales,3.629949791E9
-3.0,230.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",16.0,Prestaciones Previsionales,1.01892639434E11
-3.0,231.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",17.0,Complementos a las Prestaciones Previsionales,3.5208E8
-3.0,232.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",18.0,Seguro de Desempleo,7.16887E8
-3.0,233.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",19.0,Asignaciones Familiares,1.9927799994E10
-3.0,234.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",20.0,Atención Ex-Cajas Provinciales,6.885005282E9
-3.0,235.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",21.0,Atencion Pensiones Ex-Combatientes,8.42872283E8
-3.0,236.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",99.0,Transferencias a Cajas Previsionales Provinciales y a la AFIP,2.574983E9
-3.0,237.0,2011-01-31T00:00:00Z,Servicios sociales,3.0,Seguridad social,85.0,Ministerio de Desarrollo Social,23.0,Pensiones no Contributivas,1.1406743556E10
-3.0,238.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,1.0,Poder Legislativo Nacional,18.0,Asistencia Bibliográfica,1.87263236E8
-3.0,239.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,20.0,Presidencia de la Nación,1.0,Actividades Centrales de la Secretaría de Presidencia de la Nación,8084001.0
-3.0,240.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,20.0,Presidencia de la Nación,1.0,Actividades Centrales de la Secretaría de Cultura,1.26072203E8
-3.0,241.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,20.0,Presidencia de la Nación,36.0,Difusión de la Música y Danza,8.8768668E7
-3.0,242.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,20.0,Presidencia de la Nación,37.0,Preservación y Exhibición Artística - Cultural,5.7936683E7
-3.0,243.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,20.0,Presidencia de la Nación,38.0,Desarrollo y Promoción Cultural,1.6757264E7
-3.0,244.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,20.0,Presidencia de la Nación,40.0,Fomento y Apoyo Económico a Bibliotecas Populares,3.2613175E7
-3.0,245.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,20.0,Presidencia de la Nación,41.0,Estudios e Investigaciones Históricas sobre Juan Domingo Perón,4358000.0
-3.0,246.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,20.0,Presidencia de la Nación,42.0,"Difusión, Concientización y Protección del Patrimonio Cultural del Museo de Bellas Artes",1.2071017E7
-3.0,247.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,20.0,Presidencia de la Nación,16.0,Acciones Artísticas del Teatro Nacional Cervantes,3.762361E7
-3.0,248.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,20.0,Presidencia de la Nación,25.0,Servicios de la Biblioteca Nacional,5.855243E7
-3.0,249.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,20.0,Presidencia de la Nación,16.0,"Fomento, Producción y Difusión del Teatro",4.5605949E7
-3.0,250.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,20.0,Presidencia de la Nación,16.0,Financiamiento para el Fomento de las Artes,1.8403E7
-3.0,251.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,25.0,Jefatura de Gabinete de Ministros,20.0,Capacitación de los Recursos Humanos del Sector Público,3.3647261E7
-3.0,252.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,25.0,Jefatura de Gabinete de Ministros,46.0,Programa Fútbol para Todos,6.9E8
-3.0,253.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,40.0,Ministerio de Justicia y Derechos Humanos,25.0,Formación y Capacitación del Servicio Penitenciario Federal,1.05079636E8
-3.0,254.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,41.0,Ministerio de Seguridad,23.0,Formación y Capacitación del Personal de la Policía Federal,1.96667975E8
-3.0,255.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,41.0,Ministerio de Seguridad,41.0,Formación y Capacitación de la Gendarmería Nacional,5.2014066E8
-3.0,256.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,41.0,Ministerio de Seguridad,37.0,Formación y Capacitación Profesional de la Prefectura Naval Argentina,1.88283173E8
-3.0,257.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,41.0,Ministerio de Seguridad,22.0,Prestación del Servicio de Seguridad Aeroportuaria - Formación y Capacitación,1.159855E7
-3.0,258.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,45.0,Ministerio de Defensa,21.0,Formación y Capacitación - Escuela de Defensa Nacional,6673459.0
-3.0,259.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,45.0,Ministerio de Defensa,17.0,Formación y Capacitación - Estado Mayor General del Ejército,7.36206949E8
-3.0,260.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,45.0,Ministerio de Defensa,18.0,Formación y Capacitación - Estado Mayor General de la Armada,5.2330368E8
-3.0,261.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,45.0,Ministerio de Defensa,20.0,Capacitación y Formación de la Fuerza Aérea,3.12966201E8
-3.0,262.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,45.0,Ministerio de Defensa,19.0,Formación y Capacitación - Estado Mayor Conjunto de las Fuerzas Armadas,1.1265502E7
-3.0,263.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",25.0,Ejecución de Obras de Arquitectura,1.52545E8
-3.0,264.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",50.0,"Formulación, Programación, Ejecución y Control de Obras Públicas",3000000.0
-3.0,265.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",88.0,Apoyo para el Desarrollo de la Infraestructura Universitaria,2.01095E8
-3.0,266.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",89.0,"Acciones para ""Más Escuelas, Mejor Educación"" - BID Nº 1345 y 1966)",6.3215354E8
-3.0,267.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,1.0,Actividades Centrales,1.23498567E8
-3.0,268.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,9.0,"Activ. Comunes a los Programas de Educ. 29,32,33, 35, 45 y 46",3.3041535E7
-3.0,269.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,26.0,Desarrollo de la Educación Superior,1.3300105378E10
-3.0,270.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,29.0,Gestión Educativa,1.062062713E9
-3.0,271.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,30.0,Cooperación e Integración Educativa Internacional,3.5694701E7
-3.0,272.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,32.0,Información y Evaluación de la Calidad Educativa,3.8203308E7
-3.0,273.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,33.0,Acciones Compensatorias en Educación,2.87305941E8
-3.0,274.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,35.0,Servicio de la Biblioteca de Maestros,9394494.0
-3.0,275.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,37.0,Infraestructura y Equipamiento,3.86966978E8
-3.0,276.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,39.0,Innovación y Desarrollo de la Formación Tecnológica,8.44981071E8
-3.0,277.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,41.0,Planeamiento Educativo y Fortalecimiento de las Administraciones Provinciales,7350443.0
-3.0,278.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,44.0,Mejoramiento de la Calidad Educativa,7.9616681E7
-3.0,279.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,45.0,Acciones de Formación Docente,8.0741624E7
-3.0,280.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,98.0,Fondo Nacional de Incentivo Docente,3.011590753E9
-3.0,281.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,99.0,Transferencias Varias,7.9845727E7
-3.0,282.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,70.0,Ministerio de Educación,16.0,Evaluación y Acreditación Universitaria,2.744655E7
-3.0,283.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",28.0,"Asistencia Financiera al ""Programa Conectar Igualdad.com.ar""",2.198786E9
-3.0,284.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,85.0,Ministerio de Desarrollo Social,6.0,Actividad Común a los Programas 17 y 18,4.167875E7
-3.0,285.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,85.0,Ministerio de Desarrollo Social,17.0,Desarrollo  y Fomento del Deporte Social y del Deporte de Alto Rendimiento,7.4278814E7
-3.0,286.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,85.0,Ministerio de Desarrollo Social,18.0,Asistencia Médico-Deportiva y Control Antidoping,5275710.0
-3.0,287.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,91.0,Obligaciones a Cargo del Tesoro,95.0,Asistencia Financiera a Empresas Públicas y Ente Binacional,7.3054E7
-3.0,288.0,2011-01-31T00:00:00Z,Servicios sociales,4.0,Educación y cultura,91.0,Obligaciones a Cargo del Tesoro,99.0,Otras Asistencias Financieras,3.139327773E9
-3.0,289.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,35.0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",20.0,Desarrollo del Plan Antártico,5.6578814E7
-3.0,290.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,35.0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",1.0,Actividades Centrales de la Comisión Nacional de Actividades Espaciales (CNAE),4.6302469E7
-3.0,291.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,35.0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",2.0,Actividades Comunes a los Programas 16 y 17 de la CNAE,529400.0
-3.0,292.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,35.0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",16.0,Generación de Ciclos de Información Espacial Completos,2.85346717E8
-3.0,293.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,35.0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",17.0,Investigación y Desarrollo de Medios de Acceso al Espacio,4.6359E7
-3.0,294.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,35.0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",18.0,Reconversión de la Planta Industrial Falda del Carmen,16000.0
-3.0,295.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,45.0,Ministerio de Defensa,16.0,Conducción y Planificación para la Defensa - Investigación y Desarrollo,4958000.0
-3.0,296.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,45.0,Ministerio de Defensa,17.0,Desarrollo Tecnológico para la Defensa,8.1614668E7
-3.0,297.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,45.0,Ministerio de Defensa,16.0,Alistamiento Operacional - Estado Mayor General de la Armada - Recuperación Rompehielos Almirante Irizar,8.2140739E7
-3.0,298.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,45.0,Ministerio de Defensa,20.0,Sostén Logístico Antártico,1.37686657E8
-3.0,299.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,45.0,Ministerio de Defensa,16.0,Elaboración y Actualización de Cartografía Básica Nacional,4.563516E7
-3.0,300.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,51.0,Ministerio de Industria,16.0,Desarrollo y Competitividad Industrial,2.433206E8
-3.0,301.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,52.0,"Ministerio de Agricultura, Ganadería y Pesca",1.0,Actividades Centrales del Instituto Nacional de Tecnología Agropecuaria (INTA),2.38704547E8
-3.0,302.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,52.0,"Ministerio de Agricultura, Ganadería y Pesca",16.0,Investigación Fundamental e Innovaciones Tecnológicas (INTA),1.55753472E8
-3.0,303.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,52.0,"Ministerio de Agricultura, Ganadería y Pesca",17.0,"Investigación Aplicada, Innovación y Transferencias de Tecnologías (INTA)",8.37333697E8
-3.0,304.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",25.0,Ejecución de Obras de Arquitectura,4920000.0
-3.0,305.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",30.0,Prevención Sísmica,1.1046451E7
-3.0,306.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",1.0,Actividades Centrales de la Comisión Nacional de Energía Atómica (CNEA),2.81967688E8
-3.0,307.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",20.0,Desarrollos y Suministros para la Energía Nuclear,1.4981097E8
-3.0,308.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",21.0,Aplicaciones de la Tecnología Nuclear,8.8050107E7
-3.0,309.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",22.0,Acciones para la Seguridad Nuclear y Protección Ambiental,1.15370816E8
-3.0,310.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",23.0,Investigación y Aplicaciones no Nucleares,4.9844618E7
-3.0,311.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",24.0,Suminitros y Tecnología Ciclo Combustible Nuclear,1.42314413E8
-3.0,312.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",16.0,Desarrollo de la Ciencia y Técnica del Agua,5.6379023E7
-3.0,313.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",1.0,Actividades Centrales del Servicio Geológico Minero,1.7444787E7
-3.0,314.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",16.0,Desarrollo y Aplicación de la Tecnología Minera,1.4405051E7
-3.0,315.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",19.0,Producción de Información Geológica de Base,4.5512562E7
-3.0,316.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,70.0,Ministerio de Educación,26.0,Desarrollo de la Educación Superior,2.062313E8
-3.0,317.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,70.0,Ministerio de Educación,16.0,"Investigación de la Flora, Fauna y Gea",3.5166595E7
-3.0,318.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,71.0,"Ministerio de Ciencia, Tecnología e Innovación Productiva",1.0,Actividades Centrales,1.62210326E8
-3.0,319.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,71.0,"Ministerio de Ciencia, Tecnología e Innovación Productiva",43.0,Formulación e Implementación de la Política de Ciencia y Tecnología,2.77072019E8
-3.0,320.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,71.0,"Ministerio de Ciencia, Tecnología e Innovación Productiva",44.0,"Promoción y Financiamiento de Actividades de Ciencia,Tecnología e Innovación",5.55202546E8
-3.0,321.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,71.0,"Ministerio de Ciencia, Tecnología e Innovación Productiva",1.0,Actividades Centrales del CONICET,8.355771E7
-3.0,322.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,71.0,"Ministerio de Ciencia, Tecnología e Innovación Productiva",16.0,Formación de Recursos Humanos y Promoción Científica y Tecnológica,1.483773503E9
-3.0,323.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,71.0,"Ministerio de Ciencia, Tecnología e Innovación Productiva",17.0,Exhibición Pública e Investigación en Ciencias Naturales de la República Argentina,7552867.0
-3.0,324.0,2011-01-31T00:00:00Z,Servicios sociales,5.0,Ciencia y técnica,80.0,Ministerio de Salud,56.0,"Prevención, Control e Investigación de Patologías en Salud (ANLIS)",1.82610369E8
-3.0,325.0,2011-01-31T00:00:00Z,Servicios sociales,6.0,Trabajo,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",1.0,Actividades Centrales,1.79238624E8
-3.0,326.0,2011-01-31T00:00:00Z,Servicios sociales,6.0,Trabajo,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",16.0,Acciones de Empleo,1.768513333E9
-3.0,327.0,2011-01-31T00:00:00Z,Servicios sociales,6.0,Trabajo,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",18.0,Análisis y Formulación de la Política de Seguridad Social,1.2578966E7
-3.0,328.0,2011-01-31T00:00:00Z,Servicios sociales,6.0,Trabajo,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",20.0,Formulación y Regulación de la Política Laboral,1.37417287E8
-3.0,329.0,2011-01-31T00:00:00Z,Servicios sociales,6.0,Trabajo,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",22.0,Regularización del Trabajo,7.3598302E7
-3.0,330.0,2011-01-31T00:00:00Z,Servicios sociales,6.0,Trabajo,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",23.0,Acciones de Capacitación Laboral,3.20675975E8
-3.0,331.0,2011-01-31T00:00:00Z,Servicios sociales,6.0,Trabajo,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",24.0,Sistema Federal de Empleo,7.4605428E7
-3.0,332.0,2011-01-31T00:00:00Z,Servicios sociales,6.0,Trabajo,75.0,"Ministerio de Trabajo, Empleo y Seguridad Social",16.0,Fiscalización Cumplimiento de la Ley de Riesgos del Trabajo,6.1086E7
-3.0,333.0,2011-01-31T00:00:00Z,Servicios sociales,7.0,Vivienda y urbanismo,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",10.0,Actividades Comunes a los Programas de Vivienda,3.432584E7
-3.0,334.0,2011-01-31T00:00:00Z,Servicios sociales,7.0,Vivienda y urbanismo,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",42.0,Acciones para el Desarrollo de la Infraestructura Social,3.964275E8
-3.0,335.0,2011-01-31T00:00:00Z,Servicios sociales,7.0,Vivienda y urbanismo,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",43.0,"Desarrollo de la Infraestructura Habitacional ""TECHO DIGNO""",2.509058396E9
-3.0,336.0,2011-01-31T00:00:00Z,Servicios sociales,7.0,Vivienda y urbanismo,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",44.0,Acciones para el Mejoramiento Habitacional e Infraestructura Básica,1.093074E9
-3.0,337.0,2011-01-31T00:00:00Z,Servicios sociales,7.0,Vivienda y urbanismo,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",45.0,Fortalecimiento Comunitario del Habitat,5.12866E8
-3.0,338.0,2011-01-31T00:00:00Z,Servicios sociales,7.0,Vivienda y urbanismo,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",46.0,Urbanización de Villas y Asentamientos Precarios,4.6496675E8
-3.0,339.0,2011-01-31T00:00:00Z,Servicios sociales,7.0,Vivienda y urbanismo,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",85.0,Acciones Hídricas y Viales para el Dessarrollo Integrador de,4.8884078E7
-3.0,340.0,2011-01-31T00:00:00Z,Servicios sociales,8.0,Agua potable y alcantarillado,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",19.0,Recursos Hídricos,8.429078E7
-3.0,341.0,2011-01-31T00:00:00Z,Servicios sociales,8.0,Agua potable y alcantarillado,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",85.0,Acciones Hídricas y Viales para el Dessarrollo Integrador de,5.49013599E8
-3.0,342.0,2011-01-31T00:00:00Z,Servicios sociales,8.0,Agua potable y alcantarillado,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",90.0,Atención del Estado de Emergencia por Inundaciones,820000.0
-3.0,343.0,2011-01-31T00:00:00Z,Servicios sociales,8.0,Agua potable y alcantarillado,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",94.0,Asistencia Financiera a Empresas Públicas y Entes Binacionales,4.49734E8
-3.0,344.0,2011-01-31T00:00:00Z,Servicios sociales,8.0,Agua potable y alcantarillado,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",20.0,Asistencia Técnico - Financiera y Desarrollo de Infraestructura para el Saneamiento,1.450378207E9
-3.0,345.0,2011-01-31T00:00:00Z,Servicios sociales,8.0,Agua potable y alcantarillado,91.0,Obligaciones a Cargo del Tesoro,95.0,Asistencia Financiera a Empresas Públicas y Ente Binacional,1.8453E9
-4.0,346.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",20.0,Presidencia de la Nación,16.0,Regulación y Fiscalización de las Actividades Nucleares,1.39384438E8
-4.0,347.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",1.0,Actividades Centrales,1.7436307E7
-4.0,348.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",5.0,Actividades Comunes a los Programas de Energía,6.4340621E7
-4.0,349.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",19.0,Recursos Hídricos,4.3490059E7
-4.0,350.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",32.0,Formulación y Ejecución de la Política Geológico-Minera (BID Nº 1865-OC-AR-2),8.7175627E7
-4.0,351.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",73.0,Formulacion y Ejecucion de Politica de Hidrocarburos,7.48558094E8
-4.0,352.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",74.0,Formulación y Ejecución de la Política de Energía Eléctrica,1.4384447544E10
-4.0,353.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",75.0,Acciones para el Uso Racional y Eficiente de la Energía,1.38363837E8
-4.0,354.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",77.0,Acciones para la Ampliación de las Redes Eléctricas de Alta Tensión,2.220601719E9
-4.0,355.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",78.0,Desarrollo Energético Provincial,8.5493215E8
-4.0,356.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",16.0,Desarrollo y Aplicación de la Tecnología Minera,2000000.0
-4.0,357.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",16.0,Regulación del Transporte y Distribución  de Gas,1.04261023E8
-4.0,358.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",16.0,Regulación y Contralor del Mercado Eléctrico,1.03182E8
-4.0,359.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",17.0,Control de Seguridad de Presas,1.7919E7
-4.0,360.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",91.0,Obligaciones a Cargo del Tesoro,94.0,Asistencia Financiera a Sectores Económicos,7.74E8
-4.0,361.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",91.0,Obligaciones a Cargo del Tesoro,95.0,Asistencia Financiera a Empresas Públicas y Ente Binacional,6.32984E9
-4.0,362.0,2011-01-31T00:00:00Z,Servicios económicos,1.0,"Energía, combustibles y minería",91.0,Obligaciones a Cargo del Tesoro,98.0,Asistencia Financiera a Provincias y Municipios,2.0E8
-4.0,363.0,2011-01-31T00:00:00Z,Servicios económicos,2.0,Comunicaciones,25.0,Jefatura de Gabinete de Ministros,1.0,1-Actividades Centrales de la Autoridad Federal de Servicios de Comunicación Audiovisual,3.0686971E7
-4.0,364.0,2011-01-31T00:00:00Z,Servicios económicos,2.0,Comunicaciones,25.0,Jefatura de Gabinete de Ministros,16.0,Control de los Servicios de Radiodifusión,5.6802052E7
-4.0,365.0,2011-01-31T00:00:00Z,Servicios económicos,2.0,Comunicaciones,25.0,Jefatura de Gabinete de Ministros,18.0,"Enseñanza, Capacitación y Habilitación",3886466.0
-4.0,366.0,2011-01-31T00:00:00Z,Servicios económicos,2.0,Comunicaciones,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",1.0,Actividades Centrales,7.1290432E7
-4.0,367.0,2011-01-31T00:00:00Z,Servicios económicos,2.0,Comunicaciones,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",25.0,Ejecución de Obras de Arquitectura,9.8945286E7
-4.0,368.0,2011-01-31T00:00:00Z,Servicios económicos,2.0,Comunicaciones,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",58.0,Asistencia y Coordinación de Políticas de Comunicaciones,2.3695417E7
-4.0,369.0,2011-01-31T00:00:00Z,Servicios económicos,2.0,Comunicaciones,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",94.0,Asistencia Financiera a Empresas Públicas y Entes Binacionales,1.865799E9
-4.0,370.0,2011-01-31T00:00:00Z,Servicios económicos,2.0,Comunicaciones,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",1.0,Actividades Centrales de la Comisión Nacional de Comunicaciones,9.7789707E7
-4.0,371.0,2011-01-31T00:00:00Z,Servicios económicos,2.0,Comunicaciones,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",16.0,Control de los Servicios de Telecomunicaciones,7.8897564E7
-4.0,372.0,2011-01-31T00:00:00Z,Servicios económicos,2.0,Comunicaciones,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",17.0,Control de los Servicios Postales,7575906.0
-4.0,373.0,2011-01-31T00:00:00Z,Servicios económicos,2.0,Comunicaciones,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",18.0,Administración del Espectro  Radioeléctrico,3.0374895E7
-4.0,374.0,2011-01-31T00:00:00Z,Servicios económicos,2.0,Comunicaciones,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",19.0,"Desarrollo Tecnológico, Infraestructura y Otros Servicios de Comunicaciones",2.4274797E7
-4.0,375.0,2011-01-31T00:00:00Z,Servicios económicos,2.0,Comunicaciones,91.0,Obligaciones a Cargo del Tesoro,95.0,Asistencia Financiera a Empresas Públicas y Ente Binacional,2.263537454E9
-4.0,376.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,45.0,Ministerio de Defensa,17.0,Transporte Aéreo de Fomento (LADE),6.0975775E7
-4.0,377.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,45.0,Ministerio de Defensa,18.0,Apoyo a la Actividad Aérea Nacional,2.75456804E8
-4.0,378.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,45.0,Ministerio de Defensa,23.0,Servicio Meteorológico Nacional,2.8043273E7
-4.0,379.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,45.0,Ministerio de Defensa,16.0,Servicios de Meteorología Nacional,8.9023E7
-4.0,380.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",1.0,Actividades Centrales,1.1638065E7
-4.0,381.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",9.0,Actividades Comunes a los Programas de Transporte,3.1371821E7
-4.0,382.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",16.0,Hidrovía Paraguay - Paraná,2965240.0
-4.0,383.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",25.0,Ejecución de Obras de Arquitectura,20000.0
-4.0,384.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",50.0,"Formulación, Programación, Ejecución y Control de Obras Públicas",3.785695E7
-4.0,385.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",60.0,Formulación y Ejecución de Políticas de Transporte Aerocomercial,2.782246786E9
-4.0,386.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",61.0,Formulación y Ejecución de Políticas de Transporte Automotor,6.271036852E9
-4.0,387.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",62.0,Formulación y Ejecución Políticas de Transporte Ferroviario,3.408981053E9
-4.0,388.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",63.0,Acciones para la Implementación del Sistema Único de Boleto Electrónico (SUBE),1.74629644E8
-4.0,389.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",83.0,Desarrollo de la Infraestructura Vial Productiva,3.3917E8
-4.0,390.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",85.0,Acciones Hídricas y Viales para el Dessarrollo Integrador de,7.73854322E8
-4.0,391.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",86.0,Apoyo para el Dessarrollo de Infraestructura Urbana en MunicIPIOS,2455193.0
-4.0,392.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",91.0,Formulación y Conducción de Políticas Portuarias y de Vías N,2.98212957E8
-4.0,393.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",94.0,Asistencia Financiera a Empresas Públicas y Entes Binacionales,8.032E8
-4.0,394.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",1.0,Actividades Centrales de la Dirección Nacional de Vialidad (DNV),1.80514744E8
-4.0,395.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",16.0,Mantenimiento - DNV,1.326189581E9
-4.0,396.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",22.0,Construcciones - DNV,7.243501097E9
-4.0,397.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",26.0,Sistema de Contratos de Recuperación y Mantenimiento - DNV,4.97148E8
-4.0,398.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",36.0,Control de Concesiones Viales - DNV,3.92578269E8
-4.0,399.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",37.0,Infraestructura en Concesiones Viales - DNV,1.76958611E8
-4.0,400.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",38.0,Infraestructura en Áreas Urbanas - DNV,9.9424197E7
-4.0,401.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",39.0,Obras de Mejoras en Corredores Viales Nacionales - DNV,2.6098192E7
-4.0,402.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",40.0,Obras en Corredores Viales - DNV,4.618518E8
-4.0,403.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",37.0,"Fiscalización, Regulación y Control del Servicio de Transporte",8.6578E7
-4.0,404.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",16.0,Control del Sistema Nacional de Aeropuertos,8.0664776E7
-4.0,405.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",16.0,"Regulación, Fiscalización  y Administración de la Aviación Civil",2.64594809E8
-4.0,406.0,2011-01-31T00:00:00Z,Servicios económicos,3.0,Transporte,91.0,Obligaciones a Cargo del Tesoro,95.0,Asistencia Financiera a Empresas Públicas y Ente Binacional,1.419132E9
-4.0,407.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,25.0,Jefatura de Gabinete de Ministros,6.0,"Actividad Común a los Programas 40, 41, 42 y 43",3.5997676E7
-4.0,408.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,25.0,Jefatura de Gabinete de Ministros,38.0,Programa Integral Cuenca Matanza - Riachuelo,1.54467825E8
-4.0,409.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,25.0,Jefatura de Gabinete de Ministros,39.0,Gestión Ambiental Matanza - Riachuelo BID 1059/OC - AR,1.54075E8
-4.0,410.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,25.0,Jefatura de Gabinete de Ministros,40.0,Planificación y Política Ambiental,3.84814813E8
-4.0,411.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,25.0,Jefatura de Gabinete de Ministros,41.0,Promoción del Desarrollo Sustentable,2.6674963E7
-4.0,412.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,25.0,Jefatura de Gabinete de Ministros,42.0,Coordinación de Políticas Ambientales,1.31177E8
-4.0,413.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,25.0,Jefatura de Gabinete de Ministros,43.0,Control Ambiental,4.069602E7
-4.0,414.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,25.0,Jefatura de Gabinete de Ministros,44.0,Desarrollo Sustentable de la Cuenca Matanza - Riachuelo (BIRF 7706-AC),2.93675E8
-4.0,415.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,53.0,Ministerio de Turismo,1.0,Actividades Centrales,9.5324221E7
-4.0,416.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,53.0,Ministerio de Turismo,17.0,Conservación y Administración de Áreas Naturales Protegidas,1.16572441E8
-4.0,417.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,53.0,Ministerio de Turismo,19.0,Capacitación,1437830.0
-4.0,418.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,53.0,Ministerio de Turismo,20.0,Areas Protegidas y Conservacion de Corredores (BIRF 7520/AR Comp.3),3.051E7
-4.0,419.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,53.0,Ministerio de Turismo,21.0,Conservación de la Biodiversidad (GEF TF 094428/AR),1800000.0
-4.0,420.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,53.0,Ministerio de Turismo,22.0,Mejora de la Competitividad del Sector Turismo (BID 1648/OC-AR),2.108404E7
-4.0,421.0,2011-01-31T00:00:00Z,Servicios económicos,4.0,Ecología y medio ambiente,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",19.0,Recursos Hídricos,6.59E7
-4.0,422.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",2.0,Actividades Comunes a los Programas 36 y 38,730166.0
-4.0,423.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",36.0,Formulación de Políticas de los Sectores Agropecuario y Pesquero,4.12364504E8
-4.0,424.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",38.0,Programa Federal de Reconversión Productiva,7525362.0
-4.0,425.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",40.0,Formulación de Políticas de Desarrollo Regional,1.9765884E7
-4.0,426.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",41.0,Programa de Servicios Agrícolas Provinciales - PROSAP (BID 899 y 1956 y BIRF 4150 y  7425),1.21218E8
-4.0,427.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",42.0,Articulación de Relaciones Institucionales y Comunicacionales,2.4690461E7
-4.0,428.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",16.0,Investigación y Desarrollo Pesquero,5.5157E7
-4.0,429.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",16.0,Administración y Control Comercial Agropecuario,2.578468E9
-4.0,430.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",40.0,Promocion del Comercio y Produccion de Semillas,2.47468E7
-4.0,431.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",1.0,Actividades Centrales del Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA),2.23920821E8
-4.0,432.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",16.0,Protección Vegetal,1.07362364E8
-4.0,433.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",17.0,Servicios de Laboratorios,8.3531738E7
-4.0,434.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",18.0,Aprobación de Agroquím. Productos Farmacológ. y Veterinarios,1.3460775E7
-4.0,435.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",19.0,Fiscalización Agroalimentaria,3.26823686E8
-4.0,436.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",20.0,Sanidad Animal,1.7864374E8
-4.0,437.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,52.0,"Ministerio de Agricultura, Ganadería y Pesca",22.0,Acciones para Contribuir a Asegurar la Sanidad y Calidad Agroalimentaria,0.0
-4.0,438.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",19.0,Recursos Hídricos,8545000.0
-4.0,439.0,2011-01-31T00:00:00Z,Servicios económicos,5.0,Agricultura,91.0,Obligaciones a Cargo del Tesoro,94.0,Asistencia Financiera a Sectores Económicos,1.075014E9
-4.0,440.0,2011-01-31T00:00:00Z,Servicios económicos,6.0,Industria,51.0,Ministerio de Industria,24.0,Fomento de la Pequeña y Mediana Empresa,1.71688533E8
-4.0,441.0,2011-01-31T00:00:00Z,Servicios económicos,6.0,Industria,51.0,Ministerio de Industria,56.0,Formulación y Aplicación de Políticas para la Industria,4.5242643E7
-4.0,442.0,2011-01-31T00:00:00Z,Servicios económicos,6.0,Industria,51.0,Ministerio de Industria,18.0,Protección de los Derechos de la Propiedad Industrial,6.3916836E7
-4.0,443.0,2011-01-31T00:00:00Z,Servicios económicos,6.0,Industria,52.0,"Ministerio de Agricultura, Ganadería y Pesca",16.0,Control de Genuinidad de la Producción Vitivinícola,1.26326E8
-4.0,444.0,2011-01-31T00:00:00Z,Servicios económicos,6.0,Industria,56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",16.0,Producción y Comercialización de Bienes y Servicios - Dirección General de Fabricaciones Militares,3.32962E8
-4.0,445.0,2011-01-31T00:00:00Z,Servicios económicos,6.0,Industria,91.0,Obligaciones a Cargo del Tesoro,90.0,Atención estado de Emergencia por Inundaciones e Inclemencias Climáticas,673000.0
-4.0,446.0,2011-01-31T00:00:00Z,Servicios económicos,6.0,Industria,91.0,Obligaciones a Cargo del Tesoro,94.0,Asistencia Financiera a Sectores Económicos,3.07651E8
-4.0,447.0,2011-01-31T00:00:00Z,Servicios económicos,6.0,Industria,91.0,Obligaciones a Cargo del Tesoro,95.0,Asistencia Financiera a Empresas Públicas y Ente Binacional,5000000.0
-4.0,448.0,2011-01-31T00:00:00Z,Servicios económicos,6.0,Industria,91.0,Obligaciones a Cargo del Tesoro,99.0,Otras Asistencias Financieras,7959863.0
-4.0,449.0,2011-01-31T00:00:00Z,Servicios económicos,7.0,"Comercio, turismo y otros servicios",50.0,Ministerio de Economía y Finanzas Públicas,30.0,Definición de Políticas de Comercio Interior,4.0854257E7
-4.0,450.0,2011-01-31T00:00:00Z,Servicios económicos,7.0,"Comercio, turismo y otros servicios",50.0,Ministerio de Economía y Finanzas Públicas,31.0,Defensa de la Libre Competencia,1.0115132E7
-4.0,451.0,2011-01-31T00:00:00Z,Servicios económicos,7.0,"Comercio, turismo y otros servicios",50.0,Ministerio de Economía y Finanzas Públicas,35.0,Defensa del Consumidor,1.6950821E7
-4.0,452.0,2011-01-31T00:00:00Z,Servicios económicos,7.0,"Comercio, turismo y otros servicios",51.0,Ministerio de Industria,8.0,Actividades Comunes a los Programas 17 y 56,2.0240172E7
-4.0,453.0,2011-01-31T00:00:00Z,Servicios económicos,7.0,"Comercio, turismo y otros servicios",51.0,Ministerio de Industria,17.0,Definición de Políticas de Comercio Exterior,3.9417803E7
-4.0,454.0,2011-01-31T00:00:00Z,Servicios económicos,7.0,"Comercio, turismo y otros servicios",51.0,Ministerio de Industria,33.0,Análisis y Regul.de la Competencia Comercial Internacional,1.1345655E7
-4.0,455.0,2011-01-31T00:00:00Z,Servicios económicos,7.0,"Comercio, turismo y otros servicios",53.0,Ministerio de Turismo,1.0,Actividades Centrales,9.6106708E7
-4.0,456.0,2011-01-31T00:00:00Z,Servicios económicos,7.0,"Comercio, turismo y otros servicios",53.0,Ministerio de Turismo,16.0,Desarrollo y Promoción del Turismo Nacional,5.8957724E7
-4.0,457.0,2011-01-31T00:00:00Z,Servicios económicos,7.0,"Comercio, turismo y otros servicios",53.0,Ministerio de Turismo,18.0,Prestaciones Turísticas,8.7539445E7
-4.0,458.0,2011-01-31T00:00:00Z,Servicios económicos,7.0,"Comercio, turismo y otros servicios",53.0,Ministerio de Turismo,16.0,Promoción del Turismo Receptivo Internacional,9.5967509E7
-4.0,459.0,2011-01-31T00:00:00Z,Servicios económicos,7.0,"Comercio, turismo y otros servicios",56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",25.0,Ejecución de Obras de Arquitectura,1.88472757E8
-4.0,460.0,2011-01-31T00:00:00Z,Servicios económicos,8.0,Seguros y finanzas,50.0,Ministerio de Economía y Finanzas Públicas,16.0,Control y Fiscalización de la Oferta Pública - Comisión Nacional de Valores,3.5173275E7
-4.0,461.0,2011-01-31T00:00:00Z,Servicios económicos,8.0,Seguros y finanzas,50.0,Ministerio de Economía y Finanzas Públicas,16.0,Control y Fiscalización de la Actividad Aseguradora y Reaseguradora,6.7196E7
-4.0,462.0,2011-01-31T00:00:00Z,Servicios económicos,8.0,Seguros y finanzas,91.0,Obligaciones a Cargo del Tesoro,96.0,Atención Servicios Financieros y Gastos Judiciales,6000000.0
-4.0,463.0,2011-01-31T00:00:00Z,Servicios económicos,8.0,Seguros y finanzas,91.0,Obligaciones a Cargo del Tesoro,99.0,Otras Asistencias Financieras,1.0375E8
-5.0,464.0,2011-01-31T00:00:00Z,Deuda pública,1.0,Servicio de la deuda pública (intereses y gastos),45.0,Ministerio de Defensa,16.0,Elaboración y Actualización de Cartografía Básica Nacional,27400.0
-5.0,465.0,2011-01-31T00:00:00Z,Deuda pública,1.0,Servicio de la deuda pública (intereses y gastos),51.0,Ministerio de Industria,16.0,Desarrollo y Competitividad Industrial,862000.0
-5.0,466.0,2011-01-31T00:00:00Z,Deuda pública,1.0,Servicio de la deuda pública (intereses y gastos),52.0,"Ministerio de Agricultura, Ganadería y Pesca",1.0,Actividades Centrales,1000000.0
-5.0,467.0,2011-01-31T00:00:00Z,Deuda pública,1.0,Servicio de la deuda pública (intereses y gastos),52.0,"Ministerio de Agricultura, Ganadería y Pesca",16.0,Control de Genuinidad de la Producción Vitivinícola,135000.0
-5.0,468.0,2011-01-31T00:00:00Z,Deuda pública,1.0,Servicio de la deuda pública (intereses y gastos),52.0,"Ministerio de Agricultura, Ganadería y Pesca",1.0,Actividades Centrales,8314239.0
-5.0,469.0,2011-01-31T00:00:00Z,Deuda pública,1.0,Servicio de la deuda pública (intereses y gastos),52.0,"Ministerio de Agricultura, Ganadería y Pesca",22.0,Acciones para Contribuir a Asegurar la Sanidad y Calidad Agroalimentaria,0.0
-5.0,470.0,2011-01-31T00:00:00Z,Deuda pública,1.0,Servicio de la deuda pública (intereses y gastos),56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",1.0,Actividades Centrales,8.0352E7
-5.0,471.0,2011-01-31T00:00:00Z,Deuda pública,1.0,Servicio de la deuda pública (intereses y gastos),56.0,"Ministerio de Planificación Federal, Inversión Pública y Servicios",20.0,Asistencia Técnico - Financiera y Desarrollo de Infraestructura para el Saneamiento,2.3085E7
-5.0,472.0,2011-01-31T00:00:00Z,Deuda pública,1.0,Servicio de la deuda pública (intereses y gastos),71.0,"Ministerio de Ciencia, Tecnología e Innovación Productiva",1.0,Actividades Centrales,2309000.0
-5.0,473.0,2011-01-31T00:00:00Z,Deuda pública,1.0,Servicio de la deuda pública (intereses y gastos),80.0,Ministerio de Salud,54.0,"Control y Fiscalización de Medicamentos, Alimentos y Productos Médicos",260035.0
-5.0,474.0,2011-01-31T00:00:00Z,Deuda pública,1.0,Servicio de la deuda pública (intereses y gastos),80.0,Ministerio de Salud,95.0,Servicios de la Deuda,27000.0
-5.0,475.0,2011-01-31T00:00:00Z,Deuda pública,1.0,Servicio de la deuda pública (intereses y gastos),80.0,Ministerio de Salud,50.0,Regulación y Control del Sistema de Salud,500000.0
-5.0,476.0,2011-01-31T00:00:00Z,Deuda pública,1.0,Servicio de la deuda pública (intereses y gastos),90.0,Servicio de la Deuda Pública,98.0,Deudas Directas de la Administración Central,3.6265553E10
+"num_fin","id_unique","date","desc_finalidad","num_fun","desc_funcion","num_juris","desc_jurisdiccion","num_prog","desc_programa","presupuesto"
+"1.0","1.0","2011-01-31T00:00:00Z","Administración gubernamental","1.0","Legislativa","1.0","Poder Legislativo Nacional","16.0","Formación y Sanción de Leyes Nacionales - Cámara de Senadores","5.8751E8"
+"1.0","2.0","2011-01-31T00:00:00Z","Administración gubernamental","1.0","Legislativa","1.0","Poder Legislativo Nacional","17.0","Formación y Sanción Legislativa - Cámara de Diputados","8.55515784E8"
+"1.0","3.0","2011-01-31T00:00:00Z","Administración gubernamental","1.0","Legislativa","1.0","Poder Legislativo Nacional","19.0","Impresiones y Publicaciones Parlamentarias","7.9811485E7"
+"1.0","4.0","2011-01-31T00:00:00Z","Administración gubernamental","1.0","Legislativa","1.0","Poder Legislativo Nacional","21.0","Defensa de los Derechos de los Ciudadanos","6.8059554E7"
+"1.0","5.0","2011-01-31T00:00:00Z","Administración gubernamental","1.0","Legislativa","1.0","Poder Legislativo Nacional","22.0","Revisión de Cuentas Nacionales - Senado","1950000.0"
+"1.0","6.0","2011-01-31T00:00:00Z","Administración gubernamental","1.0","Legislativa","1.0","Poder Legislativo Nacional","23.0","Revisión de Cuentas Nacionales - Diputados","1060988.0"
+"1.0","7.0","2011-01-31T00:00:00Z","Administración gubernamental","1.0","Legislativa","1.0","Poder Legislativo Nacional","30.0","Fortalecimiento Institucional del Senado de la Nación (BID 1603/OC-AR)","6911000.0"
+"1.0","8.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","1.0","Poder Legislativo Nacional","26.0","Protección de los Derechos del Interno Penitenciario","2.71419E7"
+"1.0","9.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","5.0","Poder Judicial de la Nación","1.0","Actividades Centrales","4.47351214E8"
+"1.0","10.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","5.0","Poder Judicial de la Nación","4.0","Mandamientos y Notificaciones","1.14347504E8"
+"1.0","11.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","5.0","Poder Judicial de la Nación","5.0","Pericias Judiciales","2.51369692E8"
+"1.0","12.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","5.0","Poder Judicial de la Nación","6.0","Biblioteca y Jurisprudencia","2.5242739E7"
+"1.0","13.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","5.0","Poder Judicial de la Nación","7.0","Archivo General","1.23366835E8"
+"1.0","14.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","5.0","Poder Judicial de la Nación","8.0","Administración General de la Corte Suprema de Justicia de la Nación","3.13063709E8"
+"1.0","15.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","5.0","Poder Judicial de la Nación","21.0","Justicia de Máxima Instancia","2.03832185E8"
+"1.0","16.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","5.0","Poder Judicial de la Nación","22.0","Justicia de Casación Penal","6.2677933E7"
+"1.0","17.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","5.0","Poder Judicial de la Nación","23.0","Justicia Ordinaria de la Capital Federal","1.473230589E9"
+"1.0","18.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","5.0","Poder Judicial de la Nación","24.0","Justicia Federal","1.958855947E9"
+"1.0","19.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","5.0","Poder Judicial de la Nación","25.0","Asistencia Social","3.8781414E7"
+"1.0","20.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","10.0","Ministerio Público","16.0","Ejercicio de la Acción Pública y Defensa de la Legalidad","7.88496977E8"
+"1.0","21.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","10.0","Ministerio Público","17.0","Representación, Defensa y Curatela Pública Oficial","4.47314888E8"
+"1.0","22.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","40.0","Ministerio de Justicia y Derechos Humanos","16.0","Acciones contra la Discriminación, la Xenofobia y el Racismo","4.9227065E7"
+"1.0","23.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","40.0","Ministerio de Justicia y Derechos Humanos","1.0","Actividades Centrales","1.3672108E8"
+"1.0","24.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","40.0","Ministerio de Justicia y Derechos Humanos","4.0","Actividad Común a los Programas 18 (Política e Infraestructura Penitenciaria) y 23 (Asistencia Jurídica y Relaciones con el Poder Judicial)","4748501.0"
+"1.0","25.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","40.0","Ministerio de Justicia y Derechos Humanos","19.0","Regulación y Control Registral","6.8281718E7"
+"1.0","26.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","40.0","Ministerio de Justicia y Derechos Humanos","21.0","Defensa y Representación Jurídica y Notarial del Estado","3.189105E7"
+"1.0","27.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","40.0","Ministerio de Justicia y Derechos Humanos","23.0","Asistencia Jurídica y Relaciones con el Poder Judicial","9740898.0"
+"1.0","28.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","40.0","Ministerio de Justicia y Derechos Humanos","26.0","Promoción y Defensa de los Derechos Humanos","1.30351788E8"
+"1.0","29.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","40.0","Ministerio de Justicia y Derechos Humanos","28.0","Prevención, Fiscalización y Sanción del Lavado de Activos","1.4081448E7"
+"1.0","30.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","40.0","Ministerio de Justicia y Derechos Humanos","32.0","Protección de Víctimas de Violencias","1.5161191E7"
+"1.0","31.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","40.0","Ministerio de Justicia y Derechos Humanos","36.0","Fortalecimiento de Procesos Judiciales contra Delitos de Lesa Humanidad","9767561.0"
+"1.0","32.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","91.0","Obligaciones a Cargo del Tesoro","96.0","Atención Servicios Financieros y Gastos Judiciales","575852.0"
+"1.0","33.0","2011-01-31T00:00:00Z","Administración gubernamental","2.0","Judicial","91.0","Obligaciones a Cargo del Tesoro","99.0","Otras Asistencias Financieras","5000000.0"
+"1.0","34.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","20.0","Presidencia de la Nación","1.0","Actividades Centrales","3.30387233E8"
+"1.0","35.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","20.0","Presidencia de la Nación","21.0","Asistencia y Coordinación de Políticas Sociales","2.6737197E7"
+"1.0","36.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","20.0","Presidencia de la Nación","20.0","Asistencia Legal y Técnica","6.2389994E7"
+"1.0","37.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","25.0","Jefatura de Gabinete de Ministros","1.0","Actividades Centrales","4.98136465E8"
+"1.0","38.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","25.0","Jefatura de Gabinete de Ministros","17.0","Modernización de la Gestión Pública","7.536877E7"
+"1.0","39.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","25.0","Jefatura de Gabinete de Ministros","19.0","Prensa y Difusión de Actos de Gobierno","5.12155917E8"
+"1.0","40.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","40.0","Ministerio de Justicia y Derechos Humanos","27.0","Controles Anticorrupción","7523179.0"
+"1.0","41.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","50.0","Ministerio de Economía y Finanzas Públicas","1.0","Actividades Centrales","5.12149768E8"
+"1.0","42.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","50.0","Ministerio de Economía y Finanzas Públicas","18.0","Formulación y Ejecución de Políticas Económicas","8.7541522E7"
+"1.0","43.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","50.0","Ministerio de Economía y Finanzas Públicas","42.0","Definición de Políticas de Coordinación Económica","2.6304106E7"
+"1.0","44.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","50.0","Ministerio de Economía y Finanzas Públicas","43.0","Definición de Políticas de Programación Económica","1.1833896E7"
+"1.0","45.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","50.0","Ministerio de Economía y Finanzas Públicas","44.0","Coordinación de Préstamos de Rápido Desembolso de OIC","5559000.0"
+"1.0","46.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","51.0","Ministerio de Industria","1.0","Actividades Centrales","4.915582E7"
+"1.0","47.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","52.0","Ministerio de Agricultura, Ganadería y Pesca","1.0","Actividades Centrales","2.14290883E8"
+"1.0","48.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","1.0","Actividades Centrales","1.76695501E8"
+"1.0","49.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","7.0","Actividades Comunes a los Programas de Obras Públicas","1.1675167E7"
+"1.0","50.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","50.0","Formulación, Programación, Ejecución y Control de Obras Públicas","1.7656104E7"
+"1.0","51.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","85.0","Acciones Hídricas y Viales para el Dessarrollo Integrador de","581000.0"
+"1.0","52.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","86.0","Apoyo para el Desarrollo de Infraestructura Urbana en Municipalidades","1505866.0"
+"1.0","53.0","2011-01-31T00:00:00Z","Administración gubernamental","3.0","Dirección superior ejecutiva","91.0","Obligaciones a Cargo del Tesoro","99.0","Otras Asistencias Financieras","4.216801E7"
+"1.0","54.0","2011-01-31T00:00:00Z","Administración gubernamental","4.0","Relaciones exteriores","35.0","Ministerio de Relaciones Exteriores, Comercio Internacional y Culto","1.0","Actividades Centrales","3.71064247E8"
+"1.0","55.0","2011-01-31T00:00:00Z","Administración gubernamental","4.0","Relaciones exteriores","35.0","Ministerio de Relaciones Exteriores, Comercio Internacional y Culto","16.0","Acciones Diplomáticas de Política Exterior","1.167907015E9"
+"1.0","56.0","2011-01-31T00:00:00Z","Administración gubernamental","4.0","Relaciones exteriores","35.0","Ministerio de Relaciones Exteriores, Comercio Internacional y Culto","17.0","Registro y Sostenimiento de Cultos","3.6001585E7"
+"1.0","57.0","2011-01-31T00:00:00Z","Administración gubernamental","4.0","Relaciones exteriores","35.0","Ministerio de Relaciones Exteriores, Comercio Internacional y Culto","18.0","Comisión Cascos Blancos","1.4595784E7"
+"1.0","58.0","2011-01-31T00:00:00Z","Administración gubernamental","4.0","Relaciones exteriores","35.0","Ministerio de Relaciones Exteriores, Comercio Internacional y Culto","19.0","Mantenimiento y Promoción de las Relaciones Económicas Internacionales","1.98581535E8"
+"1.0","59.0","2011-01-31T00:00:00Z","Administración gubernamental","4.0","Relaciones exteriores","35.0","Ministerio de Relaciones Exteriores, Comercio Internacional y Culto","21.0","Acciones para el Desarrollo de Inversiones y la Captación de Inversión Extranjera Directa","3.5530005E7"
+"1.0","60.0","2011-01-31T00:00:00Z","Administración gubernamental","4.0","Relaciones exteriores","91.0","Obligaciones a Cargo del Tesoro","97.0","Aportes al Sector Externo","2.60596448E8"
+"1.0","61.0","2011-01-31T00:00:00Z","Administración gubernamental","5.0","Relaciones interiores","30.0","Ministerio del Interior","16.0","Identificación, Registro y Clasificación del Potencial Humano Nacional","3.63698417E8"
+"1.0","62.0","2011-01-31T00:00:00Z","Administración gubernamental","5.0","Relaciones interiores","30.0","Ministerio del Interior","16.0","Control de Ingresos y  Egresos de Personas en el Territorio Nacional","3.50381E8"
+"1.0","63.0","2011-01-31T00:00:00Z","Administración gubernamental","5.0","Relaciones interiores","30.0","Ministerio del Interior","1.0","Actividades Centrales","1.48974756E8"
+"1.0","64.0","2011-01-31T00:00:00Z","Administración gubernamental","5.0","Relaciones interiores","30.0","Ministerio del Interior","16.0","Fomento e Impulso al Desarrollo del Sistema Democrático","7.92753731E8"
+"1.0","65.0","2011-01-31T00:00:00Z","Administración gubernamental","5.0","Relaciones interiores","30.0","Ministerio del Interior","17.0","Cooperación, Asistencia Técnica y Capacitación a Municipios","4328500.0"
+"1.0","66.0","2011-01-31T00:00:00Z","Administración gubernamental","5.0","Relaciones interiores","30.0","Ministerio del Interior","18.0","Ejecución de Políticas Poblacionales","2442723.0"
+"1.0","67.0","2011-01-31T00:00:00Z","Administración gubernamental","5.0","Relaciones interiores","30.0","Ministerio del Interior","19.0","Asistencia Técnica y Financiera a Provincias","3.47393141E8"
+"1.0","68.0","2011-01-31T00:00:00Z","Administración gubernamental","5.0","Relaciones interiores","30.0","Ministerio del Interior","25.0","Fortalecimiento de las Relaciones con la Comunidad","3856958.0"
+"1.0","69.0","2011-01-31T00:00:00Z","Administración gubernamental","5.0","Relaciones interiores","30.0","Ministerio del Interior","45.0","Acciones de Asistencia Civil","9.3962432E7"
+"1.0","70.0","2011-01-31T00:00:00Z","Administración gubernamental","5.0","Relaciones interiores","91.0","Obligaciones a Cargo del Tesoro","93.0","Fondo Federal Solidario","7.3086E9"
+"1.0","71.0","2011-01-31T00:00:00Z","Administración gubernamental","5.0","Relaciones interiores","91.0","Obligaciones a Cargo del Tesoro","98.0","Asistencia Financiera a Provincias y Municipios","9.75059277E8"
+"1.0","72.0","2011-01-31T00:00:00Z","Administración gubernamental","6.0","Administración fiscal","50.0","Ministerio de Economía y Finanzas Públicas","1.0","Actividades Centrales","5.7476397E7"
+"1.0","73.0","2011-01-31T00:00:00Z","Administración gubernamental","6.0","Administración fiscal","50.0","Ministerio de Economía y Finanzas Públicas","12.0","Actividades Comunes a los Prog. de la Secretaría de Hacienda","2859996.0"
+"1.0","74.0","2011-01-31T00:00:00Z","Administración gubernamental","6.0","Administración fiscal","50.0","Ministerio de Economía y Finanzas Públicas","22.0","Finanzas, Bancos y Seguros","2.7965485E7"
+"1.0","75.0","2011-01-31T00:00:00Z","Administración gubernamental","6.0","Administración fiscal","50.0","Ministerio de Economía y Finanzas Públicas","26.0","Administración Financiera","1.88141957E8"
+"1.0","76.0","2011-01-31T00:00:00Z","Administración gubernamental","6.0","Administración fiscal","50.0","Ministerio de Economía y Finanzas Públicas","27.0","Administración de Política Tributaria","1.5397995E7"
+"1.0","77.0","2011-01-31T00:00:00Z","Administración gubernamental","6.0","Administración fiscal","50.0","Ministerio de Economía y Finanzas Públicas","47.0","Relaciones con Provincias","4.5905573E7"
+"1.0","78.0","2011-01-31T00:00:00Z","Administración gubernamental","6.0","Administración fiscal","50.0","Ministerio de Economía y Finanzas Públicas","16.0","Resolución de Cuestiones Dudosas y Litigiosas","3.4763524E7"
+"1.0","79.0","2011-01-31T00:00:00Z","Administración gubernamental","6.0","Administración fiscal","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","34.0","Administración de Bienes del Estado","6.3559313E7"
+"1.0","80.0","2011-01-31T00:00:00Z","Administración gubernamental","6.0","Administración fiscal","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","54.0","Tasación de Bienes","1.2817E7"
+"1.0","81.0","2011-01-31T00:00:00Z","Administración gubernamental","6.0","Administración fiscal","91.0","Obligaciones a Cargo del Tesoro","99.0","Otras Asistencias Financieras","2.130967E9"
+"1.0","82.0","2011-01-31T00:00:00Z","Administración gubernamental","7.0","Control de la gestión pública","1.0","Poder Legislativo Nacional","25.0","Control Parlamentario sobre el Funcionamiento del Sistema de Inteligencia","4400000.0"
+"1.0","83.0","2011-01-31T00:00:00Z","Administración gubernamental","7.0","Control de la gestión pública","1.0","Poder Legislativo Nacional","31.0","Control Parlamentario de Seguimiento de Trámite Legislativo","1800000.0"
+"1.0","84.0","2011-01-31T00:00:00Z","Administración gubernamental","7.0","Control de la gestión pública","1.0","Poder Legislativo Nacional","32.0","Control Parlamentario de Los Fondos de la Seguridad Social","3042001.0"
+"1.0","85.0","2011-01-31T00:00:00Z","Administración gubernamental","7.0","Control de la gestión pública","1.0","Poder Legislativo Nacional","16.0","Control Externo del Sector Público Nacional","2.57643796E8"
+"1.0","86.0","2011-01-31T00:00:00Z","Administración gubernamental","7.0","Control de la gestión pública","20.0","Presidencia de la Nación","16.0","Control Interno del Poder Ejecutivo Nacional","1.13757175E8"
+"1.0","87.0","2011-01-31T00:00:00Z","Administración gubernamental","7.0","Control de la gestión pública","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","25.0","Ejecución de Obras de Arquitectura","6105509.0"
+"1.0","88.0","2011-01-31T00:00:00Z","Administración gubernamental","8.0","Información y estadística básicas","30.0","Ministerio del Interior","26.0","Conservación y Custodia de los Documentos de la Nación","4588646.0"
+"1.0","89.0","2011-01-31T00:00:00Z","Administración gubernamental","8.0","Información y estadística básicas","50.0","Ministerio de Economía y Finanzas Públicas","19.0","Servicio Estadístico","2.23849086E8"
+"1.0","90.0","2011-01-31T00:00:00Z","Administración gubernamental","8.0","Información y estadística básicas","50.0","Ministerio de Economía y Finanzas Públicas","20.0","Censo Nacional Económico","3736757.0"
+"1.0","91.0","2011-01-31T00:00:00Z","Administración gubernamental","8.0","Información y estadística básicas","50.0","Ministerio de Economía y Finanzas Públicas","21.0","Censo Nacional Agropecuario","5571338.0"
+"1.0","92.0","2011-01-31T00:00:00Z","Administración gubernamental","8.0","Información y estadística básicas","50.0","Ministerio de Economía y Finanzas Públicas","23.0","Censo Nacional de Población, Hogares y Vivienda","2.5632E7"
+"2.0","93.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","16.0","Conducción y Planificación para la Defensa","1.15877044E8"
+"2.0","94.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","18.0","Mantenimiento y Producción para la Defensa","5.03008732E8"
+"2.0","95.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","22.0","Servicios de Hidrografía","3.4252127E7"
+"2.0","96.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","23.0","Logística de la Defensa","1.5100647E7"
+"2.0","97.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","98.0","Transferencias Varias","9939032.0"
+"2.0","98.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","1.0","Actividades Centrales - Estado Mayor General del Ejército","5.24562614E8"
+"2.0","99.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","16.0","Alistamiento Operacional - Estado Mayor General del Ejército","3.095301409E9"
+"2.0","100.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","19.0","Remonta y Veterinaria","7.8517396E7"
+"2.0","101.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","20.0","Sastrería Militar","2.5108445E7"
+"2.0","102.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","1.0","Actividades Centrales - Estado Mayor General de la Armada","4.61736647E8"
+"2.0","103.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","16.0","Alistamiento Operacional - Estado Mayor General de la Armada","1.702999669E9"
+"2.0","104.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","19.0","Hidrografía Naval","3.9548774E7"
+"2.0","105.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","20.0","Transportes Navales","4.0726709E7"
+"2.0","106.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","24.0","Sostenimiento Operacional - Estado Mayor General de la Armada","0.0"
+"2.0","107.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","1.0","Actividades Centrales - Estado Mayor General de la Fuerza Aérea","3.77045242E8"
+"2.0","108.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","16.0","Alistamiento Operacional - Estado Mayor General de la Fuerzas Aérea","1.205346636E9"
+"2.0","109.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","24.0","Sostenimiento Operacional - Estado Mayor General de la Fuerza Aérea","0.0"
+"2.0","110.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","1.0","Actividades Centrales - Estado Mayor Conjunto de las Fuerzas Armadas","2.0604967E7"
+"2.0","111.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","16.0","Planeamiento Militar Conjunto","2.3753467E7"
+"2.0","112.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","17.0","Fuerzas de Paz","2.10248032E8"
+"2.0","113.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","1.0","Defensa","45.0","Ministerio de Defensa","21.0","Planeamiento y Conducción de Operaciones y de Adiestramiento Militar Conjunto","0.0"
+"2.0","114.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","30.0","Ministerio del Interior","16.0","Acciones de Seguridad Vial","1.77232817E8"
+"2.0","115.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","40.0","Ministerio de Justicia y Derechos Humanos","30.0","Registro de Armas Secuestradas y Decomisadas","1.8282484E7"
+"2.0","116.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","1.0","Actividades Centrales - Ministerio de Seguridad","1.5306293E7"
+"2.0","117.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","29.0","Administración Civil de las Fuerzas de Seguridad","5.63447472E8"
+"2.0","118.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","33.0","Conducción y Supervisión de la Seguridad Interior","2.654012E7"
+"2.0","119.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","1.0","Actividades Centrales - Policía Federal Argentina","5.63796296E8"
+"2.0","120.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","21.0","Prestación del Servicio de Seguridad a Personas y Bienes","3.700748212E9"
+"2.0","121.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","1.0","Actividades Centrales - Gendarmería Nacional","3.18034686E8"
+"2.0","122.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","40.0","Capacidad Operacional de la Gendarmería Nacional","3.368380013E9"
+"2.0","123.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","44.0","Misiones Humanitarias y de Paz para Organismos Internacionales","4286492.0"
+"2.0","124.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","45.0","Atención de Pasos Fronterizos - Gendarmería Nacional","6008715.0"
+"2.0","125.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","1.0","Actividades Centrales - Prefectura Naval Argentina","2.80156742E8"
+"2.0","126.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","29.0","Servicio Técnico de Seguridad de la Navegación","2.9551492E7"
+"2.0","127.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","30.0","Servicio de Informática y Comunicaciones","9.9819121E7"
+"2.0","128.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","31.0","Servicio de Seguridad de la Navegación y de Policía de Seguridad y Judicial","1.557869548E9"
+"2.0","129.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","38.0","Atención de Pasos Fronterizos - Prefectura Naval Argentina","57000.0"
+"2.0","130.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","41.0","Ministerio de Seguridad","22.0","Prestación del Servicio de Seguridad Aeroportuaria","4.3801049E8"
+"2.0","131.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","25.0","Ejecución de Obras de Arquitectura","3.02E7"
+"2.0","132.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","2.0","Seguridad interior","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","62.0","Formulación y Ejecución Políticas de Transporte Ferroviario","1.02948E8"
+"2.0","133.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","3.0","Sistema penal","40.0","Ministerio de Justicia y Derechos Humanos","18.0","Política e Infraestructura Penitenciaria","2.48647595E8"
+"2.0","134.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","3.0","Sistema penal","40.0","Ministerio de Justicia y Derechos Humanos","1.0","Actividades Centrales","2.03673096E8"
+"2.0","135.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","3.0","Sistema penal","40.0","Ministerio de Justicia y Derechos Humanos","16.0","Seguridad y Rehabilitación del Interno","1.172378753E9"
+"2.0","136.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","3.0","Sistema penal","40.0","Ministerio de Justicia y Derechos Humanos","24.0","Cooperación Técnica y Financiera para la Laborterapia de Internos","1.44073373E8"
+"2.0","137.0","2011-01-31T00:00:00Z","#NAME?","4.0","#NAME?","20.0","#NAME?","16.0","Información e Inteligencia","5.14716675E8"
+"2.0","138.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","4.0","Inteligencia","41.0","Ministerio de Seguridad","33.0","Conducción y Supervisión de la Seguridad Interior","3.337867E7"
+"2.0","139.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","4.0","Inteligencia","41.0","Ministerio de Seguridad","92.0","Administración del Fondo Permanente de Recompensas","1100000.0"
+"2.0","140.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","4.0","Inteligencia","41.0","Ministerio de Seguridad","1.0","Actividades Centrales","9.1916221E7"
+"2.0","141.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","4.0","Inteligencia","41.0","Ministerio de Seguridad","1.0","Actividades Centrales","5.5631916E7"
+"2.0","142.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","4.0","Inteligencia","41.0","Ministerio de Seguridad","1.0","Actividades Centrales","1.44388E7"
+"2.0","143.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","4.0","Inteligencia","45.0","Ministerio de Defensa","16.0","Conducción y Planificación para la Defensa","3470958.0"
+"2.0","144.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","4.0","Inteligencia","45.0","Ministerio de Defensa","16.0","Alistamiento Operacional","1.84307765E8"
+"2.0","145.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","4.0","Inteligencia","45.0","Ministerio de Defensa","16.0","Alistamiento Operacional","3.92953E7"
+"2.0","146.0","2011-01-31T00:00:00Z","Servicios de defensa y seguridad","4.0","Inteligencia","45.0","Ministerio de Defensa","16.0","Alistamiento Operacional","5.2491519E7"
+"3.0","147.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","1.0","Poder Legislativo Nacional","20.0","Asistencia Social Integral al Personal del Congreso de la Nación","1.02337811E8"
+"3.0","148.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","41.0","Ministerio de Seguridad","22.0","Asistencia Médica Sanitaria al Personal Policial y su Familia","2.59990402E8"
+"3.0","149.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","41.0","Ministerio de Seguridad","42.0","Asistencia Sanitaria de la Gendarmería Nacional","1.9322609E8"
+"3.0","150.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","41.0","Ministerio de Seguridad","36.0","Atención Sanitaria de la Prefectura Naval Argentina","5.5138217E7"
+"3.0","151.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","45.0","Ministerio de Defensa","18.0","Asistencia Sanitaria - Estado Mayor General del Ejército","5.16711487E8"
+"3.0","152.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","45.0","Ministerio de Defensa","17.0","Sanidad Naval","2.50401672E8"
+"3.0","153.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","45.0","Ministerio de Defensa","19.0","Asistencia Sanitaria de la Fuerza Aérea","3.26036565E8"
+"3.0","154.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","45.0","Ministerio de Defensa","18.0","Producción de Medicamentos en Laboratorios Militares","3227049.0"
+"3.0","155.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","25.0","Ejecución de Obras de Arquitectura","8.4835957E7"
+"3.0","156.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","50.0","Formulación, Programación, Ejecución y Control de Obras Públicas","9.7964844E7"
+"3.0","157.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","70.0","Ministerio de Educación","26.0","Desarrollo de la Educación Superior","3.12892786E8"
+"3.0","158.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","99.0","Transferencias al Instituto Nacional de Servicios Sociales para Jubilados y Pensionados","3.926851001E9"
+"3.0","159.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","1.0","Actividades Centrales","2.28341408E8"
+"3.0","160.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","2.0","Actividades Comunes a los Programas 17, 20, 22, 24, 25, 26, 29 , 30, 36, 37, 39 y 40","5976764.0"
+"3.0","161.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","3.0","Actividades Comunes a los Programas con Financiamiento Externo 17, 20, 22, 25, 29, 30, 37,","1.0166617E7"
+"3.0","162.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","5.0","Actividades Comunes a los Programas 16, 18 y 21","5256578.0"
+"3.0","163.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","16.0","Apoyo al Desarrollo de la Atención Médica","4.2474897E7"
+"3.0","164.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","17.0","Atención de la Madre y el Niño","6.84476464E8"
+"3.0","165.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","18.0","Formación de Recursos Humanos Sanitarios y Asistenciales","1.29176182E8"
+"3.0","166.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","19.0","Determinantes de la Salud, Relaciones Sanitarias e Investigación","3.1966145E7"
+"3.0","167.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","20.0","Prevención y Control de Enfermedades y Riesgos Específicos","7.71143665E8"
+"3.0","168.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","21.0","Planificación, Control, Regulación y Fiscalización de la Política de Salud","3.7321109E7"
+"3.0","169.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","22.0","Lucha Contra el SIDA y Enfermedades de Transmisión Sexual","3.81950356E8"
+"3.0","170.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","24.0","Detección y Tratamiento de Enfermedades Crónicas y Factores de Riesgo para la Salud","2.4195568E7"
+"3.0","171.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","25.0","Atención Primaria de la Salud","2.2979489E7"
+"3.0","172.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","26.0","Cobertura de Emergencias Sanitarias","8628156.0"
+"3.0","173.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","29.0","Reforma del Sector Salud (BID 1903/OC-AR)","1.75246949E8"
+"3.0","174.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","30.0","Fortalecimiento de la Capacidad del Sistema Público de Salud","1.42304549E8"
+"3.0","175.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","36.0","At. Médica a los Beneficiarios de Pensiones no Contributivas","1.240859938E9"
+"3.0","176.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","37.0","Prevención y Control de Enfermedades Endémicas","6.457326E7"
+"3.0","177.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","38.0","Funciones Esenciales de Salud Pública (BIRF 7412-AR)","1.7160374E8"
+"3.0","178.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","39.0","Desarrollo Estrategias en Salud Familiar y Comunitaria","2.89366632E8"
+"3.0","179.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","40.0","Sanidad Escolar","4894710.0"
+"3.0","180.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","41.0","Atención Sanitaria en el Territorio","2.8753392E7"
+"3.0","181.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","42.0","Detección Temprana y Tratamiento de Patologías Específicas","1.0664223E7"
+"3.0","182.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","99.0","Transferencias Hospital Garraham, Hospital El Cruce y Otras","6.26786135E8"
+"3.0","183.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","53.0","Atención a Enfermos - Hospital Baldomero Sommer","1.13814274E8"
+"3.0","184.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","54.0","Control y Fiscalización de Medicamentos, Alimentos y Productos Médicos","1.26185741E8"
+"3.0","185.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","55.0","Regulación de la Ablación e Implantes","4.4963E7"
+"3.0","186.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","58.0","Atencion Sanitaria para la Comunidad - Hospital Posadas","5.03266909E8"
+"3.0","187.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","59.0","Atención de Pacientes - Colonia Montes de Oca","1.13368032E8"
+"3.0","188.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","60.0","Atención a Discapacitados Psicofísicos","4.0864891E7"
+"3.0","189.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","62.0","Prevención y Control de las Discapacidades","5.4509146E7"
+"3.0","190.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","63.0","Asistencia Financiera a Agentes del Seguro de Salud","1.059752988E9"
+"3.0","191.0","2011-01-31T00:00:00Z","Servicios sociales","1.0","Salud","80.0","Ministerio de Salud","50.0","Regulación y Control del Sistema de Salud","9.2047786E7"
+"3.0","192.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","20.0","Presidencia de la Nación","17.0","Formulación e Implementación de Políticas Públicas de la Mujer","8131053.0"
+"3.0","193.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","20.0","Presidencia de la Nación","21.0","Asistencia y Coordinación de Políticas Sociales","1.072625E8"
+"3.0","194.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","20.0","Presidencia de la Nación","16.0","Prevención, Asistencia, Control y Lucha Contra la Drogadicción","6.478882E7"
+"3.0","195.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","25.0","Jefatura de Gabinete de Ministros","37.0","Acciones para la Provisión de Tierras para el Hábitat Social","3.9329246E7"
+"3.0","196.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","52.0","Ministerio de Agricultura, Ganadería y Pesca","3.0","Actividades Comunes a los Programas 39 y 40","806990.0"
+"3.0","197.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","52.0","Ministerio de Agricultura, Ganadería y Pesca","39.0","Programa Social Agropecuario (PROINDER BIRF 4212, 7478 y PO Nº 106685)","6.1877E7"
+"3.0","198.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","25.0","Ejecución de Obras de Arquitectura","4.7948607E7"
+"3.0","199.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","50.0","Formulación, Programación, Ejecución y Control de Obras Públicas","7.31089856E8"
+"3.0","200.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","86.0","Apoyo para el Dessarrollo de Infraestructura Urbana en Municipios","2.08923807E8"
+"3.0","201.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","80.0","Ministerio de Salud","52.0","Asistencia Integral y Prevención en Drogadicción","3.202386E7"
+"3.0","202.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","1.0","Actividades Centrales","5.00044462E8"
+"3.0","203.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","2.0","Actividades Comunes a los Programas 21, 24 y 28","8564749.0"
+"3.0","204.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","3.0","Actividades Comunes a los Programas 20 y 26","1411710.0"
+"3.0","205.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","4.0","Actividades Comunes a los Programas 44, 45, 46 y 47","6.696642E7"
+"3.0","206.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","20.0","Acciones de Promoción y Protección Social","7.32900514E8"
+"3.0","207.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","21.0","Capacitación, Fortalecimiento y Asistencia Técnica","4.6368074E7"
+"3.0","208.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","23.0","Pensiones no Contributivas","8275097.0"
+"3.0","209.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","24.0","Promoción del Empleo Social, Economía Social y Desarrollo Lo","5.75047419E8"
+"3.0","210.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","26.0","Seguridad Alimentaria","1.914349618E9"
+"3.0","211.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","28.0","Familias por la Inclusión Social","7.6693619E7"
+"3.0","212.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","38.0","Programa del Ingreso Social con Trabajo","3.787451129E9"
+"3.0","213.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","44.0","Acciones para la Promoción y Protección Integral de los Derechos de Niños, Niñas y Adolesc","2.03294941E8"
+"3.0","214.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","45.0","Políticas Federales para la Promoción de los Derechos de Niños y Adolescentes","5.5370568E7"
+"3.0","215.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","46.0","Promoción y Protección de los Derechos de Adultos Mayores","5.4266004E7"
+"3.0","216.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","47.0","Promoción y Asistencia a los Centros de Desarrollo Infantil Comunitarios","4483107.0"
+"3.0","217.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","99.0","Transferencias Varias","693100.0"
+"3.0","218.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","16.0","Asistencia a la Actividad Cooperativa y Mutual","2.79675411E8"
+"3.0","219.0","2011-01-31T00:00:00Z","Servicios sociales","2.0","Promoción y asistencia social","85.0","Ministerio de Desarrollo Social","16.0","Atención y Desarrollo de Poblaciones Indígenas","3.9377483E7"
+"3.0","220.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","1.0","Poder Legislativo Nacional","17.0","Formación y Sanción Legislativa","780000.0"
+"3.0","221.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","5.0","Poder Judicial de la Nación","26.0","Atención de Pasividades","1.9219E7"
+"3.0","222.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","40.0","Ministerio de Justicia y Derechos Humanos","17.0","Pagos a Retirados y Pensionados del Servicio Penitenciario Federal","5.52431201E8"
+"3.0","223.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","41.0","Ministerio de Seguridad","43.0","Pasividades de la Gendarmería Nacional","7.29851338E8"
+"3.0","224.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","41.0","Ministerio de Seguridad","32.0","Atención Pasividades de la Prefectura Naval Argentina","5.12360496E8"
+"3.0","225.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","41.0","Ministerio de Seguridad","16.0","Administración de Beneficios Previsionales - Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal","2.9900225E9"
+"3.0","226.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","41.0","Ministerio de Seguridad","17.0","Atención de Pasividades de la Policía Ex-Territorios Nacionales","7.7718432E7"
+"3.0","227.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","45.0","Ministerio de Defensa","16.0","Prestaciones de Previsión Social del Instituto Nacional de Ayuda Financiera para el Pago de Retiros y Pensiones Militares","3.0306188E9"
+"3.0","228.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","53.0","Ministerio de Turismo","18.0","Atención a Pasividades de Guardaparques","2298000.0"
+"3.0","229.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","1.0","Actividades Centrales","3.629949791E9"
+"3.0","230.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","16.0","Prestaciones Previsionales","1.01892639434E11"
+"3.0","231.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","17.0","Complementos a las Prestaciones Previsionales","3.5208E8"
+"3.0","232.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","18.0","Seguro de Desempleo","7.16887E8"
+"3.0","233.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","19.0","Asignaciones Familiares","1.9927799994E10"
+"3.0","234.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","20.0","Atención Ex-Cajas Provinciales","6.885005282E9"
+"3.0","235.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","21.0","Atencion Pensiones Ex-Combatientes","8.42872283E8"
+"3.0","236.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","99.0","Transferencias a Cajas Previsionales Provinciales y a la AFIP","2.574983E9"
+"3.0","237.0","2011-01-31T00:00:00Z","Servicios sociales","3.0","Seguridad social","85.0","Ministerio de Desarrollo Social","23.0","Pensiones no Contributivas","1.1406743556E10"
+"3.0","238.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","1.0","Poder Legislativo Nacional","18.0","Asistencia Bibliográfica","1.87263236E8"
+"3.0","239.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","20.0","Presidencia de la Nación","1.0","Actividades Centrales de la Secretaría de Presidencia de la Nación","8084001.0"
+"3.0","240.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","20.0","Presidencia de la Nación","1.0","Actividades Centrales de la Secretaría de Cultura","1.26072203E8"
+"3.0","241.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","20.0","Presidencia de la Nación","36.0","Difusión de la Música y Danza","8.8768668E7"
+"3.0","242.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","20.0","Presidencia de la Nación","37.0","Preservación y Exhibición Artística - Cultural","5.7936683E7"
+"3.0","243.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","20.0","Presidencia de la Nación","38.0","Desarrollo y Promoción Cultural","1.6757264E7"
+"3.0","244.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","20.0","Presidencia de la Nación","40.0","Fomento y Apoyo Económico a Bibliotecas Populares","3.2613175E7"
+"3.0","245.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","20.0","Presidencia de la Nación","41.0","Estudios e Investigaciones Históricas sobre Juan Domingo Perón","4358000.0"
+"3.0","246.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","20.0","Presidencia de la Nación","42.0","Difusión, Concientización y Protección del Patrimonio Cultural del Museo de Bellas Artes","1.2071017E7"
+"3.0","247.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","20.0","Presidencia de la Nación","16.0","Acciones Artísticas del Teatro Nacional Cervantes","3.762361E7"
+"3.0","248.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","20.0","Presidencia de la Nación","25.0","Servicios de la Biblioteca Nacional","5.855243E7"
+"3.0","249.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","20.0","Presidencia de la Nación","16.0","Fomento, Producción y Difusión del Teatro","4.5605949E7"
+"3.0","250.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","20.0","Presidencia de la Nación","16.0","Financiamiento para el Fomento de las Artes","1.8403E7"
+"3.0","251.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","25.0","Jefatura de Gabinete de Ministros","20.0","Capacitación de los Recursos Humanos del Sector Público","3.3647261E7"
+"3.0","252.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","25.0","Jefatura de Gabinete de Ministros","46.0","Programa Fútbol para Todos","6.9E8"
+"3.0","253.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","40.0","Ministerio de Justicia y Derechos Humanos","25.0","Formación y Capacitación del Servicio Penitenciario Federal","1.05079636E8"
+"3.0","254.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","41.0","Ministerio de Seguridad","23.0","Formación y Capacitación del Personal de la Policía Federal","1.96667975E8"
+"3.0","255.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","41.0","Ministerio de Seguridad","41.0","Formación y Capacitación de la Gendarmería Nacional","5.2014066E8"
+"3.0","256.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","41.0","Ministerio de Seguridad","37.0","Formación y Capacitación Profesional de la Prefectura Naval Argentina","1.88283173E8"
+"3.0","257.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","41.0","Ministerio de Seguridad","22.0","Prestación del Servicio de Seguridad Aeroportuaria - Formación y Capacitación","1.159855E7"
+"3.0","258.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","45.0","Ministerio de Defensa","21.0","Formación y Capacitación - Escuela de Defensa Nacional","6673459.0"
+"3.0","259.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","45.0","Ministerio de Defensa","17.0","Formación y Capacitación - Estado Mayor General del Ejército","7.36206949E8"
+"3.0","260.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","45.0","Ministerio de Defensa","18.0","Formación y Capacitación - Estado Mayor General de la Armada","5.2330368E8"
+"3.0","261.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","45.0","Ministerio de Defensa","20.0","Capacitación y Formación de la Fuerza Aérea","3.12966201E8"
+"3.0","262.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","45.0","Ministerio de Defensa","19.0","Formación y Capacitación - Estado Mayor Conjunto de las Fuerzas Armadas","1.1265502E7"
+"3.0","263.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","25.0","Ejecución de Obras de Arquitectura","1.52545E8"
+"3.0","264.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","50.0","Formulación, Programación, Ejecución y Control de Obras Públicas","3000000.0"
+"3.0","265.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","88.0","Apoyo para el Desarrollo de la Infraestructura Universitaria","2.01095E8"
+"3.0","266.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","89.0","Acciones para ""Más Escuelas, Mejor Educación"" - BID Nº 1345 y 1966)","6.3215354E8"
+"3.0","267.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","1.0","Actividades Centrales","1.23498567E8"
+"3.0","268.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","9.0","Activ. Comunes a los Programas de Educ. 29,32,33, 35, 45 y 46","3.3041535E7"
+"3.0","269.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","26.0","Desarrollo de la Educación Superior","1.3300105378E10"
+"3.0","270.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","29.0","Gestión Educativa","1.062062713E9"
+"3.0","271.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","30.0","Cooperación e Integración Educativa Internacional","3.5694701E7"
+"3.0","272.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","32.0","Información y Evaluación de la Calidad Educativa","3.8203308E7"
+"3.0","273.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","33.0","Acciones Compensatorias en Educación","2.87305941E8"
+"3.0","274.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","35.0","Servicio de la Biblioteca de Maestros","9394494.0"
+"3.0","275.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","37.0","Infraestructura y Equipamiento","3.86966978E8"
+"3.0","276.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","39.0","Innovación y Desarrollo de la Formación Tecnológica","8.44981071E8"
+"3.0","277.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","41.0","Planeamiento Educativo y Fortalecimiento de las Administraciones Provinciales","7350443.0"
+"3.0","278.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","44.0","Mejoramiento de la Calidad Educativa","7.9616681E7"
+"3.0","279.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","45.0","Acciones de Formación Docente","8.0741624E7"
+"3.0","280.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","98.0","Fondo Nacional de Incentivo Docente","3.011590753E9"
+"3.0","281.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","99.0","Transferencias Varias","7.9845727E7"
+"3.0","282.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","70.0","Ministerio de Educación","16.0","Evaluación y Acreditación Universitaria","2.744655E7"
+"3.0","283.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","28.0","Asistencia Financiera al ""Programa Conectar Igualdad.com.ar""","2.198786E9"
+"3.0","284.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","85.0","Ministerio de Desarrollo Social","6.0","Actividad Común a los Programas 17 y 18","4.167875E7"
+"3.0","285.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","85.0","Ministerio de Desarrollo Social","17.0","Desarrollo  y Fomento del Deporte Social y del Deporte de Alto Rendimiento","7.4278814E7"
+"3.0","286.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","85.0","Ministerio de Desarrollo Social","18.0","Asistencia Médico-Deportiva y Control Antidoping","5275710.0"
+"3.0","287.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","91.0","Obligaciones a Cargo del Tesoro","95.0","Asistencia Financiera a Empresas Públicas y Ente Binacional","7.3054E7"
+"3.0","288.0","2011-01-31T00:00:00Z","Servicios sociales","4.0","Educación y cultura","91.0","Obligaciones a Cargo del Tesoro","99.0","Otras Asistencias Financieras","3.139327773E9"
+"3.0","289.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","35.0","Ministerio de Relaciones Exteriores, Comercio Internacional y Culto","20.0","Desarrollo del Plan Antártico","5.6578814E7"
+"3.0","290.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","35.0","Ministerio de Relaciones Exteriores, Comercio Internacional y Culto","1.0","Actividades Centrales de la Comisión Nacional de Actividades Espaciales (CNAE)","4.6302469E7"
+"3.0","291.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","35.0","Ministerio de Relaciones Exteriores, Comercio Internacional y Culto","2.0","Actividades Comunes a los Programas 16 y 17 de la CNAE","529400.0"
+"3.0","292.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","35.0","Ministerio de Relaciones Exteriores, Comercio Internacional y Culto","16.0","Generación de Ciclos de Información Espacial Completos","2.85346717E8"
+"3.0","293.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","35.0","Ministerio de Relaciones Exteriores, Comercio Internacional y Culto","17.0","Investigación y Desarrollo de Medios de Acceso al Espacio","4.6359E7"
+"3.0","294.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","35.0","Ministerio de Relaciones Exteriores, Comercio Internacional y Culto","18.0","Reconversión de la Planta Industrial Falda del Carmen","16000.0"
+"3.0","295.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","45.0","Ministerio de Defensa","16.0","Conducción y Planificación para la Defensa - Investigación y Desarrollo","4958000.0"
+"3.0","296.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","45.0","Ministerio de Defensa","17.0","Desarrollo Tecnológico para la Defensa","8.1614668E7"
+"3.0","297.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","45.0","Ministerio de Defensa","16.0","Alistamiento Operacional - Estado Mayor General de la Armada - Recuperación Rompehielos Almirante Irizar","8.2140739E7"
+"3.0","298.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","45.0","Ministerio de Defensa","20.0","Sostén Logístico Antártico","1.37686657E8"
+"3.0","299.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","45.0","Ministerio de Defensa","16.0","Elaboración y Actualización de Cartografía Básica Nacional","4.563516E7"
+"3.0","300.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","51.0","Ministerio de Industria","16.0","Desarrollo y Competitividad Industrial","2.433206E8"
+"3.0","301.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","52.0","Ministerio de Agricultura, Ganadería y Pesca","1.0","Actividades Centrales del Instituto Nacional de Tecnología Agropecuaria (INTA)","2.38704547E8"
+"3.0","302.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","52.0","Ministerio de Agricultura, Ganadería y Pesca","16.0","Investigación Fundamental e Innovaciones Tecnológicas (INTA)","1.55753472E8"
+"3.0","303.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","52.0","Ministerio de Agricultura, Ganadería y Pesca","17.0","Investigación Aplicada, Innovación y Transferencias de Tecnologías (INTA)","8.37333697E8"
+"3.0","304.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","25.0","Ejecución de Obras de Arquitectura","4920000.0"
+"3.0","305.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","30.0","Prevención Sísmica","1.1046451E7"
+"3.0","306.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","1.0","Actividades Centrales de la Comisión Nacional de Energía Atómica (CNEA)","2.81967688E8"
+"3.0","307.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","20.0","Desarrollos y Suministros para la Energía Nuclear","1.4981097E8"
+"3.0","308.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","21.0","Aplicaciones de la Tecnología Nuclear","8.8050107E7"
+"3.0","309.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","22.0","Acciones para la Seguridad Nuclear y Protección Ambiental","1.15370816E8"
+"3.0","310.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","23.0","Investigación y Aplicaciones no Nucleares","4.9844618E7"
+"3.0","311.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","24.0","Suminitros y Tecnología Ciclo Combustible Nuclear","1.42314413E8"
+"3.0","312.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","16.0","Desarrollo de la Ciencia y Técnica del Agua","5.6379023E7"
+"3.0","313.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","1.0","Actividades Centrales del Servicio Geológico Minero","1.7444787E7"
+"3.0","314.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","16.0","Desarrollo y Aplicación de la Tecnología Minera","1.4405051E7"
+"3.0","315.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","19.0","Producción de Información Geológica de Base","4.5512562E7"
+"3.0","316.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","70.0","Ministerio de Educación","26.0","Desarrollo de la Educación Superior","2.062313E8"
+"3.0","317.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","70.0","Ministerio de Educación","16.0","Investigación de la Flora, Fauna y Gea","3.5166595E7"
+"3.0","318.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","71.0","Ministerio de Ciencia, Tecnología e Innovación Productiva","1.0","Actividades Centrales","1.62210326E8"
+"3.0","319.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","71.0","Ministerio de Ciencia, Tecnología e Innovación Productiva","43.0","Formulación e Implementación de la Política de Ciencia y Tecnología","2.77072019E8"
+"3.0","320.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","71.0","Ministerio de Ciencia, Tecnología e Innovación Productiva","44.0","Promoción y Financiamiento de Actividades de Ciencia,Tecnología e Innovación","5.55202546E8"
+"3.0","321.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","71.0","Ministerio de Ciencia, Tecnología e Innovación Productiva","1.0","Actividades Centrales del CONICET","8.355771E7"
+"3.0","322.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","71.0","Ministerio de Ciencia, Tecnología e Innovación Productiva","16.0","Formación de Recursos Humanos y Promoción Científica y Tecnológica","1.483773503E9"
+"3.0","323.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","71.0","Ministerio de Ciencia, Tecnología e Innovación Productiva","17.0","Exhibición Pública e Investigación en Ciencias Naturales de la República Argentina","7552867.0"
+"3.0","324.0","2011-01-31T00:00:00Z","Servicios sociales","5.0","Ciencia y técnica","80.0","Ministerio de Salud","56.0","Prevención, Control e Investigación de Patologías en Salud (ANLIS)","1.82610369E8"
+"3.0","325.0","2011-01-31T00:00:00Z","Servicios sociales","6.0","Trabajo","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","1.0","Actividades Centrales","1.79238624E8"
+"3.0","326.0","2011-01-31T00:00:00Z","Servicios sociales","6.0","Trabajo","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","16.0","Acciones de Empleo","1.768513333E9"
+"3.0","327.0","2011-01-31T00:00:00Z","Servicios sociales","6.0","Trabajo","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","18.0","Análisis y Formulación de la Política de Seguridad Social","1.2578966E7"
+"3.0","328.0","2011-01-31T00:00:00Z","Servicios sociales","6.0","Trabajo","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","20.0","Formulación y Regulación de la Política Laboral","1.37417287E8"
+"3.0","329.0","2011-01-31T00:00:00Z","Servicios sociales","6.0","Trabajo","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","22.0","Regularización del Trabajo","7.3598302E7"
+"3.0","330.0","2011-01-31T00:00:00Z","Servicios sociales","6.0","Trabajo","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","23.0","Acciones de Capacitación Laboral","3.20675975E8"
+"3.0","331.0","2011-01-31T00:00:00Z","Servicios sociales","6.0","Trabajo","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","24.0","Sistema Federal de Empleo","7.4605428E7"
+"3.0","332.0","2011-01-31T00:00:00Z","Servicios sociales","6.0","Trabajo","75.0","Ministerio de Trabajo, Empleo y Seguridad Social","16.0","Fiscalización Cumplimiento de la Ley de Riesgos del Trabajo","6.1086E7"
+"3.0","333.0","2011-01-31T00:00:00Z","Servicios sociales","7.0","Vivienda y urbanismo","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","10.0","Actividades Comunes a los Programas de Vivienda","3.432584E7"
+"3.0","334.0","2011-01-31T00:00:00Z","Servicios sociales","7.0","Vivienda y urbanismo","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","42.0","Acciones para el Desarrollo de la Infraestructura Social","3.964275E8"
+"3.0","335.0","2011-01-31T00:00:00Z","Servicios sociales","7.0","Vivienda y urbanismo","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","43.0","Desarrollo de la Infraestructura Habitacional ""TECHO DIGNO""","2.509058396E9"
+"3.0","336.0","2011-01-31T00:00:00Z","Servicios sociales","7.0","Vivienda y urbanismo","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","44.0","Acciones para el Mejoramiento Habitacional e Infraestructura Básica","1.093074E9"
+"3.0","337.0","2011-01-31T00:00:00Z","Servicios sociales","7.0","Vivienda y urbanismo","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","45.0","Fortalecimiento Comunitario del Habitat","5.12866E8"
+"3.0","338.0","2011-01-31T00:00:00Z","Servicios sociales","7.0","Vivienda y urbanismo","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","46.0","Urbanización de Villas y Asentamientos Precarios","4.6496675E8"
+"3.0","339.0","2011-01-31T00:00:00Z","Servicios sociales","7.0","Vivienda y urbanismo","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","85.0","Acciones Hídricas y Viales para el Dessarrollo Integrador de","4.8884078E7"
+"3.0","340.0","2011-01-31T00:00:00Z","Servicios sociales","8.0","Agua potable y alcantarillado","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","19.0","Recursos Hídricos","8.429078E7"
+"3.0","341.0","2011-01-31T00:00:00Z","Servicios sociales","8.0","Agua potable y alcantarillado","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","85.0","Acciones Hídricas y Viales para el Dessarrollo Integrador de","5.49013599E8"
+"3.0","342.0","2011-01-31T00:00:00Z","Servicios sociales","8.0","Agua potable y alcantarillado","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","90.0","Atención del Estado de Emergencia por Inundaciones","820000.0"
+"3.0","343.0","2011-01-31T00:00:00Z","Servicios sociales","8.0","Agua potable y alcantarillado","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","94.0","Asistencia Financiera a Empresas Públicas y Entes Binacionales","4.49734E8"
+"3.0","344.0","2011-01-31T00:00:00Z","Servicios sociales","8.0","Agua potable y alcantarillado","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","20.0","Asistencia Técnico - Financiera y Desarrollo de Infraestructura para el Saneamiento","1.450378207E9"
+"3.0","345.0","2011-01-31T00:00:00Z","Servicios sociales","8.0","Agua potable y alcantarillado","91.0","Obligaciones a Cargo del Tesoro","95.0","Asistencia Financiera a Empresas Públicas y Ente Binacional","1.8453E9"
+"4.0","346.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","20.0","Presidencia de la Nación","16.0","Regulación y Fiscalización de las Actividades Nucleares","1.39384438E8"
+"4.0","347.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","1.0","Actividades Centrales","1.7436307E7"
+"4.0","348.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","5.0","Actividades Comunes a los Programas de Energía","6.4340621E7"
+"4.0","349.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","19.0","Recursos Hídricos","4.3490059E7"
+"4.0","350.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","32.0","Formulación y Ejecución de la Política Geológico-Minera (BID Nº 1865-OC-AR-2)","8.7175627E7"
+"4.0","351.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","73.0","Formulacion y Ejecucion de Politica de Hidrocarburos","7.48558094E8"
+"4.0","352.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","74.0","Formulación y Ejecución de la Política de Energía Eléctrica","1.4384447544E10"
+"4.0","353.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","75.0","Acciones para el Uso Racional y Eficiente de la Energía","1.38363837E8"
+"4.0","354.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","77.0","Acciones para la Ampliación de las Redes Eléctricas de Alta Tensión","2.220601719E9"
+"4.0","355.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","78.0","Desarrollo Energético Provincial","8.5493215E8"
+"4.0","356.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","16.0","Desarrollo y Aplicación de la Tecnología Minera","2000000.0"
+"4.0","357.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","16.0","Regulación del Transporte y Distribución  de Gas","1.04261023E8"
+"4.0","358.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","16.0","Regulación y Contralor del Mercado Eléctrico","1.03182E8"
+"4.0","359.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","17.0","Control de Seguridad de Presas","1.7919E7"
+"4.0","360.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","91.0","Obligaciones a Cargo del Tesoro","94.0","Asistencia Financiera a Sectores Económicos","7.74E8"
+"4.0","361.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","91.0","Obligaciones a Cargo del Tesoro","95.0","Asistencia Financiera a Empresas Públicas y Ente Binacional","6.32984E9"
+"4.0","362.0","2011-01-31T00:00:00Z","Servicios económicos","1.0","Energía, combustibles y minería","91.0","Obligaciones a Cargo del Tesoro","98.0","Asistencia Financiera a Provincias y Municipios","2.0E8"
+"4.0","363.0","2011-01-31T00:00:00Z","Servicios económicos","2.0","Comunicaciones","25.0","Jefatura de Gabinete de Ministros","1.0","1-Actividades Centrales de la Autoridad Federal de Servicios de Comunicación Audiovisual","3.0686971E7"
+"4.0","364.0","2011-01-31T00:00:00Z","Servicios económicos","2.0","Comunicaciones","25.0","Jefatura de Gabinete de Ministros","16.0","Control de los Servicios de Radiodifusión","5.6802052E7"
+"4.0","365.0","2011-01-31T00:00:00Z","Servicios económicos","2.0","Comunicaciones","25.0","Jefatura de Gabinete de Ministros","18.0","Enseñanza, Capacitación y Habilitación","3886466.0"
+"4.0","366.0","2011-01-31T00:00:00Z","Servicios económicos","2.0","Comunicaciones","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","1.0","Actividades Centrales","7.1290432E7"
+"4.0","367.0","2011-01-31T00:00:00Z","Servicios económicos","2.0","Comunicaciones","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","25.0","Ejecución de Obras de Arquitectura","9.8945286E7"
+"4.0","368.0","2011-01-31T00:00:00Z","Servicios económicos","2.0","Comunicaciones","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","58.0","Asistencia y Coordinación de Políticas de Comunicaciones","2.3695417E7"
+"4.0","369.0","2011-01-31T00:00:00Z","Servicios económicos","2.0","Comunicaciones","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","94.0","Asistencia Financiera a Empresas Públicas y Entes Binacionales","1.865799E9"
+"4.0","370.0","2011-01-31T00:00:00Z","Servicios económicos","2.0","Comunicaciones","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","1.0","Actividades Centrales de la Comisión Nacional de Comunicaciones","9.7789707E7"
+"4.0","371.0","2011-01-31T00:00:00Z","Servicios económicos","2.0","Comunicaciones","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","16.0","Control de los Servicios de Telecomunicaciones","7.8897564E7"
+"4.0","372.0","2011-01-31T00:00:00Z","Servicios económicos","2.0","Comunicaciones","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","17.0","Control de los Servicios Postales","7575906.0"
+"4.0","373.0","2011-01-31T00:00:00Z","Servicios económicos","2.0","Comunicaciones","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","18.0","Administración del Espectro  Radioeléctrico","3.0374895E7"
+"4.0","374.0","2011-01-31T00:00:00Z","Servicios económicos","2.0","Comunicaciones","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","19.0","Desarrollo Tecnológico, Infraestructura y Otros Servicios de Comunicaciones","2.4274797E7"
+"4.0","375.0","2011-01-31T00:00:00Z","Servicios económicos","2.0","Comunicaciones","91.0","Obligaciones a Cargo del Tesoro","95.0","Asistencia Financiera a Empresas Públicas y Ente Binacional","2.263537454E9"
+"4.0","376.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","45.0","Ministerio de Defensa","17.0","Transporte Aéreo de Fomento (LADE)","6.0975775E7"
+"4.0","377.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","45.0","Ministerio de Defensa","18.0","Apoyo a la Actividad Aérea Nacional","2.75456804E8"
+"4.0","378.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","45.0","Ministerio de Defensa","23.0","Servicio Meteorológico Nacional","2.8043273E7"
+"4.0","379.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","45.0","Ministerio de Defensa","16.0","Servicios de Meteorología Nacional","8.9023E7"
+"4.0","380.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","1.0","Actividades Centrales","1.1638065E7"
+"4.0","381.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","9.0","Actividades Comunes a los Programas de Transporte","3.1371821E7"
+"4.0","382.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","16.0","Hidrovía Paraguay - Paraná","2965240.0"
+"4.0","383.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","25.0","Ejecución de Obras de Arquitectura","20000.0"
+"4.0","384.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","50.0","Formulación, Programación, Ejecución y Control de Obras Públicas","3.785695E7"
+"4.0","385.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","60.0","Formulación y Ejecución de Políticas de Transporte Aerocomercial","2.782246786E9"
+"4.0","386.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","61.0","Formulación y Ejecución de Políticas de Transporte Automotor","6.271036852E9"
+"4.0","387.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","62.0","Formulación y Ejecución Políticas de Transporte Ferroviario","3.408981053E9"
+"4.0","388.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","63.0","Acciones para la Implementación del Sistema Único de Boleto Electrónico (SUBE)","1.74629644E8"
+"4.0","389.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","83.0","Desarrollo de la Infraestructura Vial Productiva","3.3917E8"
+"4.0","390.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","85.0","Acciones Hídricas y Viales para el Dessarrollo Integrador de","7.73854322E8"
+"4.0","391.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","86.0","Apoyo para el Dessarrollo de Infraestructura Urbana en MunicIPIOS","2455193.0"
+"4.0","392.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","91.0","Formulación y Conducción de Políticas Portuarias y de Vías N","2.98212957E8"
+"4.0","393.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","94.0","Asistencia Financiera a Empresas Públicas y Entes Binacionales","8.032E8"
+"4.0","394.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","1.0","Actividades Centrales de la Dirección Nacional de Vialidad (DNV)","1.80514744E8"
+"4.0","395.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","16.0","Mantenimiento - DNV","1.326189581E9"
+"4.0","396.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","22.0","Construcciones - DNV","7.243501097E9"
+"4.0","397.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","26.0","Sistema de Contratos de Recuperación y Mantenimiento - DNV","4.97148E8"
+"4.0","398.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","36.0","Control de Concesiones Viales - DNV","3.92578269E8"
+"4.0","399.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","37.0","Infraestructura en Concesiones Viales - DNV","1.76958611E8"
+"4.0","400.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","38.0","Infraestructura en Áreas Urbanas - DNV","9.9424197E7"
+"4.0","401.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","39.0","Obras de Mejoras en Corredores Viales Nacionales - DNV","2.6098192E7"
+"4.0","402.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","40.0","Obras en Corredores Viales - DNV","4.618518E8"
+"4.0","403.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","37.0","Fiscalización, Regulación y Control del Servicio de Transporte","8.6578E7"
+"4.0","404.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","16.0","Control del Sistema Nacional de Aeropuertos","8.0664776E7"
+"4.0","405.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","16.0","Regulación, Fiscalización  y Administración de la Aviación Civil","2.64594809E8"
+"4.0","406.0","2011-01-31T00:00:00Z","Servicios económicos","3.0","Transporte","91.0","Obligaciones a Cargo del Tesoro","95.0","Asistencia Financiera a Empresas Públicas y Ente Binacional","1.419132E9"
+"4.0","407.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","25.0","Jefatura de Gabinete de Ministros","6.0","Actividad Común a los Programas 40, 41, 42 y 43","3.5997676E7"
+"4.0","408.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","25.0","Jefatura de Gabinete de Ministros","38.0","Programa Integral Cuenca Matanza - Riachuelo","1.54467825E8"
+"4.0","409.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","25.0","Jefatura de Gabinete de Ministros","39.0","Gestión Ambiental Matanza - Riachuelo BID 1059/OC - AR","1.54075E8"
+"4.0","410.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","25.0","Jefatura de Gabinete de Ministros","40.0","Planificación y Política Ambiental","3.84814813E8"
+"4.0","411.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","25.0","Jefatura de Gabinete de Ministros","41.0","Promoción del Desarrollo Sustentable","2.6674963E7"
+"4.0","412.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","25.0","Jefatura de Gabinete de Ministros","42.0","Coordinación de Políticas Ambientales","1.31177E8"
+"4.0","413.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","25.0","Jefatura de Gabinete de Ministros","43.0","Control Ambiental","4.069602E7"
+"4.0","414.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","25.0","Jefatura de Gabinete de Ministros","44.0","Desarrollo Sustentable de la Cuenca Matanza - Riachuelo (BIRF 7706-AC)","2.93675E8"
+"4.0","415.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","53.0","Ministerio de Turismo","1.0","Actividades Centrales","9.5324221E7"
+"4.0","416.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","53.0","Ministerio de Turismo","17.0","Conservación y Administración de Áreas Naturales Protegidas","1.16572441E8"
+"4.0","417.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","53.0","Ministerio de Turismo","19.0","Capacitación","1437830.0"
+"4.0","418.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","53.0","Ministerio de Turismo","20.0","Areas Protegidas y Conservacion de Corredores (BIRF 7520/AR Comp.3)","3.051E7"
+"4.0","419.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","53.0","Ministerio de Turismo","21.0","Conservación de la Biodiversidad (GEF TF 094428/AR)","1800000.0"
+"4.0","420.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","53.0","Ministerio de Turismo","22.0","Mejora de la Competitividad del Sector Turismo (BID 1648/OC-AR)","2.108404E7"
+"4.0","421.0","2011-01-31T00:00:00Z","Servicios económicos","4.0","Ecología y medio ambiente","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","19.0","Recursos Hídricos","6.59E7"
+"4.0","422.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","2.0","Actividades Comunes a los Programas 36 y 38","730166.0"
+"4.0","423.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","36.0","Formulación de Políticas de los Sectores Agropecuario y Pesquero","4.12364504E8"
+"4.0","424.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","38.0","Programa Federal de Reconversión Productiva","7525362.0"
+"4.0","425.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","40.0","Formulación de Políticas de Desarrollo Regional","1.9765884E7"
+"4.0","426.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","41.0","Programa de Servicios Agrícolas Provinciales - PROSAP (BID 899 y 1956 y BIRF 4150 y  7425)","1.21218E8"
+"4.0","427.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","42.0","Articulación de Relaciones Institucionales y Comunicacionales","2.4690461E7"
+"4.0","428.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","16.0","Investigación y Desarrollo Pesquero","5.5157E7"
+"4.0","429.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","16.0","Administración y Control Comercial Agropecuario","2.578468E9"
+"4.0","430.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","40.0","Promocion del Comercio y Produccion de Semillas","2.47468E7"
+"4.0","431.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","1.0","Actividades Centrales del Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA)","2.23920821E8"
+"4.0","432.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","16.0","Protección Vegetal","1.07362364E8"
+"4.0","433.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","17.0","Servicios de Laboratorios","8.3531738E7"
+"4.0","434.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","18.0","Aprobación de Agroquím. Productos Farmacológ. y Veterinarios","1.3460775E7"
+"4.0","435.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","19.0","Fiscalización Agroalimentaria","3.26823686E8"
+"4.0","436.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","20.0","Sanidad Animal","1.7864374E8"
+"4.0","437.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","52.0","Ministerio de Agricultura, Ganadería y Pesca","22.0","Acciones para Contribuir a Asegurar la Sanidad y Calidad Agroalimentaria","0.0"
+"4.0","438.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","19.0","Recursos Hídricos","8545000.0"
+"4.0","439.0","2011-01-31T00:00:00Z","Servicios económicos","5.0","Agricultura","91.0","Obligaciones a Cargo del Tesoro","94.0","Asistencia Financiera a Sectores Económicos","1.075014E9"
+"4.0","440.0","2011-01-31T00:00:00Z","Servicios económicos","6.0","Industria","51.0","Ministerio de Industria","24.0","Fomento de la Pequeña y Mediana Empresa","1.71688533E8"
+"4.0","441.0","2011-01-31T00:00:00Z","Servicios económicos","6.0","Industria","51.0","Ministerio de Industria","56.0","Formulación y Aplicación de Políticas para la Industria","4.5242643E7"
+"4.0","442.0","2011-01-31T00:00:00Z","Servicios económicos","6.0","Industria","51.0","Ministerio de Industria","18.0","Protección de los Derechos de la Propiedad Industrial","6.3916836E7"
+"4.0","443.0","2011-01-31T00:00:00Z","Servicios económicos","6.0","Industria","52.0","Ministerio de Agricultura, Ganadería y Pesca","16.0","Control de Genuinidad de la Producción Vitivinícola","1.26326E8"
+"4.0","444.0","2011-01-31T00:00:00Z","Servicios económicos","6.0","Industria","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","16.0","Producción y Comercialización de Bienes y Servicios - Dirección General de Fabricaciones Militares","3.32962E8"
+"4.0","445.0","2011-01-31T00:00:00Z","Servicios económicos","6.0","Industria","91.0","Obligaciones a Cargo del Tesoro","90.0","Atención estado de Emergencia por Inundaciones e Inclemencias Climáticas","673000.0"
+"4.0","446.0","2011-01-31T00:00:00Z","Servicios económicos","6.0","Industria","91.0","Obligaciones a Cargo del Tesoro","94.0","Asistencia Financiera a Sectores Económicos","3.07651E8"
+"4.0","447.0","2011-01-31T00:00:00Z","Servicios económicos","6.0","Industria","91.0","Obligaciones a Cargo del Tesoro","95.0","Asistencia Financiera a Empresas Públicas y Ente Binacional","5000000.0"
+"4.0","448.0","2011-01-31T00:00:00Z","Servicios económicos","6.0","Industria","91.0","Obligaciones a Cargo del Tesoro","99.0","Otras Asistencias Financieras","7959863.0"
+"4.0","449.0","2011-01-31T00:00:00Z","Servicios económicos","7.0","Comercio, turismo y otros servicios","50.0","Ministerio de Economía y Finanzas Públicas","30.0","Definición de Políticas de Comercio Interior","4.0854257E7"
+"4.0","450.0","2011-01-31T00:00:00Z","Servicios económicos","7.0","Comercio, turismo y otros servicios","50.0","Ministerio de Economía y Finanzas Públicas","31.0","Defensa de la Libre Competencia","1.0115132E7"
+"4.0","451.0","2011-01-31T00:00:00Z","Servicios económicos","7.0","Comercio, turismo y otros servicios","50.0","Ministerio de Economía y Finanzas Públicas","35.0","Defensa del Consumidor","1.6950821E7"
+"4.0","452.0","2011-01-31T00:00:00Z","Servicios económicos","7.0","Comercio, turismo y otros servicios","51.0","Ministerio de Industria","8.0","Actividades Comunes a los Programas 17 y 56","2.0240172E7"
+"4.0","453.0","2011-01-31T00:00:00Z","Servicios económicos","7.0","Comercio, turismo y otros servicios","51.0","Ministerio de Industria","17.0","Definición de Políticas de Comercio Exterior","3.9417803E7"
+"4.0","454.0","2011-01-31T00:00:00Z","Servicios económicos","7.0","Comercio, turismo y otros servicios","51.0","Ministerio de Industria","33.0","Análisis y Regul.de la Competencia Comercial Internacional","1.1345655E7"
+"4.0","455.0","2011-01-31T00:00:00Z","Servicios económicos","7.0","Comercio, turismo y otros servicios","53.0","Ministerio de Turismo","1.0","Actividades Centrales","9.6106708E7"
+"4.0","456.0","2011-01-31T00:00:00Z","Servicios económicos","7.0","Comercio, turismo y otros servicios","53.0","Ministerio de Turismo","16.0","Desarrollo y Promoción del Turismo Nacional","5.8957724E7"
+"4.0","457.0","2011-01-31T00:00:00Z","Servicios económicos","7.0","Comercio, turismo y otros servicios","53.0","Ministerio de Turismo","18.0","Prestaciones Turísticas","8.7539445E7"
+"4.0","458.0","2011-01-31T00:00:00Z","Servicios económicos","7.0","Comercio, turismo y otros servicios","53.0","Ministerio de Turismo","16.0","Promoción del Turismo Receptivo Internacional","9.5967509E7"
+"4.0","459.0","2011-01-31T00:00:00Z","Servicios económicos","7.0","Comercio, turismo y otros servicios","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","25.0","Ejecución de Obras de Arquitectura","1.88472757E8"
+"4.0","460.0","2011-01-31T00:00:00Z","Servicios económicos","8.0","Seguros y finanzas","50.0","Ministerio de Economía y Finanzas Públicas","16.0","Control y Fiscalización de la Oferta Pública - Comisión Nacional de Valores","3.5173275E7"
+"4.0","461.0","2011-01-31T00:00:00Z","Servicios económicos","8.0","Seguros y finanzas","50.0","Ministerio de Economía y Finanzas Públicas","16.0","Control y Fiscalización de la Actividad Aseguradora y Reaseguradora","6.7196E7"
+"4.0","462.0","2011-01-31T00:00:00Z","Servicios económicos","8.0","Seguros y finanzas","91.0","Obligaciones a Cargo del Tesoro","96.0","Atención Servicios Financieros y Gastos Judiciales","6000000.0"
+"4.0","463.0","2011-01-31T00:00:00Z","Servicios económicos","8.0","Seguros y finanzas","91.0","Obligaciones a Cargo del Tesoro","99.0","Otras Asistencias Financieras","1.0375E8"
+"5.0","464.0","2011-01-31T00:00:00Z","Deuda pública","1.0","Servicio de la deuda pública (intereses y gastos)","45.0","Ministerio de Defensa","16.0","Elaboración y Actualización de Cartografía Básica Nacional","27400.0"
+"5.0","465.0","2011-01-31T00:00:00Z","Deuda pública","1.0","Servicio de la deuda pública (intereses y gastos)","51.0","Ministerio de Industria","16.0","Desarrollo y Competitividad Industrial","862000.0"
+"5.0","466.0","2011-01-31T00:00:00Z","Deuda pública","1.0","Servicio de la deuda pública (intereses y gastos)","52.0","Ministerio de Agricultura, Ganadería y Pesca","1.0","Actividades Centrales","1000000.0"
+"5.0","467.0","2011-01-31T00:00:00Z","Deuda pública","1.0","Servicio de la deuda pública (intereses y gastos)","52.0","Ministerio de Agricultura, Ganadería y Pesca","16.0","Control de Genuinidad de la Producción Vitivinícola","135000.0"
+"5.0","468.0","2011-01-31T00:00:00Z","Deuda pública","1.0","Servicio de la deuda pública (intereses y gastos)","52.0","Ministerio de Agricultura, Ganadería y Pesca","1.0","Actividades Centrales","8314239.0"
+"5.0","469.0","2011-01-31T00:00:00Z","Deuda pública","1.0","Servicio de la deuda pública (intereses y gastos)","52.0","Ministerio de Agricultura, Ganadería y Pesca","22.0","Acciones para Contribuir a Asegurar la Sanidad y Calidad Agroalimentaria","0.0"
+"5.0","470.0","2011-01-31T00:00:00Z","Deuda pública","1.0","Servicio de la deuda pública (intereses y gastos)","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","1.0","Actividades Centrales","8.0352E7"
+"5.0","471.0","2011-01-31T00:00:00Z","Deuda pública","1.0","Servicio de la deuda pública (intereses y gastos)","56.0","Ministerio de Planificación Federal, Inversión Pública y Servicios","20.0","Asistencia Técnico - Financiera y Desarrollo de Infraestructura para el Saneamiento","2.3085E7"
+"5.0","472.0","2011-01-31T00:00:00Z","Deuda pública","1.0","Servicio de la deuda pública (intereses y gastos)","71.0","Ministerio de Ciencia, Tecnología e Innovación Productiva","1.0","Actividades Centrales","2309000.0"
+"5.0","473.0","2011-01-31T00:00:00Z","Deuda pública","1.0","Servicio de la deuda pública (intereses y gastos)","80.0","Ministerio de Salud","54.0","Control y Fiscalización de Medicamentos, Alimentos y Productos Médicos","260035.0"
+"5.0","474.0","2011-01-31T00:00:00Z","Deuda pública","1.0","Servicio de la deuda pública (intereses y gastos)","80.0","Ministerio de Salud","95.0","Servicios de la Deuda","27000.0"
+"5.0","475.0","2011-01-31T00:00:00Z","Deuda pública","1.0","Servicio de la deuda pública (intereses y gastos)","80.0","Ministerio de Salud","50.0","Regulación y Control del Sistema de Salud","500000.0"
+"5.0","476.0","2011-01-31T00:00:00Z","Deuda pública","1.0","Servicio de la deuda pública (intereses y gastos)","90.0","Servicio de la Deuda Pública","98.0","Deudas Directas de la Administración Central","3.6265553E10"
