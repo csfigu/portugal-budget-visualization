@@ -1,0 +1,280 @@
+<?php
+
+/*
+ * Allows permitted users to create tasks, and other users to commit to them, and be credited when the tasks are completed
+ * Uncompleted tasks nodes are owned by user 1, committed tasks are owned by whoever committed to them
+ * Completed tasks have the node flag 'promote
+ */
+
+/**
+ * http://api.drupal.org/api/function/hook_help/6
+ */
+function community_tasks_help($section) {
+  switch ($section) {
+    case 'admin/help#community_task':
+      return t('A contentType which tracks tasks needing doing, who committed to them, and who completed them.');
+  }
+}
+
+/**
+ * http://api.drupal.org/api/function/hook_node_info/6
+ * This hook is required for modules to define one or more node types.
+ */
+function community_tasks_node_info() {
+  $types['community_task'] = array(
+    'name' => t('Community tasks'),
+    'base' => 'community_tasks',
+    'description' => t('A way to post tasks the community needs volunteers for, for members to volunteer for those tasks, and to be credited when the tasks are done.') .
+      t('Tasks have three states - open, committed, and completed.'),
+    'has_title' => TRUE,
+    'title_label' => t('A need to be met by a user'),
+    'status' => TRUE,
+    'promote' => FALSE,
+  );
+  return $types;
+}
+
+/**
+ * implements hook_views_api
+ */
+function community_tasks_views_api() {
+  return array(
+    'api' => 2,
+    'path' => drupal_get_path('module', 'community_tasks'),
+  );
+}
+
+/**
+ * http://api.drupal.org/api/function/hook_permission/6
+ * This hook can supply permissions that the module defines,
+ */
+function community_tasks_permission() {
+  return array(
+    'view tasks' => array(
+      'title' => t('view tasks'),
+      'description' => t('view tasks in any state'),
+    ),
+    'edit tasks' => array(
+      'title' => t('edit tasks'),
+      'description' => t('edit tasks in any state'),
+    ),
+    'commit to tasks' => array(
+      'title' => t('commit to tasks'),
+      'description' => t('commit to to task (not user 1)'),
+    ),
+  );
+}
+
+/**
+ * http://api.drupal.org/api/function/hook_node_access/6
+ * this function is called by node_access, and others in this module
+ */
+function community_tasks_node_access($node, $op, $account) {
+  switch ($op) {
+    case 'update':
+    case 'create':
+      return user_access('edit tasks');
+    case 'view':
+      return user_access('view tasks');
+  }
+}
+
+
+/**
+ * implements node hook_form 
+ */
+function community_tasks_form($node) {
+
+  if ($node->title) {
+    drupal_set_title(t('Edit commitment'));
+  }
+  else {
+    drupal_set_title(t('Create task'));
+    $node->promote = 0;
+    $node->uid = 1;
+  }
+  //this type consists only of the title and the user who completed it.
+  $form['title'] = array(
+    '#type' => 'textfield',
+    '#title' => check_plain($type->title_label),
+    '#required' => TRUE,
+    '#default_value' => $node->title,
+    '#weight' => -1,
+  );
+  $type = node_type_get_type('community_task');
+  if ($type->has_body) {
+    $form['body'] = array(
+      '#type' => 'textarea',
+      '#title' => check_plain($type->body_label),
+      '#required' => FALSE,
+      '#default_value' => $node->body,
+      '#weight' => 0,
+    );
+  }
+
+  $completer  = user_load($node->uid);
+  $admin = user_load(1);
+  $form['name'] = array(//we know this field is processed by the node handler
+    '#type' => 'textfield',
+    '#title' => t('Who has committed to this task?'),
+    '#autocomplete_path' => 'user/autocomplete',
+    '#default_value' => $completer->name,
+    '#weight' => 1,
+    '#description' => t('Uncommitted tasks are owned by user 1'),
+  );
+  return $form;
+}
+
+/**
+ * Implements hook_form_alter)().
+ * http://api.drupal.org/api/function/hook_form_alter/6
+ */
+function community_tasks_form_alter(&$form, $form_state, $form_id) {
+  if ($form_id == 'community_task_node_form') {
+    $form['menu']['#access'] = FALSE;
+    $form['path']['#access'] = FALSE;
+    $form['comment_settings']['#access'] = FALSE;
+    $form['revision_information']['#access'] = FALSE;
+    $form['promote'] = $form['options']['promote'];
+    $form['promote']['#title'] = t('Is this completed?');
+    unset($form['author']);
+    unset($form['options']);
+    unset($form['buttons']['preview']);
+  }
+}
+
+/**
+ * Implements hook_view)().
+ * http://api.drupal.org/api/function/hook_insert/6
+ */
+function community_tasks_view($node) {
+  drupal_add_css(drupal_get_path('module', 'community_tasks') . '/theme/community_task.css');
+  $node->content['body']['#value'] = $node->body;
+  //add the button for anyone but admin to commit themselves
+  if ($node->uid == 1 && $GLOBALS['user']->uid != 1 ) {
+    $node->content['body']['#value'] .= drupal_get_form('commit_button_form', $node->nid);
+  }
+  return $node;
+}
+
+/**
+ * Implements hook_nodeapi_update
+ */
+function community_tasks_nodeapi_update($op, &$node) {
+  if ($node->uid == 0) {
+    $node->uid = 1;
+  }
+  db_query(
+   'UPDATE node SET uid = :uid WHERE nid = :nid', 
+    array(
+      ':uid' => $node->uid, 
+      ':nid' => $node->nid
+    )
+  );
+}
+
+/**
+ * Implements hook_nodeapi_insert
+ */
+function community_tasks_nodeapi_insert($op, &$node) {
+  community_tasks_recount($node->uid);
+  //goes to the main view
+  drupal_goto('tasks');
+}
+/**
+ * Implements hook_nodeapi_delete
+ */
+function community_tasks_nodeapi_delete($op, &$node) {
+  community_tasks_recount($node->uid);
+  //goes to the main view
+  drupal_goto('tasks');
+
+}
+
+/**
+ * Implements hook_theme
+ */
+function community_tasks_theme() {
+  return array(
+    'acknowledgements' => array(
+      'function' => 'theme_acknowledgements',
+      'variables' => array('quantity' => NULL),
+    ),
+  );
+}
+
+/**
+ * recounts the transactions and saves them in the counter table
+ */
+function community_tasks_recount($uid) {
+  $count = db_query(
+    "SELECT count(uid) from {node} WHERE uid = :uid AND type = :type", 
+    array(':uid' => $uid, ':type' => 'community_task'))->fetchField();
+
+  /* db_query("UPDATE {community_task_count} SET tasks = %d WHERE uid = %d", array(':count' => $count, ':uid' => $uid)) */
+  $debug = db_update('community_task_count')
+  ->fields(array(
+    'tasks' => array(
+      ':count' => $count, 
+      ':uid' => $uid['0'],
+    )
+  ))
+  ->condition('uid', array(':count' => $count, ':uid' => $uid['1']))
+  ->execute();
+
+  if (!db_affected_rows()) {
+    @db_query("INSERT INTO {community_task_count} (uid, tasks) VALUES ('%d', %d)",
+      array(':uid' => $uid, ':count' => $count)
+    );
+  }
+}
+
+/**
+ * Implements hook_user_view().
+ */
+function community_tasks_user_view($account, $view_mode) {
+  $acknowledgements = intval(db_query('SELECT tasks FROM {community_task_count} WHERE uid = :uid', array(':uid' => array(':account' => $account->uid)))->fetchField());
+  $account->content['acknowledgements'] = array(
+        '#type' => user_profile_item,
+        '#title' => 'Acknowledgements', //this is a temporary plural hack, and will be themed out anyway
+        '#value' => theme('acknowledgements', array('quantity' => $acknowledgements)),
+        '#weight' => 1,
+      );
+}
+
+function user_acknowledgements($uid) {
+  $user = user_load($uid);
+  drupal_set_title(t("@user's acknowledgements", array('@user' => $user->name)), PASS_THROUGH);
+  $view = views_get_view('tasks_completed_by_user');
+  return $view->execute_display('default', array($uid));
+}
+
+/**
+ * theme callback display the acknowledgements
+ */
+function theme_acknowledgements($variables) {
+  $string  = format_plural($variables['quantity'], '1 task completed', '@count tasks completed');
+  return '<div class="acknowledgements">' . $string  . '</div>';
+}
+
+function commit_button_form($form, $form_state, $nid) {
+  $form['nid'] = array(
+    '#type' => 'hidden',
+    '#default_value' => $nid,
+  );
+  $form['submit'] = array(
+    '#type' => 'submit',
+    '#value' => t('Commit to this task'),
+  );
+  $form_state['#redirect'] = 'user/' . $GLOBALS['user']->uid . '/community_tasks';
+  return $form;
+}
+
+function commit_button_form_submit($form, $form_state) {
+  // TODO Please review the conversion of this statement to the D7 database API syntax.
+  /* db_query("UPDATE {node} SET uid = %d WHERE nid = %d", array(':uid' => $GLOBALS['user']->uid, ':nid' => $form_state['values']['nid'])) */
+  db_update('node', 'n')
+  ->fields(array('uid' => $GLOBALS['user']->uid))
+  ->condition('nid', $form_state['values']['nid'])
+  ->execute();
+}

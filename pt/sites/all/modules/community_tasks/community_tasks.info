@@ -1,0 +1,16 @@
+; $Id: community_tasks.info,v 1.2 2009/08/15 15:56:15 matslats Exp $
+name = Community Tasks
+description = Users sign up to volunteer task requests and are credited when they are completed
+package = Complementary Currencies
+core = 7.x
+files[] = community_tasks.install
+files[] = community_tasks.module
+files[] = community_tasks.views.inc
+files[] = theme/node-community_task.tpl.php
+
+; Information added by drupal.org packaging script on 2011-05-19
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "community_tasks"
+datestamp = "1305763571"
+

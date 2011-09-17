@@ -303,7 +303,7 @@ class CalaisRdfProcessor {
       'latitude' => $data[self::CALAIS_LAT][0],
       'longitude' => $data[self::CALAIS_LON][0],
       'shortname' => $data['http://s.opencalais.com/1/pred/shortname'][0],
-      'containedbycountry' => $data['http://s.opencalais.com/1/pred/containedbycountry'][0],
+      'containedbycountry' => isset($data['http://s.opencalais.com/1/pred/containedbycountry']) ? $data['http://s.opencalais.com/1/pred/containedbycountry'][0] : '',
     );
     $this->apply_resolved_data($keywords, $guid, $data, 'geo', $extra);
   }
@@ -376,7 +376,7 @@ class CalaisRdfProcessor {
     $uris = array();
     if (array_key_exists($guid, $triples)) {
       $sameas = $triples[$guid][self::SAMEAS];
-      if (count($sameas)) {
+      if (count($sameas) && is_array($sameas)) {
         foreach ($sameas as $uri) {
           $parts = parse_url($uri);
           $uris[$parts['host']] = $uri;

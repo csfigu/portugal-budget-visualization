@@ -1,0 +1,52 @@
+<?php
+// $Id: community_tasks.install,v 1.2 2010/11/16 03:00:25 matslats Exp $
+
+/**
+ * @file
+ * Install, update and uninstall functions for the community_tasks module.
+ *
+ */
+
+/**
+ * Implements hook_install().
+ */
+function community_tasks_install() {
+  //this does not seek out and incorporate existing nodes of type 'requack'
+  // TODO The drupal_(un)install_schema functions are called automatically in D7.
+  // drupal_install_schema('community_tasks')
+}
+
+
+/**
+ * Implements hook_uninstall().
+ */
+function community_tasks_uninstall() {
+  //this does not delete any nodes of type 'requack'
+  // TODO The drupal_(un)install_schema functions are called automatically in D7.
+  // drupal_uninstall_schema('community_tasks')
+}
+
+/**
+ * Implements hook_schema)().
+ * http://api.drupal.org/api/function/hook_schema/6
+ */
+function community_tasks_schema() {
+  //the sole purpose of this table is to expose the counter to views.
+  //Otherwise we would use a data field in $account
+  $schema['community_task_count'] = array(
+  'description' => "User's totals of community tasks accomplished",
+    'fields' => array(
+      'uid' => array(
+        'description' => 'the user ID',
+        'type' => 'int',
+        'size' => 'normal',
+      ),
+      'tasks' => array(
+        'description' => 'Number of community tasks completed',
+        'type' => 'int',
+        'size' => 'normal',
+      ),
+    )
+  );
+  return $schema;
+}
